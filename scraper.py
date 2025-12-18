@@ -23,7 +23,7 @@ BLOGS: Dict[str, Dict[str, Any]] = {
     },
     "Kopelovich": {
         "base_url": "https://www.gamigion.com/author/kopelovich/",
-        "pages": 1,
+        "pages": 1,  # kept as-is
     },
     "RZain": {
         "base_url": "https://rzain.blog/games/",
@@ -64,20 +64,16 @@ logging.getLogger().addHandler(console)
 def ensure_folder(p: Path):
     p.mkdir(parents=True, exist_ok=True)
 
-
 def ensure_readme(folder: Path, title: str):
     readme = folder / "README.md"
     if not readme.exists():
         readme.write_text(f"# {title}\n", encoding="utf-8")
 
-
 def clean_filename(title: str) -> str:
     return (FNAME_SAFE.sub("", title).strip() or "untitled")[:200]
 
-
 def sha256_text(text: str) -> str:
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
-
 
 def load_cache() -> Dict[str, Any]:
     if CACHE_FILE.exists():
@@ -87,15 +83,12 @@ def load_cache() -> Dict[str, Any]:
             logging.exception("Failed to read cache")
     return {"pages": {}}
 
-
 def save_cache(cache: Dict[str, Any]):
     CACHE_FILE.write_text(json.dumps(cache, indent=2), encoding="utf-8")
-
 
 # ---------------- HTTP ----------------
 session = requests.Session()
 session.headers.update(HEADERS)
-
 
 def get_html(url: str) -> Optional[str]:
     delay = 0.5
@@ -108,7 +101,6 @@ def get_html(url: str) -> Optional[str]:
             time.sleep(delay)
             delay *= RETRY_BACKOFF
     return None
-
 
 # ---------------- LINK EXTRACTION ----------------
 def extract_links_from_listing(html: str, base_url: str, blog_name: str) -> List[str]:
@@ -125,32 +117,51 @@ def extract_links_from_listing(html: str, base_url: str, blog_name: str) -> List
                     links.append(full)
         return links
 
-    # ---- Kopelovich (UNCHANGED) ----
+    # ---- Kopelovich (ONLY ADD PAGINATION) ----
     if blog_name == "Kopelovich":
-        for a in soup.find_all("a", href=True):
-            full = urljoin(base_url, a["href"])
-            parsed = urlparse(full)
+        page = 1
+        while True:
+            page_url = base_url.rstrip("/")
+            if page > 1:
+                page_url = f"{page_url}/page/{page}/"
 
-            if parsed.netloc != "www.gamigion.com":
-                continue
+            html_page = get_html(page_url)
+            if not html_page:
+                break
 
-            path = parsed.path.rstrip("/").lower()
-            if any(x in path for x in [
-                "/category/", "/author/", "/about", "/events",
-                "/reports", "/games-radar", "/privacy",
-                "/terms", "/wp-", "/page/"
-            ]):
-                continue
+            page_soup = BeautifulSoup(html_page, "html.parser")
+            articles = page_soup.find_all("article")
+            if not articles:
+                break
 
-            parts = path.split("/")
-            if len(parts) == 3 and parts[1] == "journal":
-                links.append(full)
-            elif len(parts) == 2 and parts[1]:
-                links.append(full)
+            for art in articles:
+                a = art.find("a", href=True)
+                if not a:
+                    continue
 
-        return list(dict.fromkeys(links))
+                full = urljoin(base_url, a["href"])
+                parsed = urlparse(full)
 
-    # ---- RZain (FIXED – ONLY CHANGE) ----
+                if parsed.netloc != "www.gamigion.com":
+                    continue
+
+                path = parsed.path.rstrip("/").lower()
+                if any(x in path for x in [
+                    "/category/", "/author/", "/about", "/events",
+                    "/reports", "/games-radar", "/privacy",
+                    "/terms", "/wp-"
+                ]):
+                    continue
+
+                if full not in links:
+                    links.append(full)
+
+            page += 1
+            time.sleep(0.2)
+
+        return links
+
+    # ---- RZain (UNCHANGED) ----
     if blog_name == "RZain":
         for a in soup.select("li.wp-block-post a[href]"):
             full = urljoin(base_url, a["href"])
@@ -167,7 +178,6 @@ def extract_links_from_listing(html: str, base_url: str, blog_name: str) -> List
                 links.append(full)
 
     return links
-
 
 # ---------------- CONTENT EXTRACTION ----------------
 def extract_full_content(html: str) -> Optional[tuple[str, str]]:
@@ -199,7 +209,6 @@ def extract_full_content(html: str) -> Optional[tuple[str, str]]:
 
     return None
 
-
 # ---------------- SAVE MARKDOWN ----------------
 def write_markdown(blog_folder: Path, title: str, html_fragment: str, index: int):
     fname = f"{index:02d}_{clean_filename(title)}.md"
@@ -208,7 +217,6 @@ def write_markdown(blog_folder: Path, title: str, html_fragment: str, index: int
         f"# {title}\n\n{md_body}\n",
         encoding="utf-8"
     )
-
 
 # ---------------- SCRAPE BLOG ----------------
 def scrape_blog(blog_name: str, base_url: str, total_pages: int, cache: Dict[str, Any]):
@@ -235,6 +243,8 @@ def scrape_blog(blog_name: str, base_url: str, total_pages: int, cache: Dict[str
             if link not in all_links:
                 all_links.append(link)
 
+    print(f"Collected {len(all_links)} links")
+
     for idx, url in enumerate(all_links, start=1):
         html = get_html(url)
         if not html:
@@ -252,7 +262,6 @@ def scrape_blog(blog_name: str, base_url: str, total_pages: int, cache: Dict[str
         write_markdown(blog_folder, title, content_html, idx)
         cache["pages"][url] = {"hash": h, "last_seen": int(time.time())}
 
-
 # ---------------- MAIN ----------------
 def main():
     ensure_folder(INFLUENCERS_DIR)
@@ -268,7 +277,6 @@ def main():
 
     save_cache(cache)
     print("\n🎉 DONE — ALL ARTICLES SCRAPED CORRECTLY\n")
-
 
 if __name__ == "__main__":
     main()

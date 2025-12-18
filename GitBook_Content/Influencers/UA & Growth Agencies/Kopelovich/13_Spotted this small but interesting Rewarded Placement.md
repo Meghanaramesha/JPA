@@ -75,6 +75,18 @@ Events](https://www.gamigion.com/events/)
 
 ### You may also like
 
+[![](https://www.gamigion.com/wp-content/uploads/2025/12/MTJ-620x349.jpeg)](https://www.gamigion.com/my-day-to-day-ua-rhythm-first-21-day-timeline/) 
+
+[*trending\_flat*](https://www.gamigion.com/my-day-to-day-ua-rhythm-first-21-day-timeline/)
+
+[Journal](https://www.gamigion.com/category/journal/)
+
+##### [My Day-to-day UA Rhythm? First 21-day Timeline.](https://www.gamigion.com/my-day-to-day-ua-rhythm-first-21-day-timeline/)
+
+[Matej Lancaric](https://www.gamigion.com/author/matejlancaric/)
+
+December 18
+
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/TOP-10-Hybridcasual-WEEK2-Dec-2025-496x620.jpg)](https://www.gamigion.com/top-10-hybridcasual-week-2-dec-2025/) 
 
 [*trending\_flat*](https://www.gamigion.com/top-10-hybridcasual-week-2-dec-2025/)
@@ -94,18 +106,6 @@ December 18
 [Highlights](https://www.gamigion.com/category/highlights/)
 
 ##### [YouTube Playables Builder: Gemini Turns Content Into Games](https://www.gamigion.com/youtube-playables-builder-gemini-turns-content-into-games/)
-
-[Gamigion](https://www.gamigion.com/author/admin/)
-
-December 17
-
-[![](https://www.gamigion.com/wp-content/uploads/2025/12/gorsel_2025-12-17_173712244-620x349.png)](https://www.gamigion.com/dream-games-is-paying-7000-net-to-new-grads/) 
-
-[*trending\_flat*](https://www.gamigion.com/dream-games-is-paying-7000-net-to-new-grads/)
-
-[Highlights](https://www.gamigion.com/category/highlights/)
-
-##### [Dream Games is Paying $7,000 Net to New Grads!](https://www.gamigion.com/dream-games-is-paying-7000-net-to-new-grads/)
 
 [Gamigion](https://www.gamigion.com/author/admin/)
 

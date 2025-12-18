@@ -35,6 +35,18 @@ MARKETING](https://www.gamigion.com/tag/useracquisition/)
 [*![BUSINESS](https://www.gamigion.com/wp-content/uploads/2024/10/business-purple.png)*
 BUSINESS](https://www.gamigion.com/tag/gamingbusiness/)
 
+[![](https://www.gamigion.com/wp-content/uploads/2025/12/MTJ-620x349.jpeg)](https://www.gamigion.com/my-day-to-day-ua-rhythm-first-21-day-timeline/) 
+
+[*trending\_flat*](https://www.gamigion.com/my-day-to-day-ua-rhythm-first-21-day-timeline/)
+
+[Journal](https://www.gamigion.com/category/journal/)
+
+##### [My Day-to-day UA Rhythm? First 21-day Timeline.](https://www.gamigion.com/my-day-to-day-ua-rhythm-first-21-day-timeline/)
+
+[Matej Lancaric](https://www.gamigion.com/author/matejlancaric/)
+
+December 18
+
 [![](https://www.gamigion.com/wp-content/uploads/2025/12/TOP-10-Hybridcasual-WEEK2-Dec-2025-496x620.jpg)](https://www.gamigion.com/top-10-hybridcasual-week-2-dec-2025/) 
 
 [*trending\_flat*](https://www.gamigion.com/top-10-hybridcasual-week-2-dec-2025/)
@@ -164,18 +176,6 @@ December 16
 ##### [Bringing your Game Idea to Life?](https://www.gamigion.com/bringing-your-game-idea-to-life/)
 
 [Tom Storr](https://www.gamigion.com/author/tomstorr/)
-
-December 16
-
-[![](https://www.gamigion.com/wp-content/uploads/2025/12/ZMD-349x620.jpeg)](https://www.gamigion.com/mobile-games-to-keep-dominating-global-entertainment-in-2026/) 
-
-[*trending\_flat*](https://www.gamigion.com/mobile-games-to-keep-dominating-global-entertainment-in-2026/)
-
-[Journal](https://www.gamigion.com/category/journal/)
-
-##### [Mobile Games to keep dominating global entertainment in 2026](https://www.gamigion.com/mobile-games-to-keep-dominating-global-entertainment-in-2026/)
-
-[Elizaveta Savenkova](https://www.gamigion.com/author/elizavetasavenkova/)
 
 December 16
 
