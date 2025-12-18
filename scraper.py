@@ -211,7 +211,7 @@ def extract_full_content(html: str) -> Optional[tuple[str, str]]:
 
 # ---------------- SAVE MARKDOWN ----------------
 def write_markdown(blog_folder: Path, title: str, html_fragment: str, index: int):
-    fname = f"{index:02d}_{clean_filename(title)}.md"
+    fname = f"{index:03d}_{clean_filename(title)}.md"
     md_body = markdownify.markdownify(html_fragment, heading_style="ATX")
     (blog_folder / fname).write_text(
         f"# {title}\n\n{md_body}\n",
