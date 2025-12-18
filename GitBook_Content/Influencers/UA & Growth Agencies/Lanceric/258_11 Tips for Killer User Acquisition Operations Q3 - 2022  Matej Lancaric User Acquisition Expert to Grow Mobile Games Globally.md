@@ -1,3 +1,7 @@
+---
+title: "11 Tips for Killer User Acquisition Operations Q3 - 2022  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # 11 Tips for Killer User Acquisition Operations Q3 - 2022 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![UA post idfa tips](https://lancaric.me/wp-content/uploads/2023/05/346026ea-5b4a-41c8-aafc-ba4a50a170c8_progress_image_50.webp) 

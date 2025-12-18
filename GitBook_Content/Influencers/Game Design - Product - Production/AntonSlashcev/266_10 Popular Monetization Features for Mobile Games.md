@@ -1,3 +1,7 @@
+---
+title: "10 Popular Monetization Features for Mobile Games"
+---
+
 # 10 Popular Monetization Features for Mobile Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/10-Popular-Monetization-Features-for-Mobile-Games.jpg)

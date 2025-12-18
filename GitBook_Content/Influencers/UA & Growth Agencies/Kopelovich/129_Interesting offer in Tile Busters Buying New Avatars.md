@@ -1,3 +1,7 @@
+---
+title: "Interesting offer in Tile Busters Buying New Avatars"
+---
+
 # Interesting offer in Tile Busters: Buying New Avatars
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

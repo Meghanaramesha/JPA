@@ -1,3 +1,7 @@
+---
+title: "Want To Be A Top 1 Game Producer"
+---
+
 # Want To Be A Top 1% Game Producer?
 
 ##### Here are 20 harsh truths you need to embrace:

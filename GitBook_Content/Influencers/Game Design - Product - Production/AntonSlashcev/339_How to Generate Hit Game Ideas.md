@@ -1,3 +1,7 @@
+---
+title: "How to Generate Hit Game Ideas"
+---
+
 # How to Generate Hit Game Ideas?
 
 **Here Are 20 Creative Ways:**  

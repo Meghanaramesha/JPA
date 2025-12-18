@@ -1,3 +1,7 @@
+---
+title: "What acquiring Warner Bros means for Games"
+---
+
 # What acquiring Warner Bros means for Games?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/What-acquiring-Warner-Bros-means-for-Games.jpg)

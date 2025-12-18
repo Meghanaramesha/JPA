@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Saying NO to Millions revenues Balatro Power combo of Poker  Solitaire  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Saying NO to Millions revenues?! Balatro: Power combo of Poker & Solitaire – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/balatro.png) 

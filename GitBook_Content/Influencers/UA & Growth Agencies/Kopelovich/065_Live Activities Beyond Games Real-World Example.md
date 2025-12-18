@@ -1,3 +1,7 @@
+---
+title: "Live Activities Beyond Games Real-World Example"
+---
+
 # Live Activities Beyond Games: Real-World Example
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

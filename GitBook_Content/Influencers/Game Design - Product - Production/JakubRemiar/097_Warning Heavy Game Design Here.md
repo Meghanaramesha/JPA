@@ -1,3 +1,7 @@
+---
+title: "Warning Heavy Game Design Here"
+---
+
 # Warning! Heavy Game Design Here
 
 ###### Warning ☢️ Heavy Game Design post ahead 😁.

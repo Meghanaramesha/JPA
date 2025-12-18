@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 93 - Hybrid casual Tower War The evolution of core gameplay growth  creatives admon excellense  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #93 - Hybrid casual Tower War: The evolution of core gameplay, growth & creatives, admon excellense – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/01/session-93.jpg) 

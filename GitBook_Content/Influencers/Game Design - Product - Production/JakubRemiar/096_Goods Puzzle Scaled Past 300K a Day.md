@@ -1,3 +1,7 @@
+---
+title: "Goods Puzzle Scaled Past 300K a Day"
+---
+
 # Goods Puzzle Scaled Past $300K a Day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Goods-Puzzle-Scaled-Past-300K-a-Day.jpg)

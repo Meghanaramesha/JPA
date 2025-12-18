@@ -1,3 +1,7 @@
+---
+title: "Season Pass 101"
+---
+
 # Season Pass 101
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-34.jpg)

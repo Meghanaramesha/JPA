@@ -1,3 +1,7 @@
+---
+title: "US Only soft-launch Top Girl scaled to 80KDay"
+---
+
 # US Only soft-launch: Top Girl scaled to $80K/Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Day.jpg)

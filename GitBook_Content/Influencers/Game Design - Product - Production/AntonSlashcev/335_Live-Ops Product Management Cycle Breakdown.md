@@ -1,3 +1,7 @@
+---
+title: "Live-Ops Product Management Cycle Breakdown"
+---
+
 # Live-Ops Product Management: Cycle Breakdown
 
 **Product management during the live-ops stage is very much like maneuvering ships in the open ocean. 🌊**  

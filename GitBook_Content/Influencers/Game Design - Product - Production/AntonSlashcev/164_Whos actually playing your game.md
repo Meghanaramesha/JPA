@@ -1,3 +1,7 @@
+---
+title: "Whos actually playing your game"
+---
+
 # Who’s actually playing your game?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Whos-actually-playing-your-game.jpg)

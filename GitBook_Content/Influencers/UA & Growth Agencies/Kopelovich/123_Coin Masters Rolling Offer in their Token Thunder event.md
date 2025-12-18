@@ -1,3 +1,7 @@
+---
+title: "Coin Masters Rolling Offer in their Token Thunder event"
+---
+
 # Coin Master’s “Rolling Offer” in their Token Thunder event
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

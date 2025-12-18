@@ -1,3 +1,7 @@
+---
+title: "What Is Game Economy Design Really  Charlie Czerkawski"
+---
+
 # What Is Game Economy Design Really? | Charlie Czerkawski
 
 **YouTube URL:** https://www.youtube.com/watch?v=my-zcHqB1d0

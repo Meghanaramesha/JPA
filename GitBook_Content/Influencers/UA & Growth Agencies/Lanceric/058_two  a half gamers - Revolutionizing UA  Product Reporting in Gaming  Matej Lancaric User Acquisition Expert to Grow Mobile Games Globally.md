@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Revolutionizing UA  Product Reporting in Gaming  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Revolutionizing UA & Product Reporting in Gaming! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/11/Lancaric.me-1640-x-432-px-2.png) 

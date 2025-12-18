@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/what-do-you-like-most-about-your-job
-title: What Do You Like Most About Your Job?
+title: "What Do You Like Most About Your Job"
 ---
 
 # What Do You Like Most About Your Job?

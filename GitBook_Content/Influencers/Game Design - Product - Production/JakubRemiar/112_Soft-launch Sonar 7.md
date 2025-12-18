@@ -1,3 +1,7 @@
+---
+title: "Soft-launch Sonar 7"
+---
+
 # Soft-launch Sonar #7
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Soft-launch-Sonar-7.jpg)

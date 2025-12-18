@@ -1,3 +1,7 @@
+---
+title: "10 funding options to bring your game to life."
+---
+
 # 10 funding options to bring your game to life.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/10-funding-options-to-bring-your-game-to-life.jpg)

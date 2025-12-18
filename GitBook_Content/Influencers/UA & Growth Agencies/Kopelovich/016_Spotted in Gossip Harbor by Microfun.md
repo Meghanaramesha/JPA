@@ -1,3 +1,7 @@
+---
+title: "Spotted in Gossip Harbor by Microfun"
+---
+
 # Spotted in Gossip Harbor by Microfun
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

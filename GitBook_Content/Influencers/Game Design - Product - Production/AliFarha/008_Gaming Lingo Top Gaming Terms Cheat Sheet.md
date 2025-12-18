@@ -1,3 +1,7 @@
+---
+title: "Gaming Lingo Top Gaming Terms Cheat Sheet"
+---
+
 # Gaming Lingo: Top Gaming Terms Cheat Sheet
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/07/image-75.png)

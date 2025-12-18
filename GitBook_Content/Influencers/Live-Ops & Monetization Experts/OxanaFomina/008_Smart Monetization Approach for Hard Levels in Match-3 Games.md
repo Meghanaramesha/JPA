@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/smart-monetization-approach-for-hard-levels-in-match-3-games
-title: Smart Monetization Approach for Hard Levels in Match-3 Games
+title: "Smart Monetization Approach for Hard Levels in Match-3 Games"
 ---
 
 # Smart Monetization Approach for Hard Levels in Match-3 Games

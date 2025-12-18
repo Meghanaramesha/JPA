@@ -1,3 +1,7 @@
+---
+title: "Ad Flow in Sticker Book by Lion Studios"
+---
+
 # Ad Flow in Sticker Book by Lion Studios
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

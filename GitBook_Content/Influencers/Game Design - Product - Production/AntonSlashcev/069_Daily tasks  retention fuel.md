@@ -1,3 +1,7 @@
+---
+title: "Daily tasks  retention fuel"
+---
+
 # Daily tasks = retention fuel
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Daily-tasks-retention-fuel.jpg)

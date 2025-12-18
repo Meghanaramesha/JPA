@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/enhancing-game-metrics-seasonal-pass-and-super-boosters
-title: Enhancing Game Metrics: Seasonal Pass and Super Boosters
+title: "Enhancing Game Metrics Seasonal Pass and Super Boosters"
 ---
 
 # Enhancing Game Metrics: Seasonal Pass and Super Boosters

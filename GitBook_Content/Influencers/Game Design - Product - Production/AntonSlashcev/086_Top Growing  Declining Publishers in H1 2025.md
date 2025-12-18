@@ -1,3 +1,7 @@
+---
+title: "Top Growing  Declining Publishers in H1 2025"
+---
+
 # Top Growing & Declining Publishers in H1 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Top-Growing-Declining-Publishers-in-H1-2025.jpg)

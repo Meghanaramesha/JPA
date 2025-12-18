@@ -1,3 +1,7 @@
+---
+title: "User Acquisition Vs Retention What is Best for Mobile Games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Acquisition Vs Retention: What is Best for Mobile Games? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![User Acquisition vs. User Retention: Which is Best for Mobile Games](https://lancaric.me/wp-content/uploads/2024/11/user-acquisition-vs-user-retention-which-one-to-focus.png) 

@@ -1,3 +1,7 @@
+---
+title: "Tripledot is making 1.3M a Day"
+---
+
 # Tripledot is making $1.3M a Day!
 
 [Tripledot Studios](https://www.linkedin.com/company/tripledot-studios/) is making around 1,3 million a day 🤑 in ad revenue within its portfolio, and it is the secret buyer 😲 of [AppLovin](https://www.linkedin.com/company/applovin/) gaming business, as we learned last week 💡.

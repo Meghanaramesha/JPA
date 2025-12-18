@@ -1,3 +1,7 @@
+---
+title: "Supercell Acquires Space Ape Games"
+---
+
 # Supercell Acquires Space Ape Games
 
 **Source:** https://www.gamigion.com/supercell-acquires-space-ape-games/

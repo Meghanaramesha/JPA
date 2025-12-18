@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Hexasort Unpacking the 500kday revenue success. A new era of casual  puzzle games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Hexasort: Unpacking the $500k/day revenue success. A new era of casual & puzzle games! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/hexa-sort.png) 

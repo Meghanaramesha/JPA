@@ -1,3 +1,7 @@
+---
+title: "Mobile Gaming in 2024"
+---
+
 # Mobile Gaming in 2024
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Mobile-Gaming-in-2024.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Top Mobile Casual Games Benchmark Metrics"
+---
+
 # Top Mobile Casual Games Benchmark Metrics
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/Top-Mobile-Casual-Games-Benchmark-Metrics.jpg)

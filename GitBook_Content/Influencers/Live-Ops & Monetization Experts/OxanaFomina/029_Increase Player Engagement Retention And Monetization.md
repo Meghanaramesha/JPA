@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/increase-player-engagement-retention-and-monetization
-title: Increase Player Engagement, Retention, And Monetization?
+title: "Increase Player Engagement Retention And Monetization"
 ---
 
 # Increase Player Engagement, Retention, And Monetization?

@@ -1,3 +1,7 @@
+---
+title: "Hybrid-Casual Game Development Guide"
+---
+
 # Hybrid-Casual Game Development Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Hybrid-Casual-Game-Development-Guide.jpg)

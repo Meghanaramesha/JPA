@@ -1,3 +1,7 @@
+---
+title: "25 Unusual Tips for Game Designers"
+---
+
 # 25 Unusual Tips for Game Designers
 
 25 Unusual Tips for Game Designers   

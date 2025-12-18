@@ -1,3 +1,7 @@
+---
+title: "The 1000000 Solopreneur Formula on LinkedIn (Without Burnout)  Jacob Pegs"
+---
+
 # The $1,000,000 Solopreneur Formula on LinkedIn (Without Burnout) | Jacob Pegs
 
 **YouTube URL:** https://www.youtube.com/watch?v=17zUBgj-9B8

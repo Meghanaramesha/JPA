@@ -1,3 +1,7 @@
+---
+title: "Classic Retention vs. 24-Hour vs. Rolling Retention"
+---
+
 # Classic Retention vs. 24-Hour vs. Rolling Retention
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-171.png)

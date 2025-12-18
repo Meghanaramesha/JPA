@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 82 - Top Troops Global launch case study Game design Ad monetisation  UA review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #82 - Top Troops Global launch case study: Game design, Ad monetisation & UA review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/10/session-82.png) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/keep-your-live-ops-game-healthy
-title: Keep Your Live Ops Game Healthy.
+title: "Keep Your Live Ops Game Healthy."
 ---
 
 # Keep Your Live Ops Game Healthy.

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Dark and Darker Review Unique blend of survival  extraction  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Dark and Darker Review: Unique blend of survival & extraction – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2025/01/dark-and-darker.png) 

@@ -1,3 +1,7 @@
+---
+title: "50 Game Design Skills"
+---
+
 # 50 Game Design Skills
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/50-Game-Design-Skills.jpg)

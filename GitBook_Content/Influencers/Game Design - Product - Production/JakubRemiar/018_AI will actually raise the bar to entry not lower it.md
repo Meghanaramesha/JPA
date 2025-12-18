@@ -1,3 +1,7 @@
+---
+title: "AI will actually raise the bar to entry not lower it."
+---
+
 # AI will actually raise the bar to entry not lower it.
 
 It’s already harder to master than our game industry expertise of Art, GD, UA & Prog.

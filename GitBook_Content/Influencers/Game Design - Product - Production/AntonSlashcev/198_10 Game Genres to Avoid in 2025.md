@@ -1,3 +1,7 @@
+---
+title: "10 Game Genres to Avoid in 2025"
+---
+
 # 10 Game Genres to Avoid in 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/10-Game-Genres-to-Avoid-in-2025.jpg)

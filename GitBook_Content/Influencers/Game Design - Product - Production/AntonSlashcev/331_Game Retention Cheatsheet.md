@@ -1,3 +1,7 @@
+---
+title: "Game Retention Cheatsheet"
+---
+
 # Game Retention Cheatsheet
 
 ##### To improve retention, it’s necessary to deconstruct the factors influencing it.

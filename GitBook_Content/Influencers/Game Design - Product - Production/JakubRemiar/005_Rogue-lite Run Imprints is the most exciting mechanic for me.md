@@ -1,3 +1,7 @@
+---
+title: "Rogue-lite Run Imprints is the most exciting mechanic for me"
+---
+
 # Rogue-lite Run Imprints is the most exciting mechanic for me!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/Rogue-lite-Run-Imprints-is-the-most-exciting-mechanic-for-me.jpg)

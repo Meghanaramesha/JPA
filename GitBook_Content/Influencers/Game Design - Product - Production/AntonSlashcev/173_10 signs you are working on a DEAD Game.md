@@ -1,3 +1,7 @@
+---
+title: "10 signs you are working on a DEAD Game"
+---
+
 # 10 signs you are working on a DEAD Game
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/10-signs-you-are-working-on-a-DEAD-Game.jpg)

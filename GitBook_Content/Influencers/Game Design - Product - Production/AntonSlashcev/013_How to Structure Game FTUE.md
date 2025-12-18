@@ -1,3 +1,7 @@
+---
+title: "How to Structure Game FTUE"
+---
+
 # How to Structure Game FTUE
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/11/How-to-Structure-Game-FTUE.jpg)

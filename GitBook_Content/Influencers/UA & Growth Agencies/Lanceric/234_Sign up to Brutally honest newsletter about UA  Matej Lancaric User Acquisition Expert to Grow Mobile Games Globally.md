@@ -1,3 +1,7 @@
+---
+title: "Sign up to Brutally honest newsletter about UA  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Sign up to Brutally honest newsletter about UA – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/lancito_unicorn_with_one_tattooed_sleeve_rainbow_super_cool_vib_8e82dc82-7f6f-4638-891d-ea7363d70b22.png) 

@@ -1,3 +1,7 @@
+---
+title: "Facebook Lookalike Audiences Pro Tips to Use for Mobile Games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Facebook Lookalike Audiences: Pro Tips to Use for Mobile Games? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Facebook Lookalike Audiences](https://lancaric.me/wp-content/uploads/2023/05/lancaric-facebook-lookalike-audience-2.jpg) 

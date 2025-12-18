@@ -1,3 +1,7 @@
+---
+title: "Dont Make New Mobile Games -"
+---
+
 # Don’t Make New Mobile Games -
 
 **A piece of advice for new dev teams:**  

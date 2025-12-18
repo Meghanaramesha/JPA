@@ -1,3 +1,7 @@
+---
+title: "Balatro makes 40K a day as a premium game"
+---
+
 # Balatro makes $40K a day as a premium game!
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/Balatro-makes-40K-a-day-as-a-premium-game.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Most Game Tutorials Suck"
+---
+
 # Most Game Tutorials Suck
 
 **But why?**  

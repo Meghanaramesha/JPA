@@ -1,3 +1,7 @@
+---
+title: "10 User Acquisition Mega Predictions for 2023  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # 10 User Acquisition Mega Predictions for 2023 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![User Acquisition predictions](https://lancaric.me/wp-content/uploads/2023/05/lancito_crystal_ball_postapocalyptic_world_inside_the_ball_old__452e9d07-62c1-4a0e-b576-84985498dd2d.png) 

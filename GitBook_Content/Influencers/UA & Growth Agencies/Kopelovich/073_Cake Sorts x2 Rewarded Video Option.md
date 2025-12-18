@@ -1,3 +1,7 @@
+---
+title: "Cake Sorts x2 Rewarded Video Option"
+---
+
 # Cake Sort’s x2 Rewarded Video Option
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

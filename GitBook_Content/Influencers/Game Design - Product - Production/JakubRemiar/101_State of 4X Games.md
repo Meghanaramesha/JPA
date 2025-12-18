@@ -1,3 +1,7 @@
+---
+title: "State of 4X Games"
+---
+
 # State of 4X Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/State-of-4X-Games.jpg)

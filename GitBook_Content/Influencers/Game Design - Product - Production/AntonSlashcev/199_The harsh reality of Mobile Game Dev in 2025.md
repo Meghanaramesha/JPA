@@ -1,3 +1,7 @@
+---
+title: "The harsh reality of Mobile Game Dev in 2025"
+---
+
 # The harsh reality of Mobile Game Dev in 2025
 
 ###### The harsh reality of mobile game dev in 2025:

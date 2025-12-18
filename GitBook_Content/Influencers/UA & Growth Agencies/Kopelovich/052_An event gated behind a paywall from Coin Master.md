@@ -1,3 +1,7 @@
+---
+title: "An event gated behind a paywall from Coin Master."
+---
+
 # An event gated behind a paywall, from Coin Master.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

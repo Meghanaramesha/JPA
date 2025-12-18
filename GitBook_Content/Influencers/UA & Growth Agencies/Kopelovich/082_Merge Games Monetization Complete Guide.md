@@ -1,3 +1,7 @@
+---
+title: "Merge Games Monetization Complete Guide"
+---
+
 # Merge Games Monetization: Complete Guide
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

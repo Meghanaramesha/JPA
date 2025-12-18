@@ -1,3 +1,7 @@
+---
+title: "Supercells Clash Royale just broke through 3 Million a Day"
+---
+
 # Supercell’s Clash Royale just broke through $3 Million a Day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Supercells-Clash-Royale-just-broke-through-3-Million-a-Day.jpg)

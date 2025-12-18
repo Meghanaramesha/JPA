@@ -1,3 +1,7 @@
+---
+title: "Turkey Blocks Discord"
+---
+
 # Turkey Blocks Discord
 
 **Source:** https://www.gamigion.com/turkey-blocks-discord/

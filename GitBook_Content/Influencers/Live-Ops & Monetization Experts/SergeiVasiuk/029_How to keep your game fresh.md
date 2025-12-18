@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/what-to-keep-your-game-fresh
-title: How to keep your game fresh?
+title: "How to keep your game fresh"
 ---
 
 # How to keep your game fresh?

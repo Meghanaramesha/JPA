@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand
-title: How to explain the 80/20 rule so even a kid can understand?
+title: "How to explain the 8020 rule so even a kid can understand"
 ---
 
 # How to explain the 80/20 rule so even a kid can understand?

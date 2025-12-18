@@ -1,3 +1,7 @@
+---
+title: "Tile Busters Leaving The Reddest Ocean To Find A Blue Spot"
+---
+
 # Tile Busters: Leaving The Reddest Ocean To Find A Blue Spot
 
 Almost 2 years ago, the entire games industry was amazed by [the announcement of a gigantic $55M seed round raised by Spyke Games](https://techcrunch.com/2022/01/17/turkeys-spyke-raises-55m-in-a-seed-round-to-bring-a-social-twist-to-casual-mobile-games/?guccounter=1). Many successful game company founders would jump on the chance to exit with $55 million, let alone receive it as a seed investment. So, Spyke Games showed how ambitious they were from the start with one of the largest seed rounds the games industry has ever seen…

@@ -1,3 +1,7 @@
+---
+title: "Monopoly Bingo scaled to 100K a day"
+---
+
 # Monopoly Bingo! scaled to $100K a day!
 
 Monopoly Bingo! by [Clipwire Games](https://www.linkedin.com/company/clipwire-games/) ([Tripledot Studios](https://www.linkedin.com/company/tripledot-studios/)) scaled to $100K 🤑 a day, and its the 2nd best Monopoly license game after Mon. GO.

@@ -1,3 +1,7 @@
+---
+title: "Puzzle Game Key Aspects Breakdown"
+---
+
 # Puzzle Game Key Aspects Breakdown
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Puzzle-Game-Key-Aspects-Breakdown.jpg)

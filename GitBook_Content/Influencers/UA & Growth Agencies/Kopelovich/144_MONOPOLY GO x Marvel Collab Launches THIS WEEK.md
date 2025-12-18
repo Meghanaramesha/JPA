@@ -1,3 +1,7 @@
+---
+title: "MONOPOLY GO x Marvel Collab Launches THIS WEEK"
+---
+
 # MONOPOLY GO! x Marvel Collab Launches THIS WEEK!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

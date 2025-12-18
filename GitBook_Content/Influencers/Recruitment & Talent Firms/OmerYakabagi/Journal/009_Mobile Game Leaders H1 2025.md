@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Leaders H1 2025"
+---
+
 # Mobile Game Leaders: H1 2025
 
 **Source:** https://www.gamigion.com/mobile-game-leaders-h1-2025/

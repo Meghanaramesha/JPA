@@ -1,3 +1,7 @@
+---
+title: "How diversified are the largest game publishers"
+---
+
 # How diversified are the largest game publishers?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/How-diversified-are-the-largest-game-publishers.jpg)

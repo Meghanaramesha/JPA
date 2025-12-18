@@ -1,3 +1,7 @@
+---
+title: "Digging deeper with Gossip Harbor"
+---
+
 # Digging deeper with Gossip Harbor!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

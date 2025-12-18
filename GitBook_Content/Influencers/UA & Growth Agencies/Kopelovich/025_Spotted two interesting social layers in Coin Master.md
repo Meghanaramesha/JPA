@@ -1,3 +1,7 @@
+---
+title: "Spotted two interesting social layers in Coin Master"
+---
+
 # Spotted two interesting social layers in Coin Master
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "Playrix LiveOps Strategy"
+---
+
 # Playrix LiveOps Strategy
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Playrix-LiveOps-Strategy.jpg)

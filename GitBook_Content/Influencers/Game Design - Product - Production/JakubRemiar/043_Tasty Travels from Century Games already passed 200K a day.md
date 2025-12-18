@@ -1,3 +1,7 @@
+---
+title: "Tasty Travels from Century Games already passed 200K a day"
+---
+
 # Tasty Travels from Century Games already passed $200K a day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Tasty-Travels-from-Century-Games-already-passed-200K-a-day.jpg)

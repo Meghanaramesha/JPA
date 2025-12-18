@@ -1,3 +1,7 @@
+---
+title: "10 years ago I decided to start working on f2p games."
+---
+
 # 10 years ago I decided to start working on f2p games.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-57.jpg)

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Age of Empires Mobile Nostalgia Meets Modern Gaming (ehm modern 4X strategy games)  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Age of Empires Mobile: Nostalgia Meets Modern Gaming (ehm, modern 4X strategy games) – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/11/Lancaric.me-1640-x-432-px-1.png) 

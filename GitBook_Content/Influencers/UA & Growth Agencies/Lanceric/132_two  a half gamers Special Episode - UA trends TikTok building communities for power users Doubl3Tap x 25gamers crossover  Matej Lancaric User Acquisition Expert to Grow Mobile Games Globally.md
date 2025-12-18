@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - UA trends TikTok building communities for power users Doubl3Tap x 2.5gamers crossover  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - UA trends, TikTok, building communities for power users: Doubl3Tap x 2.5gamers crossover – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/03/special-ep.jpg) 

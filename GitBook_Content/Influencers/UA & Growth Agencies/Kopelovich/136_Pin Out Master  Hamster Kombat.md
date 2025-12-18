@@ -1,3 +1,7 @@
+---
+title: "Pin Out Master  Hamster Kombat"
+---
+
 # Pin Out Master & Hamster Kombat
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "Brawl Stars x Stranger Things"
+---
+
 # Brawl Stars x Stranger Things
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-80-to-20-rule-in-game-dev-design
-title: The 80 to 20 Rule in Game Dev & Design
+title: "The 80 to 20 Rule in Game Dev  Design"
 ---
 
 # The 80 to 20 Rule in Game Dev & Design

@@ -1,3 +1,7 @@
+---
+title: "Streak mechanic turned into a time-limited event progression"
+---
+
 # Streak mechanic turned into a time-limited event progression!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

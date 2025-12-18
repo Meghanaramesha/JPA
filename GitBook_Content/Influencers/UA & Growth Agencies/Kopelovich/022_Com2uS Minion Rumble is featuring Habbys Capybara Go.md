@@ -1,3 +1,7 @@
+---
+title: "Com2uS Minion Rumble is featuring Habbys Capybara Go"
+---
+
 # Com2uS’ Minion Rumble is featuring Habby’s Capybara Go!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

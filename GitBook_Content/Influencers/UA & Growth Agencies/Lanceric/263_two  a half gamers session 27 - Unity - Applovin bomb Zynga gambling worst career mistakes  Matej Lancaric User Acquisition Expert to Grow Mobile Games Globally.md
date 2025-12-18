@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 27 - Unity - Applovin bomb Zynga gambling worst career mistakes  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #27 - Unity - Applovin bomb, Zynga gambling, worst career mistakes – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-27.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "The successes mistakes and lessons from launching Diggys Adventure on mobile  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # The successes, mistakes and lessons from launching Diggy's Adventure on mobile – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![The successes, mistakes and lessons from launching Diggy's Adventure on mobile](https://lancaric.me/wp-content/uploads/2023/05/Shut-up-and-take-my-money1.jpg) 

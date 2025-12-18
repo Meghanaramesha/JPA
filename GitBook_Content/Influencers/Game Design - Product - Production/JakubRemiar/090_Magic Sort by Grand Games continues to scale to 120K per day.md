@@ -1,3 +1,7 @@
+---
+title: "Magic Sort by Grand Games continues to scale to 120K per day"
+---
+
 # Magic Sort by Grand Games continues to scale to $120K per day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Magic-Sort-by-Grand-Games-continues-to-scale-to-120K-per-day.jpg)

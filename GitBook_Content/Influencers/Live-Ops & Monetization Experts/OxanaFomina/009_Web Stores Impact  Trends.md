@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/web-stores-impact-trends
-title: Web Stores Impact & Trends
+title: "Web Stores Impact  Trends"
 ---
 
 # Web Stores Impact & Trends

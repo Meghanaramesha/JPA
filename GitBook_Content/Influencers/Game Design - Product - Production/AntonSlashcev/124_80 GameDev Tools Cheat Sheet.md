@@ -1,3 +1,7 @@
+---
+title: "80 GameDev Tools Cheat Sheet"
+---
+
 # 80 GameDev Tools Cheat Sheet
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/80-GameDev-Tools-Cheat-Sheet.jpg)

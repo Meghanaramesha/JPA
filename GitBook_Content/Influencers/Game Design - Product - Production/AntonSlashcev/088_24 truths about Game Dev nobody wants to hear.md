@@ -1,3 +1,7 @@
+---
+title: "24 truths about Game Dev nobody wants to hear."
+---
+
 # 24 truths about Game Dev nobody wants to hear.
 
 ###### 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Magic Sort Review The Next big thing in gaming. Or is it  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Magic Sort Review: The Next big thing in gaming. Or is it? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2025/01/magic-sort.png) 

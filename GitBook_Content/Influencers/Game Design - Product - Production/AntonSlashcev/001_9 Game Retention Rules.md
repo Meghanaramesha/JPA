@@ -1,3 +1,7 @@
+---
+title: "9 Game Retention Rules"
+---
+
 # 9 Game Retention Rules
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/9-Game-Retention-Rules.jpg)

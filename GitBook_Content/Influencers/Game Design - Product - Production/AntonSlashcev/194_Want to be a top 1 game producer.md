@@ -1,3 +1,7 @@
+---
+title: "Want to be a top 1 game producer"
+---
+
 # Want to be a top 1% game producer?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Want-to-be-a-top-1-game-producer.jpg)

@@ -1,3 +1,7 @@
+---
+title: "The fastest-growing mobile games of 2025"
+---
+
 # The fastest-growing mobile games of 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/The-fastest-growing-mobile-games-of-2025.jpg)

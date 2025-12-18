@@ -1,3 +1,7 @@
+---
+title: "Ready Set Rumble Blizzards Soft Launch Playbook for Warcraft Rumble unveiled  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Ready, Set, Rumble: Blizzard's Soft Launch Playbook for Warcraft Rumble unveiled! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Ready, Set, Rumble: Blizzard's Soft Launch Playbook for Warcraft Rumble unveiled!](https://lancaric.me/wp-content/uploads/2023/10/Screen-Shot-2023-10-21-at-21.19.48-e1742246960845.png) 

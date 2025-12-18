@@ -1,3 +1,7 @@
+---
+title: "Blossom Sort by Zeromaze scaled to 60K a day"
+---
+
 # Blossom Sort by Zeromaze scaled to $60K a day
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Blossom-Sort-by-Zeromaze-scaled-to-60K-a-day.jpg)

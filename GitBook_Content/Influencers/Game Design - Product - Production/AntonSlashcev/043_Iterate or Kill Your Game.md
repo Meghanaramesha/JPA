@@ -1,3 +1,7 @@
+---
+title: "Iterate or Kill Your Game"
+---
+
 # Iterate or Kill Your Game?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Iterate-or-Kill-Your-Game.jpg)

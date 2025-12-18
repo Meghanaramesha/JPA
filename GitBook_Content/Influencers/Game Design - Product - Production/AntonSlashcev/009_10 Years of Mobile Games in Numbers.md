@@ -1,3 +1,7 @@
+---
+title: "10 Years of Mobile Games in Numbers"
+---
+
 # 10 Years of Mobile Games in Numbers
 
 ###### 

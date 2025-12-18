@@ -1,3 +1,7 @@
+---
+title: "What makes a game unforgettable"
+---
+
 # What makes a game unforgettable?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/What-makes-a-game-unforgettable.jpg)

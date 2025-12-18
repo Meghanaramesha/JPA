@@ -1,3 +1,7 @@
+---
+title: "The Complete Guide to Sort Games Monetization  Part 2"
+---
+
 # The Complete Guide to ‘Sort’ Games Monetization – Part 2
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

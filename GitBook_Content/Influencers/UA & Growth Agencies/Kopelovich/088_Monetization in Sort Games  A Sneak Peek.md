@@ -1,3 +1,7 @@
+---
+title: "Monetization in Sort Games  A Sneak Peek"
+---
+
 # Monetization in Sort Games – A Sneak Peek!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "350 feature references from the top 100 mobile games."
+---
+
 # 350+ feature references from the top 100 mobile games.
 
 ###### I’ve collected 350+ feature references from the top 100 mobile games.

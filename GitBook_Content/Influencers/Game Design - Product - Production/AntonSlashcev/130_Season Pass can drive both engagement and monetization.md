@@ -1,3 +1,7 @@
+---
+title: "Season Pass can drive both engagement and monetization."
+---
+
 # Season Pass can drive both engagement and monetization.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Season-Pass-can-drive-both-engagement-and-monetization.jpg)

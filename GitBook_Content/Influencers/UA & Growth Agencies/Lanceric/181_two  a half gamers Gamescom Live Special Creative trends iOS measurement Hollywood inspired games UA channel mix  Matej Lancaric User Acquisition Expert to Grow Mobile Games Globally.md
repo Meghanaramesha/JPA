@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Gamescom Live Special Creative trends iOS measurement Hollywood inspired games UA channel mix  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Gamescom Live Special: Creative trends, iOS measurement, Hollywood inspired games, UA channel mix – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/08/gamescom-session.jpg) 

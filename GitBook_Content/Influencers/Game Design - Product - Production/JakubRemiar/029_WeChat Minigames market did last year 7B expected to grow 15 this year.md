@@ -1,3 +1,7 @@
+---
+title: "WeChat Minigames market did last year 7B expected to grow 15 this year"
+---
+
 # WeChat Minigames market did last year $7B, expected to grow 15% this year!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/WeChat-Minigames-market-did-last-year-7B-expected-to-grow-15-this-year.jpg)

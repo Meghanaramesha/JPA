@@ -1,3 +1,7 @@
+---
+title: "Welcome Back Pass designed for returning users on Survivor.io"
+---
+
 # Welcome Back Pass designed for returning users on Survivor.io
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

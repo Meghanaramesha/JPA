@@ -1,3 +1,7 @@
+---
+title: "15 Red Flags For Game Producers"
+---
+
 # 15 Red Flags For Game Producers
 
 ##### If you hear statements like these – RUN! 🚩

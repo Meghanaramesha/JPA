@@ -1,3 +1,7 @@
+---
+title: "10 Game Design Rules You Must Know"
+---
+
 # 10 Game Design Rules You Must Know
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/10-Game-Design-Rules-You-Must-Know.jpg)

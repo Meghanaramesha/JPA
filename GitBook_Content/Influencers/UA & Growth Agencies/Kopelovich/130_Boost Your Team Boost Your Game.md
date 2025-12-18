@@ -1,3 +1,7 @@
+---
+title: "Boost Your Team Boost Your Game"
+---
+
 # Boost Your Team, Boost Your Game!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

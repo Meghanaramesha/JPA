@@ -1,3 +1,7 @@
+---
+title: "Archero 2 global launched last week 5th iteration"
+---
+
 # Archero 2 global launched last week: 5th iteration
 
 ###### Archero 2 by Habby global launched last week and with it, the 5th iteration 😁 of the passive power progression side system.

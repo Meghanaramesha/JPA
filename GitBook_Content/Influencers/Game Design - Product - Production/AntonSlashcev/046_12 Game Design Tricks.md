@@ -1,3 +1,7 @@
+---
+title: "12 Game Design Tricks"
+---
+
 # 12 Game Design Tricks
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/12-Game-Design-Tricks.jpg)

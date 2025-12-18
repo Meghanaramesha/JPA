@@ -1,3 +1,7 @@
+---
+title: "How to be 1 game in US Appstore without spending a dime  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to be #1 game in US Appstore without spending a dime? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![How to be #1 game in US Appstore without spending a dime?](https://lancaric.me/wp-content/uploads/2023/05/17758586_1925913417667044_5872830661015239389_o-scaled-1.jpeg) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 110 - Zombie.io global launch case study A Midcore game with complex gameplay  wide range of features  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #110 - Zombie.io global launch case study: A Midcore game with complex gameplay & wide range of features – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/05/session-110.png) 

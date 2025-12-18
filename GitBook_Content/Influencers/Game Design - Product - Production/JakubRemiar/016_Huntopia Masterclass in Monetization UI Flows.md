@@ -1,3 +1,7 @@
+---
+title: "Huntopia Masterclass in Monetization UI Flows"
+---
+
 # Huntopia: Masterclass in Monetization UI Flows
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Huntopia-scaled-to-100k-a-Day-in-first-month-1.jpg)

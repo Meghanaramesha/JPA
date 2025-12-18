@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/sorry-gamers-but-i-have-to-say-this
-title: Sorry gamers… but I have to say this!
+title: "Sorry gamers but I have to say this"
 ---
 
 # Sorry gamers… but I have to say this!

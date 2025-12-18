@@ -1,3 +1,7 @@
+---
+title: "Retention is key for game success."
+---
+
 # Retention is key for game success.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/Retention-is-key-for-game-success.jpg)

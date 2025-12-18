@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/many-screw-up-live-service-games
-title: Many screw up live service games
+title: "Many screw up live service games"
 ---
 
 # Many screw up live service games

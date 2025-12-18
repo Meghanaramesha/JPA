@@ -1,3 +1,7 @@
+---
+title: "The puzzle market might be a red ocean but its far from exhausted."
+---
+
 # The puzzle market might be a red ocean, but it’s far from exhausted.
 
 The puzzle market might be a red ocean, but it’s far from exhausted. Yes, competition is fierce. But there are still plenty of underused mechanics waiting to be explored. And both veterans and new entrants are quietly proving it.

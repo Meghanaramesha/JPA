@@ -1,3 +1,7 @@
+---
+title: "User Segmentation for Mobile Game Examples Benefits Tools  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Segmentation for Mobile Game: Examples, Benefits, Tools – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games User Segmentation Benefits, Examples](https://lancaric.me/wp-content/uploads/2024/11/mobile-games-user-segmentation-examples-benefits.png) 

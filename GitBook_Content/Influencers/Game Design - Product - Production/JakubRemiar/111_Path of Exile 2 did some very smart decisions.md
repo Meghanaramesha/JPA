@@ -1,3 +1,7 @@
+---
+title: "Path of Exile 2 did some very smart decisions"
+---
+
 # Path of Exile 2 did some very smart decisions
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Path-of-Exile-2-did-some-very-smart-decisions.jpg)

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/mobile-game-web-shops-analysis
-title: Mobile Game Web Shops Analysis
+title: "Mobile Game Web Shops Analysis"
 ---
 
 # Mobile Game Web Shops Analysis

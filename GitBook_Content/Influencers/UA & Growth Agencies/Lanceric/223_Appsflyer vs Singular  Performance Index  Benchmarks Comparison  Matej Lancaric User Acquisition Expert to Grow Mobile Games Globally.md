@@ -1,3 +1,7 @@
+---
+title: "Appsflyer vs Singular  Performance Index  Benchmarks Comparison  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Appsflyer vs Singular – Performance Index & Benchmarks Comparison – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Appsflyer Performance Index & Benchmarks vs Singular Performance Index & Benchmarks](https://lancaric.me/wp-content/uploads/2023/05/maxresdefault.jpg) 

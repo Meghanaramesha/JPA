@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special LIVE Episode - Gamesforum Live Special w Adam  Gus Rewarded play AI in game development. Are UA managers lazy  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special LIVE Episode - Gamesforum Live Special w/ Adam & Gus: Rewarded play, AI in game development. Are UA managers lazy? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/02/special-ep-gamesforum.jpg) 

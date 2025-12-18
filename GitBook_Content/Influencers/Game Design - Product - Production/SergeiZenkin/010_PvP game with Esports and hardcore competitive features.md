@@ -1,3 +1,7 @@
+---
+title: "PvP game with Esports and hardcore competitive features."
+---
+
 # PvP game with Esports and hardcore competitive features.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-47.jpg)

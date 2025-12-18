@@ -1,3 +1,7 @@
+---
+title: "Boost playtime in your Game"
+---
+
 # Boost playtime in your Game?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Boost-playtime-in-your-Game.jpg)

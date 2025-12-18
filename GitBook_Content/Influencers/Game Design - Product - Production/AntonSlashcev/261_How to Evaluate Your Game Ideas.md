@@ -1,3 +1,7 @@
+---
+title: "How to Evaluate Your Game Ideas"
+---
+
 # How to Evaluate Your Game Ideas?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/How-to-Evaluate-Your-Game-Ideas.jpg)

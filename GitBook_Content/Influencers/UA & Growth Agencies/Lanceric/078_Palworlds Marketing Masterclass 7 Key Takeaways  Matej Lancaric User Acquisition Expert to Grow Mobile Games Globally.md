@@ -1,3 +1,7 @@
+---
+title: "Palworlds Marketing Masterclass 7 Key Takeaways  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Palworld’s Marketing Masterclass: 7 Key Takeaways – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/09/unnamed-3.png) 

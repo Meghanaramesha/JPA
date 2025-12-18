@@ -1,3 +1,7 @@
+---
+title: "Fun mechanic in Dice Dreams Piggy Wheel"
+---
+
 # Fun mechanic in ‘Dice Dreams’ —Piggy Wheel
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

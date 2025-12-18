@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/what-connects-game-and-states-economies
-title: What connects Game and States Economies?
+title: "What connects Game and States Economies"
 ---
 
 # What connects Game and States Economies?

@@ -1,3 +1,7 @@
+---
+title: "Spotted something interesting in Legend of Mushroom"
+---
+
 # Spotted something interesting in Legend of Mushroom
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

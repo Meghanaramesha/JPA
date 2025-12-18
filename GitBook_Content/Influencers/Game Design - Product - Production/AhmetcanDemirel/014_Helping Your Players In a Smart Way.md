@@ -1,3 +1,7 @@
+---
+title: "Helping Your Players In a Smart Way"
+---
+
 # Helping Your Players In a Smart Way
 
 The point of making a game is to provide players with entertainment they value enough to spend money on. At its core, a game’s success hinges on this simple principle. But how you deliver that entertainment varies dramatically between genres, and each genre comes with different monetization strategies.

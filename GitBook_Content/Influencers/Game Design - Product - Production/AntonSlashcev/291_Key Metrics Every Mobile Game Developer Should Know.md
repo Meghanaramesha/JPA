@@ -1,3 +1,7 @@
+---
+title: "Key Metrics Every Mobile Game Developer Should Know"
+---
+
 # Key Metrics Every Mobile Game Developer Should Know
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-170.jpg)

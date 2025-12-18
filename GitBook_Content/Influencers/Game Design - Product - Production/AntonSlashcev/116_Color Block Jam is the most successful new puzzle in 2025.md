@@ -1,3 +1,7 @@
+---
+title: "Color Block Jam is the most successful new puzzle in 2025."
+---
+
 # Color Block Jam is the most successful new puzzle in 2025.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Color-Block-Jam-is-the-most-successful-new-puzzle-in-2025.jpg)

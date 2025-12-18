@@ -1,3 +1,7 @@
+---
+title: "Why do launched games fail"
+---
+
 # Why do launched games fail?
 
 Why do launched games fail?

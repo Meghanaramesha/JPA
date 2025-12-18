@@ -1,3 +1,7 @@
+---
+title: "How to soft launch a mobile game in 2022  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to soft launch a mobile game in 2022? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![How to soft launch a mobile game?](https://lancaric.me/wp-content/uploads/2023/05/final-cover-2.png) 

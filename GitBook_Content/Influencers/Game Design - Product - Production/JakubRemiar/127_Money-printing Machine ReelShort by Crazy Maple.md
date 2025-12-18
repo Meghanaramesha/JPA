@@ -1,3 +1,7 @@
+---
+title: "Money-printing Machine ReelShort by Crazy Maple"
+---
+
 # Money-printing Machine: ReelShort by Crazy Maple
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/Money-printing-Machine-ReelShort-by-Crazy-Maple.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Turborilla CEO How to Break Into Gaming  Scale Mobile Games  John Wright"
+---
+
 # Turborilla CEO: How to Break Into Gaming & Scale Mobile Games | John Wright
 
 **YouTube URL:** https://www.youtube.com/watch?v=A7030O-kqus

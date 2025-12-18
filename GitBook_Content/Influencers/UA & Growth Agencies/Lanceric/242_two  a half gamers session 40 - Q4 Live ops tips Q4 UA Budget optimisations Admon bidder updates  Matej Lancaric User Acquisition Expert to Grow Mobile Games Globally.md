@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 40 - Q4 Live ops tips Q4 UA Budget optimisations Admon bidder updates  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #40 - Q4 Live ops tips, Q4 UA Budget optimisations, Admon bidder updates – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-40.png) 

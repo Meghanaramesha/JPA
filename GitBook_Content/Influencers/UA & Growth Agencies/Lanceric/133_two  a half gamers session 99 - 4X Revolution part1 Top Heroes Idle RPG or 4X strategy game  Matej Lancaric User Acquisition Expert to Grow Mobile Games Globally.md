@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 99 - 4X (R)evolution part1. Top Heroes Idle RPG or 4X strategy game  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #99 - 4X (R)evolution part1. Top Heroes: Idle RPG or 4X strategy game? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/03/session-99.png) 

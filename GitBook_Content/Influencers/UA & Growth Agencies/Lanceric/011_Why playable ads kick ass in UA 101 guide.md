@@ -1,3 +1,7 @@
+---
+title: "Why playable ads kick ass in UA 101 guide"
+---
+
 # Why playable ads kick ass in UA: 101 guide
 
 ![](https://lancaric.me/wp-content/uploads/2024/11/Most-Attractive-Youtube-Thumbnail-3.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "Daily  Weekly Challenge setup in Time Blast"
+---
+
 # Daily + Weekly Challenge setup in Time Blast
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

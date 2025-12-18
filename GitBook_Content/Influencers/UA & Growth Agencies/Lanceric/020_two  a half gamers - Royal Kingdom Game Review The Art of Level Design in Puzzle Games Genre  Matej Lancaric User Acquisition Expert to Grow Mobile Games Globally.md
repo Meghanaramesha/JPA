@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Royal Kingdom Game Review The Art of Level Design in Puzzle Games Genre  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Royal Kingdom Game Review: The Art of Level Design in Puzzle Games Genre – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/12/royal-kingdom.png) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 94 - Pocket Champs live review Exceptional growth Clever game design Ads playbook wArthur Michel  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #94 - Pocket Champs live review: Exceptional growth, Clever game design, Ads playbook w/Arthur Michel – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/01/ession-94.jpg) 

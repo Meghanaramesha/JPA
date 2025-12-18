@@ -1,3 +1,7 @@
+---
+title: "Monetization Insight from Toon Blast"
+---
+
 # Monetization Insight from Toon Blast
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "Mobile Game User Acquisition Importance Platforms  Strategies  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Mobile Game User Acquisition: Importance, Platforms & Strategies – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Game User Acquisition Importance and Tips](https://lancaric.me/wp-content/uploads/2024/11/mobile-game-player-acquisition-guide.png) 

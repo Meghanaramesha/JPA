@@ -1,3 +1,7 @@
+---
+title: "Engaging Mini Games and Where to Find Them"
+---
+
 # Engaging Mini Games and Where to Find Them
 
 Like any business, games exist to generate revenue. Without a solid monetization strategy, even the most passionate developers struggle to sustain their projects. But every successful developer knows that a game’s ability to make money is deeply tied to its retention metrics. While revenue is the ultimate measure of success, retention serves as a crucial intermediate indicator that is often prioritized even over direct revenue figures.

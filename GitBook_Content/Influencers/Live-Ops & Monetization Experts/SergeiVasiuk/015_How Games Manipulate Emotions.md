@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-games-manipulate-emotions
-title: How Games Manipulate Emotions
+title: "How Games Manipulate Emotions"
 ---
 
 # How Games Manipulate Emotions

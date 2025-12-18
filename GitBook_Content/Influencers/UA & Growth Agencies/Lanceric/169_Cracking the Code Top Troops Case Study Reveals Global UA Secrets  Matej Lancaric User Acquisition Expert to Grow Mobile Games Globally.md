@@ -1,3 +1,7 @@
+---
+title: "Cracking the Code Top Troops Case Study Reveals Global UA Secrets  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Cracking the Code: Top Troops Case Study Reveals Global UA Secrets! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Cracking the Code: Top Troops Case Study Reveals Global UA Secrets!](https://lancaric.me/wp-content/uploads/2023/10/92866c9131b14a351e3a78c020142bcc-e1696971359452.jpg) 

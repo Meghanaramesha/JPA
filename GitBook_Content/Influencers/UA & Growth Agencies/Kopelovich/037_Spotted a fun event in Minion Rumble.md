@@ -1,3 +1,7 @@
+---
+title: "Spotted a fun event in Minion Rumble"
+---
+
 # Spotted a fun event in Minion Rumble!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

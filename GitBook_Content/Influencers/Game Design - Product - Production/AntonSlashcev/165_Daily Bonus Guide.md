@@ -1,3 +1,7 @@
+---
+title: "Daily Bonus Guide"
+---
+
 # Daily Bonus Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Daily-Bonus-Guide.jpg)

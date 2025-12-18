@@ -1,3 +1,7 @@
+---
+title: "Soft Launch Monetization Perspective for Non-Hyper Causal Mobile Games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Soft Launch Monetization Perspective for Non-Hyper Causal Mobile Games – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![monetization in soft launch in hyper casual mobile games](https://lancaric.me/wp-content/uploads/2023/05/cover-article.png) 

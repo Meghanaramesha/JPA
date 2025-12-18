@@ -1,3 +1,7 @@
+---
+title: "How to design Clans"
+---
+
 # How to design Clans
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/How-to-design-Clans.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Top mobile games by revenue for the last 6 months"
+---
+
 # Top mobile games by revenue for the last 6 months?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Top-mobile-games-by-revenue-for-the-last-6-months.jpg)

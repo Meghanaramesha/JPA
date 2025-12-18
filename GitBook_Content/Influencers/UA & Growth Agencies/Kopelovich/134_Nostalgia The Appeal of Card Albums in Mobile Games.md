@@ -1,3 +1,7 @@
+---
+title: "Nostalgia The Appeal of Card Albums in Mobile Games"
+---
+
 # Nostalgia: The Appeal of Card Albums in Mobile Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

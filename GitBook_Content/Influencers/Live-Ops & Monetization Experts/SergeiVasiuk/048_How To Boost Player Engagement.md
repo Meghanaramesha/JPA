@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-to-boost-player-engagement
-title: How To Boost Player Engagement?
+title: "How To Boost Player Engagement"
 ---
 
 # How To Boost Player Engagement?

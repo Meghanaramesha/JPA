@@ -1,3 +1,7 @@
+---
+title: "All Key Game Metrics In One Place"
+---
+
 # All Key Game Metrics In One Place
 
 ##### Here is the list of all crucial metrics to track:

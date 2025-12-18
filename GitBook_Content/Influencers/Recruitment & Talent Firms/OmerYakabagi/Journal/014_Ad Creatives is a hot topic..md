@@ -1,3 +1,7 @@
+---
+title: "Ad Creatives is a hot topic."
+---
+
 # Ad Creatives is a hot topic.
 
 **Source:** https://www.gamigion.com/ad-creatives-is-a-hot-topic/

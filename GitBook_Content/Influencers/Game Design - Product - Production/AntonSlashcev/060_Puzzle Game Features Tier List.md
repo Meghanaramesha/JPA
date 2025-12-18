@@ -1,3 +1,7 @@
+---
+title: "Puzzle Game Features Tier List"
+---
+
 # Puzzle Game Features Tier List
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Puzzle-Game-Features-Tier-List.webp)

@@ -1,3 +1,7 @@
+---
+title: "Why People Love the 2048 Game and Its Popularity on Flights"
+---
+
 # Why People Love the 2048 Game and Its Popularity on Flights
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Why-People-Love-the-2048-Game-and-Its-Popularity-on-Flights.jpg)

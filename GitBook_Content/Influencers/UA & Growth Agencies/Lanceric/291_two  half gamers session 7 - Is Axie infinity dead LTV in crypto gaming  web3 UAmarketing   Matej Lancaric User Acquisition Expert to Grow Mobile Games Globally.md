@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 7 - Is Axie infinity dead LTV in crypto gaming  web3 UAmarketing   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #7 - Is Axie infinity dead? LTV in crypto gaming & web3 UA/marketing  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-7.png) 

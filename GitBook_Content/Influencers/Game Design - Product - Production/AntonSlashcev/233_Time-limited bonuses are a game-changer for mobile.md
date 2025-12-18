@@ -1,3 +1,7 @@
+---
+title: "Time-limited bonuses are a game-changer for mobile."
+---
+
 # Time-limited bonuses are a game-changer for mobile.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/Time-limited-bonuses-are-a-game-changer-for-mobile.jpg)

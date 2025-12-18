@@ -1,3 +1,7 @@
+---
+title: "Ultimate career advice for newcomers in GameDev"
+---
+
 # Ultimate career advice for newcomers in GameDev
 
 ###### The ultimate career advice for newcomers in game development:

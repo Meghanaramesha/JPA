@@ -1,3 +1,7 @@
+---
+title: "Spotted this small but interesting Rewarded Placement"
+---
+
 # Spotted this small but interesting Rewarded Placement
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

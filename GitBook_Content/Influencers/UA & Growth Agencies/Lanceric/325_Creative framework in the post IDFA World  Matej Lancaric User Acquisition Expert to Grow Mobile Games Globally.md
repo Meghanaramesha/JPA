@@ -1,3 +1,7 @@
+---
+title: "Creative framework in the post IDFA World  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Creative framework in the post IDFA World – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Creative framework in the post IDFA World](https://lancaric.me/wp-content/uploads/2021/02/creative-process.png) 

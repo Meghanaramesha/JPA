@@ -1,3 +1,7 @@
+---
+title: "Minigame Market MAU will exceed 500 Million Users in China"
+---
+
 # Minigame Market MAU will exceed 500 Million Users in China
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-20.jpg)

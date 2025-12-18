@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Leaders November 2024"
+---
+
 # Mobile Game Leaders: November 2024
 
 **Source:** https://www.gamigion.com/mobile-game-leaders-november-2024/

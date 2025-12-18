@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/mistakes-new-game-devs-make
-title: Mistakes New Game Devs Make
+title: "Mistakes New Game Devs Make"
 ---
 
 # Mistakes New Game Devs Make

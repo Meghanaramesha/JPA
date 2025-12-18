@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Inspector Budget UA Trends Top Advertisers  Gaming Market December 2024  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Inspector Budget: UA Trends, Top Advertisers & Gaming Market December 2024 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2025/01/Inspector-Budget.png) 

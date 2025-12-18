@@ -1,3 +1,7 @@
+---
+title: "What It Takes To Survive As a Founder In Games  Henri Lindgren"
+---
+
 # What It Takes To Survive As a Founder In Games | Henri Lindgren
 
 **YouTube URL:** https://www.youtube.com/watch?v=mZst8LQCYuQ

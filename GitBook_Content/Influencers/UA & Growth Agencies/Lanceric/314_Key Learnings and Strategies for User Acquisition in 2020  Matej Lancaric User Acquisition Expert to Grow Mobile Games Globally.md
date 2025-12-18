@@ -1,3 +1,7 @@
+---
+title: "Key Learnings and Strategies for User Acquisition in 2020  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Key Learnings and Strategies for User Acquisition in 2020 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![UA & Creative learnings with comments - 2021](https://lancaric.me/wp-content/uploads/2023/05/Fotolia_95286591_XS.jpg) 

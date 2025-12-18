@@ -1,3 +1,7 @@
+---
+title: "Exploring Rivergames Last War UA Scaling Strategy"
+---
+
 # Exploring Rivergame’s Last War UA Scaling Strategy
 
 #### How does a game earn $2 million and 200k downloads a day?

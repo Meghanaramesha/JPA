@@ -1,3 +1,7 @@
+---
+title: "Scopely Earns a Place Among the Giants"
+---
+
 # Scopely Earns a Place Among the Giants
 
 ##### But they didn’t just stumble onto the TIME100 list.

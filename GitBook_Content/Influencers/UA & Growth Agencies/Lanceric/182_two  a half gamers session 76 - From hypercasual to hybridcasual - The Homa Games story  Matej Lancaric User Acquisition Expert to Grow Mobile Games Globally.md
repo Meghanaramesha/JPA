@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 76 - From hypercasual to hybridcasual - The Homa Games story  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #76 - From hypercasual to hybridcasual - The Homa Games story – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/08/session-76.jpg) 

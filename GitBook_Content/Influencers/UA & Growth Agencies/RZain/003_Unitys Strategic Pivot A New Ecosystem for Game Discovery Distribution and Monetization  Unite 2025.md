@@ -1,3 +1,7 @@
+---
+title: "Unitys Strategic Pivot A New Ecosystem for Game Discovery Distribution and Monetization  Unite 2025"
+---
+
 # Unity’s Strategic Pivot A New Ecosystem for Game Discovery, Distribution, and Monetization — Unite 2025
 
 [ART](#)

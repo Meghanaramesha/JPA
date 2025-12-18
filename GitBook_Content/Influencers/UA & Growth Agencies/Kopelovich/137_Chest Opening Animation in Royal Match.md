@@ -1,3 +1,7 @@
+---
+title: "Chest Opening Animation in Royal Match"
+---
+
 # Chest Opening Animation in Royal Match
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

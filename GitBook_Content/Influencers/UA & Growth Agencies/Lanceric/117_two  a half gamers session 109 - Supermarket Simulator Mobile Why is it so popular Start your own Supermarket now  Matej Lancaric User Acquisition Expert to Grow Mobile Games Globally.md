@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 109 - Supermarket Simulator Mobile Why is it so popular Start your own Supermarket now  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #109 - Supermarket Simulator Mobile: Why is it so popular? Start your own Supermarket now! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/05/session-109.jpg) 

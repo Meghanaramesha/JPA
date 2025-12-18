@@ -1,3 +1,7 @@
+---
+title: "Fan of event loading screens in mobile games"
+---
+
 # Fan of event loading screens in mobile games!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

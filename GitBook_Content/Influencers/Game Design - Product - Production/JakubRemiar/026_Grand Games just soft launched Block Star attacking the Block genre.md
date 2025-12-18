@@ -1,3 +1,7 @@
+---
+title: "Grand Games just soft launched Block Star attacking the Block genre"
+---
+
 # Grand Games just soft launched Block Star, attacking the Block genre!
 
 [Grand Games](https://www.linkedin.com/company/grandgames/) just soft-launched Block Star ⭐ last week, attacking the Block genre 🟥, exactly as I predicted in a post here a month ago 😎 Why is this the most natural move considering their portfolio?

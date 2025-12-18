@@ -1,3 +1,7 @@
+---
+title: "The Ultimate Guide to Careers in the Gaming Industry"
+---
+
 # The Ultimate Guide to Careers in the Gaming Industry
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/07/image-88.png)

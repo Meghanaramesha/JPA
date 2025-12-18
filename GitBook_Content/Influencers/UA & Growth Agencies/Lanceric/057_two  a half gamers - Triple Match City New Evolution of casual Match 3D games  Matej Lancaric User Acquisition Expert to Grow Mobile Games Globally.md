@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Triple Match City New Evolution of casual (Match 3D) games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Triple Match City: New Evolution of casual (Match 3D) games – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/11/triple-match.png) 

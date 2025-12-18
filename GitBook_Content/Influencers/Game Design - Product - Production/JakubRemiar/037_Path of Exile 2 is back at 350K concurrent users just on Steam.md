@@ -1,3 +1,7 @@
+---
+title: "Path of Exile 2 is back at 350K concurrent users just on Steam."
+---
+
 # Path of Exile 2 is back at 350K concurrent users just on Steam.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Path-of-Exile-2-is-back-at-350K-concurrent-users-just-on-Steam.jpg)

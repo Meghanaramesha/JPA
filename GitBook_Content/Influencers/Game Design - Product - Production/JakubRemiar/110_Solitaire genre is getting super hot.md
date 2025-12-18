@@ -1,3 +1,7 @@
+---
+title: "Solitaire genre is getting super hot"
+---
+
 # Solitaire genre is getting super hot!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Solitaire-genre-is-getting-super-hot.jpg)

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - WeChat Mini-Games Exploring the World of Mini-Games with Lemon  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - WeChat Mini-Games: Exploring the World of Mini-Games with Lemon! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/09/session-minigames-wechat-lemon.png) 

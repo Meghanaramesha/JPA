@@ -1,3 +1,7 @@
+---
+title: "When starting the Development of a New Game"
+---
+
 # When starting the Development of a New Game
 
 ###### When starting the development of a new game, ask yourself:

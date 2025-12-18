@@ -1,3 +1,7 @@
+---
+title: "What is happening in the industry"
+---
+
 # What is happening in the industry?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-49.jpg)

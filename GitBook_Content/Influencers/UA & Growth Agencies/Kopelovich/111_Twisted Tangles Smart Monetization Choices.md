@@ -1,3 +1,7 @@
+---
+title: "Twisted Tangles Smart Monetization Choices"
+---
+
 # Twisted Tangle’s Smart Monetization Choices!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

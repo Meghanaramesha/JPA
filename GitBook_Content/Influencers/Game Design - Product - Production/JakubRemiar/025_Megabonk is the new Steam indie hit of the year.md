@@ -1,3 +1,7 @@
+---
+title: "Megabonk is the new Steam indie hit of the year"
+---
+
 # Megabonk is the new Steam indie hit of the year!
 
 Megabonk is the new Steam indie hit of the year, already past 85K 👀 concurrent users and still going up, with $2,5 Mil. 🤑 revenue in less than 2 weeks. What is this unique game about?  

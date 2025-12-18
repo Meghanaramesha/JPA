@@ -1,3 +1,7 @@
+---
+title: "Trending Live-Ops Events Grid Scavenger Hunt"
+---
+
 # Trending Live-Ops Events: Grid Scavenger Hunt
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

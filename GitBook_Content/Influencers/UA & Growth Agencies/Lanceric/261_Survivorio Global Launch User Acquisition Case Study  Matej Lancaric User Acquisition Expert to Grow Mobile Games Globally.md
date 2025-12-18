@@ -1,3 +1,7 @@
+---
+title: "Survivor.io Global Launch User Acquisition Case Study  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Survivor.io Global Launch User Acquisition Case Study – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Survivor.io Global Launch User Acquisition](https://lancaric.me/wp-content/uploads/2023/05/e18f5e264fd99a09b3956849f4db680a-thumb.jpeg) 

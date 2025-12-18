@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-gaming-industry-is-not-what-you-think
-title: The gaming industry is NOT what you think.
+title: "The gaming industry is NOT what you think."
 ---
 
 # The gaming industry is NOT what you think.

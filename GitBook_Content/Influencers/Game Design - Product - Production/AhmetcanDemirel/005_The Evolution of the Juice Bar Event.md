@@ -1,3 +1,7 @@
+---
+title: "The Evolution of the Juice Bar Event"
+---
+
 # The Evolution of the Juice Bar Event
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/The-Evolution-of-the-Juice-Bar-Event.jpg)

@@ -1,3 +1,7 @@
+---
+title: "How they made 100000s writing on LinkedIn  Lara Acosta Matt Barker Jacob Pegs"
+---
+
 # How they made $100,000s writing on LinkedIn | Lara Acosta, Matt Barker, Jacob Pegs
 
 **YouTube URL:** https://www.youtube.com/watch?v=l-QZ0a5N56M

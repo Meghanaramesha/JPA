@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 81 - Alien Invasion hybrid casual story Full Game design Ad monetization UA and creatives review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #81 - Alien Invasion hybrid casual story: Full Game design, Ad monetization, UA and creatives review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/10/session-81.jpg) 

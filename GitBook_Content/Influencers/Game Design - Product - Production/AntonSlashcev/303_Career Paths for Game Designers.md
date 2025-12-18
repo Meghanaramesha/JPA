@@ -1,3 +1,7 @@
+---
+title: "Career Paths for Game Designers"
+---
+
 # Career Paths for Game Designers
 
 Starting as a game designer is just the beginning.  

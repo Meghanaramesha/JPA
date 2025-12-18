@@ -1,3 +1,7 @@
+---
+title: "Why Great Games Still Fail Without Great Marketing  Matt Hitchcock"
+---
+
 # Why Great Games Still Fail Without Great Marketing | Matt Hitchcock
 
 **YouTube URL:** https://www.youtube.com/watch?v=7wtba1cK8d4

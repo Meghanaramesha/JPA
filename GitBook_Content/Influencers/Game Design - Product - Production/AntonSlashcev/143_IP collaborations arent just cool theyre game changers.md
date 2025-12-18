@@ -1,3 +1,7 @@
+---
+title: "IP collaborations arent just cool theyre game changers."
+---
+
 # IP collaborations aren’t just cool, they’re game changers.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/IP-collaborations-arent-just-cool-theyre-game-changers-1.jpg)

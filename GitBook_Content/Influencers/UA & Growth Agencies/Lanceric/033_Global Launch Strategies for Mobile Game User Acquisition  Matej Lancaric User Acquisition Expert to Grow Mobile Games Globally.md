@@ -1,3 +1,7 @@
+---
+title: "Global Launch Strategies for Mobile Game User Acquisition  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Global Launch Strategies for Mobile Game User Acquisition – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games Global Launch Strategies for User Acquisition](https://lancaric.me/wp-content/uploads/2024/11/global-launch-strategies-mobile-games-user-acquisition.png) 

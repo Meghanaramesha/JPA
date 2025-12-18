@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 73 - Meta Aggregated Event Measurement Harry Potter flop in the West Admon apocalypse tests  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #73 - Meta Aggregated Event Measurement, Harry Potter flop in the West, Admon apocalypse tests – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/07/session-73.jpg) 

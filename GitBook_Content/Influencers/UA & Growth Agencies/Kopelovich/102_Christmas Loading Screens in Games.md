@@ -1,3 +1,7 @@
+---
+title: "Christmas Loading Screens in Games"
+---
+
 # Christmas Loading Screens in Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

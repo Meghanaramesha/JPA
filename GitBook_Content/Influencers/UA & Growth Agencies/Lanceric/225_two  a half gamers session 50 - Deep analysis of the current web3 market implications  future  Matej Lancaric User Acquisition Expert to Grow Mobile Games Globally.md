@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 50 - Deep analysis of the current web3 market implications  future  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #50 - Deep analysis of the current web3 market, implications & future – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-50.png) 

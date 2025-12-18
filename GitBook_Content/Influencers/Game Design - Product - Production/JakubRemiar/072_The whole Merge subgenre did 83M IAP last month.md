@@ -1,3 +1,7 @@
+---
+title: "The whole Merge subgenre did 83M IAP last month."
+---
+
 # The whole Merge subgenre did $83M IAP last month.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/The-whole-Merge-subgenre-did-83M-IAP-last-month.jpg)

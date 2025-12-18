@@ -1,3 +1,7 @@
+---
+title: "Devs can forget about marketing as publishers handle it."
+---
+
 # Devs can forget about marketing, as publishers handle it.
 
 “Mobile developers can forget about marketing, as publishers will handle it!”

@@ -1,3 +1,7 @@
+---
+title: "Top 10 Social Features in Casual Games"
+---
+
 # Top 10 Social Features in Casual Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/image-41.jpg)

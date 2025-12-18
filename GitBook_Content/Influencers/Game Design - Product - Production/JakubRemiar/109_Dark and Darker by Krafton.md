@@ -1,3 +1,7 @@
+---
+title: "Dark and Darker by Krafton"
+---
+
 # Dark and Darker by Krafton
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Dark-and-Darker-by-Krafton.jpg)

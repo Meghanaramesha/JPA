@@ -1,3 +1,7 @@
+---
+title: "Idle Outpost Scaled to 150K a Day in July"
+---
+
 # Idle Outpost Scaled to $150K a Day in July
 
 Idle Outpost 🧟‍♀️ by [Rockbite Games Armenia](https://www.linkedin.com/company/rockbite-games/) published by [AppQuantum](https://www.linkedin.com/company/appquantum/) already scaled to $150K a day in July 🤑.

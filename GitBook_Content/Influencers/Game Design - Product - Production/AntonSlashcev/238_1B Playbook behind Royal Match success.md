@@ -1,3 +1,7 @@
+---
+title: "1B Playbook behind Royal Match success."
+---
+
 # $1B Playbook behind Royal Match success.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/image-61.jpg)

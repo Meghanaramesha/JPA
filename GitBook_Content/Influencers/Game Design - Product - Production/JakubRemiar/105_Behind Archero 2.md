@@ -1,3 +1,7 @@
+---
+title: "Behind Archero 2"
+---
+
 # Behind Archero 2
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Behind-Archero-2.jpg)

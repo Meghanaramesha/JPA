@@ -1,3 +1,7 @@
+---
+title: "Rivergames Portfolio 7M A Day"
+---
+
 # Rivergame’s Portfolio: $7M A Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Rivergames-portfolio-is-crossing-7M-A-Day-1.jpg)

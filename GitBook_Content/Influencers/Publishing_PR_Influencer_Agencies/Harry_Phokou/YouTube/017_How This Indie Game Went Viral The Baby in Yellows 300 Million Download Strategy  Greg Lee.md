@@ -1,3 +1,7 @@
+---
+title: "How This Indie Game Went Viral The Baby in Yellows 300 Million Download Strategy  Greg Lee"
+---
+
 # How This Indie Game Went Viral: The Baby in Yellow’s 300 Million Download Strategy | Greg Lee
 
 **YouTube URL:** https://www.youtube.com/watch?v=8QnwNnsPrp4

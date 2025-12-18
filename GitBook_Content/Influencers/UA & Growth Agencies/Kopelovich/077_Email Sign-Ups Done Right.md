@@ -1,3 +1,7 @@
+---
+title: "Email Sign-Ups Done Right"
+---
+
 # Email Sign-Ups Done Right
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

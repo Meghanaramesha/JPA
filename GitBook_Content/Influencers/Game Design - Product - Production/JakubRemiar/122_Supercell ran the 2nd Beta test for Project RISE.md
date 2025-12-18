@@ -1,3 +1,7 @@
+---
+title: "Supercell ran the 2nd Beta test for Project R.I.S.E"
+---
+
 # Supercell ran the 2nd Beta test for Project R.I.S.E
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/Supercell-ran-the-2nd-Beta-test-for-Project-R.I.S.E.jpg)

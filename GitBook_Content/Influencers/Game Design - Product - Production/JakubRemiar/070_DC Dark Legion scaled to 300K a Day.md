@@ -1,3 +1,7 @@
+---
+title: "DC Dark Legion scaled to 300K a Day"
+---
+
 # DC: Dark Legion scaled to $300K a Day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/DC-Dark-Legion-scaled-to-300K-a-Day.jpg)

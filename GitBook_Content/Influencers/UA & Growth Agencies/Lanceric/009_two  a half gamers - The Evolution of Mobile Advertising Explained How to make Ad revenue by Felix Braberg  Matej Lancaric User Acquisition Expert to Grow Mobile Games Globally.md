@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - The Evolution of Mobile Advertising Explained How to make Ad revenue by Felix Braberg  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - The Evolution of Mobile Advertising Explained: How to make Ad revenue by Felix Braberg – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2025/01/Lancaric.me-1640-x-432-px.png) 

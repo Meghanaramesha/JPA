@@ -1,3 +1,7 @@
+---
+title: "Is Clash Royale Supercells Last stand"
+---
+
 # Is Clash Royale Supercell’s Last stand?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/11/Is-Clash-Royale-Supercells-Last-stand.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Hyper  Hybrid  Casual  Midcore Comparison"
+---
+
 # Hyper / Hybrid / Casual / Midcore Comparison
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Midcore-Comparison.jpg)

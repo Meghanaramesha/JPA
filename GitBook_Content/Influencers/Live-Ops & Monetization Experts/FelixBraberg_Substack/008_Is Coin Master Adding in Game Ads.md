@@ -1,6 +1,5 @@
 ---
-original_url: https://felixbraberg.substack.com/p/is-coin-master-adding-in-game-ads
-title: Is Coin Master Adding in Game Ads?
+title: "Is Coin Master Adding in Game Ads"
 ---
 
 # Is Coin Master Adding in Game Ads?

@@ -1,3 +1,7 @@
+---
+title: "Honkai 3rd part 2  Is it a new game or just a new season"
+---
+
 # Honkai 3rd part 2 – Is it a new game or just a new season?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-52.jpg)

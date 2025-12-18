@@ -1,3 +1,7 @@
+---
+title: "Applivery Secures Strategic Investment from Supercell"
+---
+
 # Applivery Secures Strategic Investment from Supercell
 
 **Source:** https://www.gamigion.com/applivery-secures-strategic-investment-from-supercell/

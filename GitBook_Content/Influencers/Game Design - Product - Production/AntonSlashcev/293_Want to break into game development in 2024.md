@@ -1,3 +1,7 @@
+---
+title: "Want to break into game development in 2024"
+---
+
 # Want to break into game development in 2024?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-103.jpg)

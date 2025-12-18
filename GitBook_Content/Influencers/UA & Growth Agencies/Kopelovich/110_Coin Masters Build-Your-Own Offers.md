@@ -1,3 +1,7 @@
+---
+title: "Coin Masters Build-Your-Own Offers "
+---
+
 # Coin Master’s Build-Your-Own Offers! 🐷
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

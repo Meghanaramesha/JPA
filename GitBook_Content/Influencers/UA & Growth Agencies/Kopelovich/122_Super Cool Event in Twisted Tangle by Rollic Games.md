@@ -1,3 +1,7 @@
+---
+title: "Super Cool Event in Twisted Tangle by Rollic Games"
+---
+
 # Super Cool Event in “Twisted Tangle” by Rollic Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

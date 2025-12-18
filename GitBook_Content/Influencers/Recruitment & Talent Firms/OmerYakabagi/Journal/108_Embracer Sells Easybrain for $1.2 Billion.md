@@ -1,3 +1,7 @@
+---
+title: "Embracer Sells Easybrain for 1.2 Billion"
+---
+
 # Embracer Sells Easybrain for $1.2 Billion
 
 **Source:** https://www.gamigion.com/embracer-sells-easybrain-for-1-2-billion/

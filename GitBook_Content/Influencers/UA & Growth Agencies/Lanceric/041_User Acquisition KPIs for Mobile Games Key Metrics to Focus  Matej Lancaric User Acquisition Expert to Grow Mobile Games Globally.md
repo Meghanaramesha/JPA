@@ -1,3 +1,7 @@
+---
+title: "User Acquisition KPIs for Mobile Games Key Metrics to Focus  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Acquisition KPIs for Mobile Games: Key Metrics to Focus – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games User Acquisition KPIs & Metrics](https://lancaric.me/wp-content/uploads/2024/11/user-acquisition-kpis-metrics-mobile-games.png) 

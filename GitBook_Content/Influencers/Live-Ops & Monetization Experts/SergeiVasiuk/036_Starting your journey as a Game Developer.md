@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/starting-your-journey-as-a-game-developer
-title: Starting your journey as a Game Developer?
+title: "Starting your journey as a Game Developer"
 ---
 
 # Starting your journey as a Game Developer?

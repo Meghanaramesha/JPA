@@ -1,3 +1,7 @@
+---
+title: "Game Analysis The Evolution of Squad Busters -"
+---
+
 # Game Analysis: The Evolution of Squad Busters -
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-122-1024x512.png)

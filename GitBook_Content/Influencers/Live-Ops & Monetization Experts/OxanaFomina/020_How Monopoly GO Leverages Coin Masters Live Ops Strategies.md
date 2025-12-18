@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-monopoly-go-leverages-coin-masters-live-ops-strategies
-title: How Monopoly GO Leverages Coin Master’s Live Ops Strategies
+title: "How Monopoly GO Leverages Coin Masters Live Ops Strategies"
 ---
 
 # How Monopoly GO Leverages Coin Master’s Live Ops Strategies

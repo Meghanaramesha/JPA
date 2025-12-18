@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/want-to-keep-your-live-service-game-healthy
-title: Want to keep your live service game healthy?
+title: "Want to keep your live service game healthy"
 ---
 
 # Want to keep your live service game healthy?

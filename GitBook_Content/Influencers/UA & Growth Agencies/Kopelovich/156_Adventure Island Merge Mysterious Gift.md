@@ -1,3 +1,7 @@
+---
+title: "Adventure Island Merge Mysterious Gift"
+---
+
 # Adventure Island Merge: Mysterious Gift
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

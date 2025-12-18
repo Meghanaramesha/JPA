@@ -1,3 +1,7 @@
+---
+title: "Soft launching your mobile game - Workshop2  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Soft launching your mobile game - Workshop2 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/header4-pawel-czerwinski-RPMcxbm2zi4-unsplash.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "How UGC Beats Ads Proven Growth for Casual Games  Ada Mockute Jaime CMO at Nordcurrent"
+---
+
 # How UGC Beats Ads: Proven Growth for Casual Games | Ada Mockute Jaime, CMO at Nordcurrent
 
 **YouTube URL:** https://www.youtube.com/watch?v=ZMZ77m68pws

@@ -1,3 +1,7 @@
+---
+title: "Trending Game Mechanics of 2024 Innovation in Mobile Gaming"
+---
+
 # Trending Game Mechanics of 2024: Innovation in Mobile Gaming
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "Takeaways from Dublin Google App Summit 2025"
+---
+
 # Takeaways from Dublin, Google App Summit 2025
 
 **Source:** https://www.gamigion.com/appsummit/

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/extraordinary-results-from-monopoly-gos-tycoon-racers-event
-title: Extraordinary results from Monopoly Go’s Tycoon Racers event
+title: "Extraordinary results from Monopoly Gos Tycoon Racers event"
 ---
 
 # Extraordinary results from Monopoly Go’s Tycoon Racers event

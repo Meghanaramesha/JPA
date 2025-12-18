@@ -1,3 +1,7 @@
+---
+title: "Royal Match Level Design Insights"
+---
+
 # Royal Match Level Design Insights
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Royal-Match-Level-Design-Insights-1.jpg)

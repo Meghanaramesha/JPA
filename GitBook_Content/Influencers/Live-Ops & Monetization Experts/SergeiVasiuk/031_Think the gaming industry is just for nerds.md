@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/think-the-gaming-industry-is-just-for-nerds
-title: Think the gaming industry is just for nerds?
+title: "Think the gaming industry is just for nerds"
 ---
 
 # Think the gaming industry is just for nerds?

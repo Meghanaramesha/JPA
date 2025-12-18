@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/indian-gaming-industry-surge
-title: Indian Gaming Industry Surge
+title: "Indian Gaming Industry Surge"
 ---
 
 # Indian Gaming Industry Surge

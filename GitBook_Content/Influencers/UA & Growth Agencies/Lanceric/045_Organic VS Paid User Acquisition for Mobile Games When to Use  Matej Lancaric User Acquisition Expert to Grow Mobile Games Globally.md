@@ -1,3 +1,7 @@
+---
+title: "Organic VS Paid User Acquisition for Mobile Games When to Use  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Organic VS Paid User Acquisition for Mobile Games: When to Use? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games Organic vs Paid User Acquisition Strategies](https://lancaric.me/wp-content/uploads/2024/11/organic-vs-paid-user-acquisition-mobile-games.png) 

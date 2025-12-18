@@ -1,3 +1,7 @@
+---
+title: "22 Lessons Learned from Working on Billion-Dollar Games"
+---
+
 # 22 Lessons Learned from Working on Billion-Dollar Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/22-Lessons-Learned-from-Working-on-Billion-Dollar-Games.jpg)

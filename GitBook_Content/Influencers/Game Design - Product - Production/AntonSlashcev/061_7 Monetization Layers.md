@@ -1,3 +1,7 @@
+---
+title: "7 Monetization Layers"
+---
+
 # 7 Monetization Layers
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/7-Monetization-Layers.jpg)

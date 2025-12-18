@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-new-york-times-emerges-as-a-game-company
-title: The New York Times emerges as a game company
+title: "The New York Times emerges as a game company"
 ---
 
 # The New York Times emerges as a game company

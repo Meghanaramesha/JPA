@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/great-games-know-this-key-to-players-needs-2
-title: Great games know this key to players’ needs!
+title: "Great games know this key to players needs"
 ---
 
 # Great games know this key to players’ needs!

@@ -1,3 +1,7 @@
+---
+title: "2017 Guns of Boom was released to global launch"
+---
+
 # 2017: Guns of Boom was released to global launch
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-59.jpg)

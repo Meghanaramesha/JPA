@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 106 - Brawl Stars UA  Creative Strategies Game Review Radar vol4 GAM not dead yet  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #106 - Brawl Stars' UA & Creative Strategies, Game Review Radar vol4, GAM not dead yet? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/04/session-106.jpg) 

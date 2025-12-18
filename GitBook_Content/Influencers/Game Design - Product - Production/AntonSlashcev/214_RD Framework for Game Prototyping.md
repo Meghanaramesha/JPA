@@ -1,3 +1,7 @@
+---
+title: "RD Framework for Game Prototyping"
+---
+
 # R&D Framework for Game Prototyping
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/RD-Framework-for-Game-Prototyping.jpg)

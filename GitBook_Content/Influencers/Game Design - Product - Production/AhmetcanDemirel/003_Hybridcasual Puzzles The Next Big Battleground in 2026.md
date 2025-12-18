@@ -1,3 +1,7 @@
+---
+title: "Hybridcasual Puzzles The Next Big Battleground in 2026"
+---
+
 # Hybridcasual Puzzles: The Next Big Battleground in 2026
 
 If you are building puzzle games, you likely heard of “Hybridcasual Puzzle” way too often.

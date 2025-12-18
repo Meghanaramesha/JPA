@@ -1,3 +1,7 @@
+---
+title: "Why is your Day 7 retention so low"
+---
+
 # Why is your Day 7 retention so low?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Why-is-your-Day-7-retention-so-low.jpg)

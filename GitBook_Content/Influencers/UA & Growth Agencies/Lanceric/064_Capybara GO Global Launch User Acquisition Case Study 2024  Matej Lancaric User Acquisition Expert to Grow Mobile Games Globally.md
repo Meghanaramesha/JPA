@@ -1,3 +1,7 @@
+---
+title: "Capybara GO Global Launch User Acquisition Case Study 2024  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Capybara GO Global Launch User Acquisition Case Study 2024 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![カピバラGOゲームのローンチとユーザー獲得](https://lancaric.me/wp-content/uploads/2024/11/media-15.jpeg) 

@@ -1,3 +1,7 @@
+---
+title: "Why Some Puzzle Games are More Addicting"
+---
+
 # Why Some Puzzle Games are More Addicting?
 
 The puzzle genre is a powerhouse in mobile gaming, generating over $7 billion annually in in-app purchases (IAP). Despite this immense market, more than half of the revenue comes from a single subgenre: Match-3. Established giants dominate not only Match-3 but also other popular subgenres like Merge and Blast, making it incredibly difficult for new entrants to gain traction. In such a highly competitive space, innovation is the key to creating new opportunities, and we’ve seen that with the rise of Physical Match and Tile Match games. Titles like *Match Factory*, *Triple Match 3D*, and *Tile Busters* have successfully carved out space by introducing fresh mechanics to the puzzle category.

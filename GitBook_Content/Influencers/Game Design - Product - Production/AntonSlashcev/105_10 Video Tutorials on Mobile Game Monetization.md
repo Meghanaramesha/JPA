@@ -1,3 +1,7 @@
+---
+title: "10 Video Tutorials on Mobile Game Monetization"
+---
+
 # 10 Video Tutorials on Mobile Game Monetization:
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/10-Video-Tutorials-on-Mobile-Game-Monetization.jpg)

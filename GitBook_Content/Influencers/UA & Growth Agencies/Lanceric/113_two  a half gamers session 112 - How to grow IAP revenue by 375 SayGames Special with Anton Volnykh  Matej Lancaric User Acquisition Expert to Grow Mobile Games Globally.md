@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 112 - How to grow IAP revenue by 375 SayGames Special with Anton Volnykh  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #112 - How to grow IAP revenue by 375%? SayGames Special with Anton Volnykh – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/05/special-epsay-games-1.jpg) 

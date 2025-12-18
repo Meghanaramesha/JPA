@@ -1,3 +1,7 @@
+---
+title: "Game Development Hell Is A Real Challenge"
+---
+
 # Game Development Hell Is A Real Challenge
 
 ###### It happens more often than you think.

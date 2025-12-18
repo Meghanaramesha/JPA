@@ -1,3 +1,7 @@
+---
+title: "Boost your games engagement add Happy Hours"
+---
+
 # Boost your game’s engagement, add Happy Hours!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Boost-your-games-engagement-add-Happy-Hours-1.jpg)

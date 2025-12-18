@@ -1,3 +1,7 @@
+---
+title: "From Fake Ads to Fake core gameplay - The UA (r)evolution  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # From Fake Ads to Fake core gameplay - The UA (r)evolution – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![From Fake Ads to Fake core gameplay - The UA (r)evolution](https://lancaric.me/wp-content/uploads/2023/05/1024x576.png) 

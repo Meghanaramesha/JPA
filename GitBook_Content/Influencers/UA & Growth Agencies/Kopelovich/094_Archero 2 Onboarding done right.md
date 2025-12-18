@@ -1,3 +1,7 @@
+---
+title: "Archero 2 Onboarding done right"
+---
+
 # Archero 2: Onboarding done right!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

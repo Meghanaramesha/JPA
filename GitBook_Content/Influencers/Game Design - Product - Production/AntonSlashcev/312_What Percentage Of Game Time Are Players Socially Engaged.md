@@ -1,3 +1,7 @@
+---
+title: "What Percentage Of Game Time Are Players Socially Engaged"
+---
+
 # What Percentage Of Game Time Are Players Socially Engaged?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-47.png)

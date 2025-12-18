@@ -1,3 +1,7 @@
+---
+title: "Cut Meetings To Boost Creativity"
+---
+
 # Cut Meetings To Boost Creativity
 
 ##### Game producers, more meetings lead to better games.

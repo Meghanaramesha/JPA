@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/are-you-interested-in-game-development
-title: Are you interested in Game Development?
+title: "Are you interested in Game Development"
 ---
 
 # Are you interested in Game Development?

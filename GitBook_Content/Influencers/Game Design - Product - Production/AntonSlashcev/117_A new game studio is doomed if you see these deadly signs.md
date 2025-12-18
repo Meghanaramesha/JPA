@@ -1,3 +1,7 @@
+---
+title: "A new game studio is doomed if you see these deadly signs."
+---
+
 # A new game studio is doomed if you see these deadly signs.
 
 You can be sure a new game studio is doomed if you see these deadly signs:

@@ -1,3 +1,7 @@
+---
+title: "Steam vs Mobile Gaming Revenue"
+---
+
 # Steam vs Mobile Gaming Revenue
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Steam-vs-Mobile-Gaming-Revenue.jpg)

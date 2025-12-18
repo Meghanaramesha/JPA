@@ -1,3 +1,7 @@
+---
+title: "What Is The Process Of Creating a Narrative In Games"
+---
+
 # What Is The Process Of Creating a Narrative In Games?
 
 ##### Here is the pipeline I created and used when I was a Narrative Producer:

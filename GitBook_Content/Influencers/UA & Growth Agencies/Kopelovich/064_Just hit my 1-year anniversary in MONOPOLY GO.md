@@ -1,3 +1,7 @@
+---
+title: "Just hit my 1-year anniversary in MONOPOLY GO"
+---
+
 # Just hit my 1-year anniversary in MONOPOLY GO
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

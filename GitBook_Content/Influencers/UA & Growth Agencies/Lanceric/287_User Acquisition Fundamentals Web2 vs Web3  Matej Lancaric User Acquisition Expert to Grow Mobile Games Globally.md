@@ -1,3 +1,7 @@
+---
+title: "User Acquisition Fundamentals Web2 vs Web3  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Acquisition Fundamentals: Web2 vs Web3 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![User Acquisition of Web2 vs User Acquisition of Web3](https://lancaric.me/wp-content/uploads/2023/05/RR_Metaverse_02.jpg-1024×576.png) 

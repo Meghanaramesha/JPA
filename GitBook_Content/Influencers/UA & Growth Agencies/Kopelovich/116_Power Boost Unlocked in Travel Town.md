@@ -1,3 +1,7 @@
+---
+title: "Power Boost Unlocked in Travel Town"
+---
+
 # Power Boost Unlocked in Travel Town!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

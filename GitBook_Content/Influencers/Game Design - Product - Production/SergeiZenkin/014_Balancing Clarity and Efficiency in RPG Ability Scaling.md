@@ -1,3 +1,7 @@
+---
+title: "Balancing Clarity and Efficiency in RPG Ability Scaling"
+---
+
 # Balancing Clarity and Efficiency in RPG Ability Scaling
 
 In character abilities leveling design, I’ve always been interested in finding an answer to the question: how to scale percentage-based buffs and debuffs? So that they look clear to the player, but also increase efficiency in a meaningful way.  

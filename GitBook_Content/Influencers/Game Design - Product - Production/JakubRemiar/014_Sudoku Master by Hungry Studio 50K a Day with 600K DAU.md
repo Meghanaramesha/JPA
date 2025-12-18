@@ -1,3 +1,7 @@
+---
+title: "Sudoku Master by Hungry Studio 50K a Day with 600K DAU"
+---
+
 # Sudoku Master by Hungry Studio: $50K a Day with 600K DAU!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Sudoku-Master-by-Hungry-Studio-scaled-past-50K-a-Day-with-600K-DAU.jpg)

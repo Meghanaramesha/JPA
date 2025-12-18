@@ -1,3 +1,7 @@
+---
+title: "3 Layers of Game Design"
+---
+
 # 3 Layers of Game Design
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/3-Layers-of-Game-Design.jpg)

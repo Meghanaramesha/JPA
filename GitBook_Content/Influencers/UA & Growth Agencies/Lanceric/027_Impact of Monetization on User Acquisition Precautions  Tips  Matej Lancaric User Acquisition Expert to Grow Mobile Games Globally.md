@@ -1,3 +1,7 @@
+---
+title: "Impact of Monetization on User Acquisition Precautions  Tips  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Impact of Monetization on User Acquisition: Precautions & Tips – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Impact of Mobile Game Monetization on User Acquisition](https://lancaric.me/wp-content/uploads/2024/11/monetization-impact-on-user-acquisition.png) 

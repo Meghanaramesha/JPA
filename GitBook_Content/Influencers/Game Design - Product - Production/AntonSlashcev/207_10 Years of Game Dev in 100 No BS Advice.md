@@ -1,3 +1,7 @@
+---
+title: "10 Years of Game Dev in 100 No BS Advice"
+---
+
 # 10 Years of Game Dev in 100 No BS Advice
 
 ###### 10 Years of Game Development in 100 No BS Advice

@@ -1,3 +1,7 @@
+---
+title: "Career Guide for Your First Gaming Job"
+---
+
 # Career Guide for Your First Gaming Job
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-166.jpg)

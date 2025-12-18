@@ -1,3 +1,7 @@
+---
+title: "Top games hook you fast."
+---
+
 # Top games hook you fast.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Top-hames-hook-you-fast.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Emerging Role of Blockchain in Mobile Games Next Big Thing  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Emerging Role of Blockchain in Mobile Games: Next Big Thing? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Role of Blockchain on Mobile Games Growth](https://lancaric.me/wp-content/uploads/2024/11/impact-of-blockchain-mobile-games-growth.png) 

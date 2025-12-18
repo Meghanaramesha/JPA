@@ -1,3 +1,7 @@
+---
+title: "How Cup Heroes Monetizes Its Success"
+---
+
 # How Cup Heroes Monetizes Its Success
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/How-Cup-Heroes-Monetizes-Its-Success.jpg)

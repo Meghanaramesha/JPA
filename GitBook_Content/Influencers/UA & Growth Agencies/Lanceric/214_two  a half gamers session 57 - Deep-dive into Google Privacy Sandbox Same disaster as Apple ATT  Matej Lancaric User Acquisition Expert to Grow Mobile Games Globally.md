@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 57 - Deep-dive into Google Privacy Sandbox. Same disaster as Apple ATT  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #57 - Deep-dive into Google Privacy Sandbox. Same disaster as Apple ATT? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-57.png) 

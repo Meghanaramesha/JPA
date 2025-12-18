@@ -1,3 +1,7 @@
+---
+title: "Royal Kingdom vs Royal Match"
+---
+
 # Royal Kingdom vs Royal Match
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Royal-Kingdom-vs-Royal-Match.jpg)

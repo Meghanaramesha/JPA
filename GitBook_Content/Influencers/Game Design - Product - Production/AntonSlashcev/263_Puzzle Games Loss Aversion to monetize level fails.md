@@ -1,3 +1,7 @@
+---
+title: "Puzzle Games Loss Aversion to monetize level fails"
+---
+
 # Puzzle Games: Loss Aversion to monetize level fails
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/How-do-puzzle-games-use-Loss-Aversion-to-monetize-level-fails.jpg)

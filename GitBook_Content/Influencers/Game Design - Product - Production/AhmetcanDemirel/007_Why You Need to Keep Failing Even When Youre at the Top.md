@@ -1,3 +1,7 @@
+---
+title: "Why You Need to Keep Failing Even When Youre at the Top"
+---
+
 # Why You Need to Keep Failing Even When You’re at the Top
 
 When we look at the top games on the charts, the *Royal Matches*, the *Candy Crush Sagas*, the *Project Makeovers*, it’s easy to imagine that their developers must have discovered a secret formula. “It’s all in the numbers”, we think. “They must have the most perfect roadmap with every step masterfully calculated”. But the reality is much messier than that.

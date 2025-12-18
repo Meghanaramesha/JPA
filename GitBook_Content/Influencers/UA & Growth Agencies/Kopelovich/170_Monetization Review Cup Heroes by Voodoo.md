@@ -1,3 +1,7 @@
+---
+title: "Monetization Review Cup Heroes by Voodoo"
+---
+
 # Monetization Review: ‘Cup Heroes’ by Voodoo
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

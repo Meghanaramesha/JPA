@@ -1,3 +1,7 @@
+---
+title: "Best free resources for game developers"
+---
+
 # Best free resources for game developers
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/Best-free-resources-for-game-developers.jpg)

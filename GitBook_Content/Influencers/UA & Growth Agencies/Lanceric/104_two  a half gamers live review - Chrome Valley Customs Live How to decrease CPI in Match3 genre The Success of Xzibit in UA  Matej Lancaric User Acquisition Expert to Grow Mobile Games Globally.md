@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers live review - Chrome Valley Customs Live How to decrease CPI in Match3 genre The Success of Xzibit in UA  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers live review - Chrome Valley Customs Live: How to decrease CPI in Match3 genre? The Success of Xzibit in UA! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/07/live-review-sesh.png) 

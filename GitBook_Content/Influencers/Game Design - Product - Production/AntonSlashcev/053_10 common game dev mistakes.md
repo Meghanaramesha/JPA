@@ -1,3 +1,7 @@
+---
+title: "10 common game dev mistakes"
+---
+
 # 10 common game dev mistakes
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/10-common-game-dev-mistakes.jpg)

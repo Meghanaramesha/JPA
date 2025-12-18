@@ -1,3 +1,7 @@
+---
+title: "How to Design Daily Missions"
+---
+
 # How to Design Daily Missions
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/How-to-Design-Daily-Missions.jpg)

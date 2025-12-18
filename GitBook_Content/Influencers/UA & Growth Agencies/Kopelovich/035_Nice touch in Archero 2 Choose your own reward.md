@@ -1,3 +1,7 @@
+---
+title: "Nice touch in Archero 2 Choose your own reward."
+---
+
 # Nice touch in Archero 2: Choose your own reward.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

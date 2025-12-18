@@ -1,3 +1,7 @@
+---
+title: "My 2025 Product trends for Mobile Games Predictions"
+---
+
 # My 2025 Product trends for Mobile Games Predictions
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/My-2025-Product-trends-for-Mobile-Games-Predictions.jpg)

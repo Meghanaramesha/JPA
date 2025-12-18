@@ -1,3 +1,7 @@
+---
+title: "Win Streak Gift That Keeps on Giving"
+---
+
 # Win Streak: Gift That Keeps on Giving
 
 Puzzle games have a simple yet addicting core loop: playing levels. Since playing levels is the core action, beating them becomes the primary goal for players as they continue enjoying their favorite puzzle game. However, having a simplistic target like “beating levels” brings joy only to a certain extent. Experienced players who churn through dozens of levels every day aren’t satisfied with this simple target; they expect more in return for their investment of time and, hopefully, money.

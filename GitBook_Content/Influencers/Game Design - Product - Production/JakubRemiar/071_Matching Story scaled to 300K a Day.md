@@ -1,3 +1,7 @@
+---
+title: "Matching Story scaled to 300K a Day"
+---
+
 # Matching Story scaled to $300K a Day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Matching-Story-scaled-to-300K-a-Day.jpg)

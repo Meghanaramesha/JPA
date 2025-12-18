@@ -1,3 +1,7 @@
+---
+title: "Hooked on Little Farm Story"
+---
+
 # Hooked on Little Farm Story!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

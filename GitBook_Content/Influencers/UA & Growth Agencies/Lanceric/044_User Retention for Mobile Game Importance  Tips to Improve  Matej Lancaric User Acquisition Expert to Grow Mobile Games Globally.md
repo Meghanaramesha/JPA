@@ -1,3 +1,7 @@
+---
+title: "User Retention for Mobile Game Importance  Tips to Improve  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Retention for Mobile Game: Importance & Tips to Improve – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Importance of Mobile Games User Retention & Engagement with Tips](https://lancaric.me/wp-content/uploads/2024/11/user-retention-engagement-importance-mobile-games.png) 

@@ -1,3 +1,7 @@
+---
+title: "20 Key Mobile Game Metrics"
+---
+
 # 20 Key Mobile Game Metrics
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/20-Key-Mobile-Game-Metrics.jpg)

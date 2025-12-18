@@ -1,3 +1,7 @@
+---
+title: "ELO in PvP Games Matchmaking with Custom Game Requirements"
+---
+
 # ELO in PvP Games: Matchmaking with Custom Game Requirements
 
 ###### In the past, I’ve often seen PvP projects developed by teams that typically use ELO as their primary matchmaking solution.📝 This always seemed a bit as a risky choice because ELO is certainly a great system, but it was created for other purposes.

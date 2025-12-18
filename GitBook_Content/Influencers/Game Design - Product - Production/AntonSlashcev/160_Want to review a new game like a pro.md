@@ -1,3 +1,7 @@
+---
+title: "Want to review a new game like a pro"
+---
+
 # Want to review a new game like a pro?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Want-to-review-a-new-game-like-a-pro.jpg)

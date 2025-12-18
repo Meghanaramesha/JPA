@@ -1,3 +1,7 @@
+---
+title: "Game Publishers vs. Investors"
+---
+
 # Game Publishers vs. Investors
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Game-Publishers-vs.-Investors.jpg)

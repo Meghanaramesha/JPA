@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/game-deconstruction-magic-sort-by-grand-games
-title: Game Deconstruction: Magic Sort by Grand Games
+title: "Game Deconstruction Magic Sort by Grand Games"
 ---
 
 # Game Deconstruction: Magic Sort by Grand Games

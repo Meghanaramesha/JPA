@@ -1,3 +1,7 @@
+---
+title: "Hero Wars (Fake) Ads - False Advertising OGs  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Hero Wars (Fake) Ads - False Advertising OGs – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Hero Wars Fake Ads](https://lancaric.me/wp-content/uploads/2023/05/unnamed.jpg) 

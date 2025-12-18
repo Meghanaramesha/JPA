@@ -1,3 +1,7 @@
+---
+title: "Layers of Engagement in Games"
+---
+
 # Layers of Engagement in Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Layers-of-Engagement-in-Games.jpg)

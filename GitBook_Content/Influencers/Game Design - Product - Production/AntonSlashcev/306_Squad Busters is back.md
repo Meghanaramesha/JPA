@@ -1,3 +1,7 @@
+---
+title: "Squad Busters is back"
+---
+
 # Squad Busters is back?
 
 ##### **A recent major update resulted in a 125% increase in daily revenue.**

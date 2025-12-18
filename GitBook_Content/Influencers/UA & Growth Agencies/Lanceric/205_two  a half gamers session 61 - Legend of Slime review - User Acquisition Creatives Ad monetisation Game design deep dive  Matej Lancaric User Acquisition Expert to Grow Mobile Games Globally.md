@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 61 - Legend of Slime review - User Acquisition Creatives Ad monetisation Game design deep dive  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #61 - Legend of Slime review - User Acquisition, Creatives, Ad monetisation, Game design deep dive – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-61.png) 

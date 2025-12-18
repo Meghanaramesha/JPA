@@ -1,3 +1,7 @@
+---
+title: "Back to School meets in-game offers"
+---
+
 # Back to School meets in-game offers!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

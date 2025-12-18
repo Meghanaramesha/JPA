@@ -1,3 +1,7 @@
+---
+title: "Most news tabs in social casino games are forgettable."
+---
+
 # Most “news” tabs in social casino games are forgettable.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

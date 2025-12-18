@@ -1,3 +1,7 @@
+---
+title: "The Rise of Rollic Games"
+---
+
 # The Rise of Rollic Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/The-Rise-of-Rollic-Games.jpg)

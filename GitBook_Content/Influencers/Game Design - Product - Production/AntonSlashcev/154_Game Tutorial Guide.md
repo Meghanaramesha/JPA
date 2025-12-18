@@ -1,3 +1,7 @@
+---
+title: "Game Tutorial Guide"
+---
+
 # Game Tutorial Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Game-Tutorial-Guide.jpg)

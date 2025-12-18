@@ -1,3 +1,7 @@
+---
+title: "Loved this little UI detail in Magic Sort"
+---
+
 # Loved this little UI detail in Magic Sort!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

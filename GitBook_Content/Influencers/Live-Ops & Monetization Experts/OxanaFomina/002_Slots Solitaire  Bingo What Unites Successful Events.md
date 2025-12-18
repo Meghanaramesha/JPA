@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/slots-solitaire-bingo-what-unites-successful-events
-title: Slots, Solitaire & Bingo: What Unites Successful Events
+title: "Slots Solitaire  Bingo What Unites Successful Events"
 ---
 
 # Slots, Solitaire & Bingo: What Unites Successful Events

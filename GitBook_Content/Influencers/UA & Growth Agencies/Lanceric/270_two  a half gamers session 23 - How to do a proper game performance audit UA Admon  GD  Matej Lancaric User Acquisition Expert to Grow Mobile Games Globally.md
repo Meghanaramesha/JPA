@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 23 - How to do a proper game performance audit UA Admon  GD  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #23 - How to do a proper game performance audit? UA, Admon & GD – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Lancaric.me-4.png) 

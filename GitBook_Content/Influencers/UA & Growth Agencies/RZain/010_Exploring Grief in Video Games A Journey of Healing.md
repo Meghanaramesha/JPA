@@ -1,3 +1,7 @@
+---
+title: "Exploring Grief in Video Games A Journey of Healing"
+---
+
 # Exploring Grief in Video Games: A Journey of Healing
 
 [ART](#)

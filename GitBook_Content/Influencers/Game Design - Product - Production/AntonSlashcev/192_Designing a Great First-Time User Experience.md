@@ -1,3 +1,7 @@
+---
+title: "Designing a Great First-Time User Experience"
+---
+
 # Designing a Great First-Time User Experience
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Designing-a-Great-First-Time-User-Experience.jpg)

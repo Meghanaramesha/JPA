@@ -1,3 +1,7 @@
+---
+title: "How to Make Your Game Addictive"
+---
+
 # How to Make Your Game Addictive
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/How-to-Make-Your-Game-Addictive.jpg)

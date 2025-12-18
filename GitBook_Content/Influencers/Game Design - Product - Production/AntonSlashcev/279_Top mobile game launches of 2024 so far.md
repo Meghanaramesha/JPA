@@ -1,3 +1,7 @@
+---
+title: "Top mobile game launches of 2024 so far"
+---
+
 # Top mobile game launches of 2024 so far
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-5.jpg)

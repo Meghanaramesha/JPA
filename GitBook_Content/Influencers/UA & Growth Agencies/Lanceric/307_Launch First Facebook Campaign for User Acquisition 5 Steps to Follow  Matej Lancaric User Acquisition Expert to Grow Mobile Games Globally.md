@@ -1,3 +1,7 @@
+---
+title: "Launch First Facebook Campaign for User Acquisition 5 Steps to Follow  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Launch First Facebook Campaign for User Acquisition: 5 Steps to Follow – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Launching your First Facebook Campaign](https://lancaric.me/wp-content/uploads/2023/05/stiahnut.png) 

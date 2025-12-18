@@ -1,3 +1,7 @@
+---
+title: "Engaging FTUE Make or Break Your Game"
+---
+
 # Engaging FTUE: Make or Break Your Game
 
 Creating an engaging FTUE can make or break your game.  

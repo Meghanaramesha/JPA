@@ -1,3 +1,7 @@
+---
+title: "Game Development looks simple on the surface."
+---
+
 # Game Development looks simple on the surface.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Game-Development-looks-simple-on-the-surface.jpg)

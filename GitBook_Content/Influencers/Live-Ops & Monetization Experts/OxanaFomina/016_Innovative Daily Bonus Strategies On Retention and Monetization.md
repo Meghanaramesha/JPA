@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization
-title: Innovative Daily Bonus Strategies On Retention and Monetization
+title: "Innovative Daily Bonus Strategies On Retention and Monetization"
 ---
 
 # Innovative Daily Bonus Strategies On Retention and Monetization

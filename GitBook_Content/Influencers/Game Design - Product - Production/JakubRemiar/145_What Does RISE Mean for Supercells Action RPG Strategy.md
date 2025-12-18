@@ -1,3 +1,7 @@
+---
+title: "What Does R.I.S.E Mean for Supercells Action RPG Strategy"
+---
+
 # What Does R.I.S.E Mean for Supercell’s Action RPG Strategy?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-120.png)

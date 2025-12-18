@@ -1,3 +1,7 @@
+---
+title: "Jobs in Games How to get a job as a marketing manager and UA lead  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Jobs in Games: How to get a job as a marketing manager and UA lead – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/william-iven-gcsNOsPEXfs-unsplash.jpg) 

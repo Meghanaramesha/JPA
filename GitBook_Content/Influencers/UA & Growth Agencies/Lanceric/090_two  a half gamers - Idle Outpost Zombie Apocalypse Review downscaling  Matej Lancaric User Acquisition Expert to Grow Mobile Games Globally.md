@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Idle Outpost Zombie Apocalypse Review (down)scaling  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Idle Outpost Zombie Apocalypse Review: (down)scaling? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/08/zombie-apocalypse.jpg) 

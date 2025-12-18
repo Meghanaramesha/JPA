@@ -1,3 +1,7 @@
+---
+title: "How to Win the IOS14 User Acquisition Battle  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to Win the IOS14 User Acquisition Battle? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![ios14 User Acquisition Battle](https://lancaric.me/wp-content/uploads/2023/05/lancito_cyberpunk_ninja_slashing_numbers_in_the_post_apocalypti_381419f1-0d30-460a-b533-10fcd0a303dd.png) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 65 - Triple Tile vs. Triple Match 3D showdown In-depth UA creatives Admon Game design review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #65 - Triple Tile vs. Triple Match 3D showdown! In-depth UA, creatives, Admon, Game design review  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-65.jpg) 

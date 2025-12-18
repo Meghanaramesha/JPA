@@ -1,3 +1,7 @@
+---
+title: "Interesting approach in Cake Sort by Lion Studios"
+---
+
 # Interesting approach in Cake Sort by Lion Studios
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

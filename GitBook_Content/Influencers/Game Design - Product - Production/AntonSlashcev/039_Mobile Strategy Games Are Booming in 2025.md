@@ -1,3 +1,7 @@
+---
+title: "Mobile Strategy Games Are Booming in 2025"
+---
+
 # Mobile Strategy Games Are Booming in 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Mobile-Strategy-Games-Are-Booming-in-2025.jpg)

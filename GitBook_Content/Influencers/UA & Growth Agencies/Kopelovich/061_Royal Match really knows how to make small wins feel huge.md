@@ -1,3 +1,7 @@
+---
+title: "Royal Match really knows how to make small wins feel huge."
+---
+
 # Royal Match really knows how to make small wins feel huge.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

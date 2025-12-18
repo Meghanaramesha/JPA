@@ -1,3 +1,7 @@
+---
+title: "Dark War Survival by Rivergame scaled to 300K a Day"
+---
+
 # Dark War Survival by Rivergame scaled to $300K a Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/Dark-War-Survival-by-Rivergame-scaled-to-300K-a-Day.jpg)

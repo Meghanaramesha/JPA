@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/20-metrics-game-devs-must-track
-title: 20 Metrics Game Devs Must Track
+title: "20 Metrics Game Devs Must Track"
 ---
 
 # 20 Metrics Game Devs Must Track

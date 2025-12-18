@@ -1,3 +1,7 @@
+---
+title: "Brawl Stars Monthly Revenue Increased By 500"
+---
+
 # Brawl Stars: Monthly Revenue Increased By 500%
 
 ##### Brawl Stars’ monthly revenue increased by 500%.

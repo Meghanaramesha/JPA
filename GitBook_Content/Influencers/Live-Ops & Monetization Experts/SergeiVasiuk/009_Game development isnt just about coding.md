@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/game-development-isnt-just-about-coding
-title: Game development isn’t just about coding.
+title: "Game development isnt just about coding."
 ---
 
 # Game development isn’t just about coding.

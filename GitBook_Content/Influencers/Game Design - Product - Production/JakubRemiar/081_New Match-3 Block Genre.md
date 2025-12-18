@@ -1,3 +1,7 @@
+---
+title: "New Match-3 Block Genre"
+---
+
 # New Match-3: Block Genre?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/New-Match-3-Block-Genre.jpg)

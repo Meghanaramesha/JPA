@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Softlaunch Sonar 7 The Evolution of CPI Testing in Gaming  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Softlaunch Sonar #7: The Evolution of CPI Testing in Gaming – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/12/Lancaric.me-1640-x-432-px-1.png) 

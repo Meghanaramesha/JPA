@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 102 - Legend of Mushrooms Success 150Mil IAP revenue in 4 months Social features guilds UA  Admon  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #102 - Legend of Mushroom's Success: 150+Mil IAP revenue in 4 months? Social features, guilds, UA & Admon – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/03/sessions-102.png) 

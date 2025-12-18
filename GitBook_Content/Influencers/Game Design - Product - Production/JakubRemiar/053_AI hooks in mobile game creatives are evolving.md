@@ -1,3 +1,7 @@
+---
+title: "AI hooks in mobile game creatives are evolving."
+---
+
 # AI hooks in mobile game creatives are evolving.
 
 AI hooks in mobile game creatives are evolving. Now you not only need a great AI hook, but also a seamless transition into the creative itself 😎

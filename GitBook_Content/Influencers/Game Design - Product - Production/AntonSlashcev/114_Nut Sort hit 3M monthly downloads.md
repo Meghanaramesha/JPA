@@ -1,3 +1,7 @@
+---
+title: "Nut Sort hit 3M monthly downloads."
+---
+
 # Nut Sort hit 3M monthly downloads.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Nut-Sort-hit-3M-monthly-downloads.jpg)

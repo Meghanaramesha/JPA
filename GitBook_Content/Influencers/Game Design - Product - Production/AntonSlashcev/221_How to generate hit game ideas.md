@@ -1,3 +1,7 @@
+---
+title: "How to generate hit game ideas"
+---
+
 # How to generate hit game ideas?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/How-to-generate-hit-game-ideas.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Midcore Games Features Tier-List"
+---
+
 # Midcore Games Features Tier-List
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Midcore-Games-Features-Tier-List.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Scopely  Marvel Collaboration"
+---
+
 # Scopely & Marvel Collaboration
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/Scopely-Marvel-Collaboration.jpg)

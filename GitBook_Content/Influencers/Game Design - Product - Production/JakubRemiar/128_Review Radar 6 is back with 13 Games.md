@@ -1,3 +1,7 @@
+---
+title: "Review Radar 6 is back with 13 Games"
+---
+
 # Review Radar #6 is back with 13 Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-12.jpg)

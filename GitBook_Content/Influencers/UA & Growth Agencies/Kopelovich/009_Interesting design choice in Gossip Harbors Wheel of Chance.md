@@ -1,3 +1,7 @@
+---
+title: "Interesting design choice in Gossip Harbors Wheel of Chance"
+---
+
 # Interesting design choice in Gossip Harbor’s Wheel of Chance
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

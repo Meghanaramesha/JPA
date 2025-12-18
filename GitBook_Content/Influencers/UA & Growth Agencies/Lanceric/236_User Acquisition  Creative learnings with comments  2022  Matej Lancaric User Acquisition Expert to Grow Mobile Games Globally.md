@@ -1,3 +1,7 @@
+---
+title: "User Acquisition  Creative learnings with comments  2022  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Acquisition & Creative learnings with comments – 2022 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![UA Creative learnings with comments](https://lancaric.me/wp-content/uploads/2023/05/text.png) 

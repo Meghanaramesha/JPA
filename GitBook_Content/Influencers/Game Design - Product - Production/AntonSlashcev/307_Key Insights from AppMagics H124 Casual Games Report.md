@@ -1,3 +1,7 @@
+---
+title: "Key Insights from AppMagics H124 Casual Games Report"
+---
+
 # Key Insights from AppMagic’s H1’24 Casual Games Report
 
 • A solid 11% YoY revenue growth (casual; tier-1 west), reaching $7.2B —but not all genres fared equally.  

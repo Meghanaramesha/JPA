@@ -1,3 +1,7 @@
+---
+title: "Boost Mobile Game Installs Expert Tips by Ramiz Trtovac"
+---
+
 # Boost Mobile Game Installs: Expert Tips by Ramiz Trtovac
 
 ![fbpx](https://www.facebook.com/tr?id=1120946185643016&ev=PageView&noscript=1)

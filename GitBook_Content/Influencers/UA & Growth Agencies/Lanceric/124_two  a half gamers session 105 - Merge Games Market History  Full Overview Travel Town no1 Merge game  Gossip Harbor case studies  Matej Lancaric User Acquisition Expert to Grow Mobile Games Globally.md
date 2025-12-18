@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 105 - Merge Games Market History  Full Overview Travel Town no.1 Merge game  Gossip Harbor case studies  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #105 - Merge Games Market History & Full Overview: Travel Town no.1 Merge game & Gossip Harbor case studies – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/04/session-105.jpg) 

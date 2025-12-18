@@ -1,3 +1,7 @@
+---
+title: "Why Your Games Soft Launch Isnt Working  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Why Your Game's Soft Launch Isn't Working – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![soft launch low result reasons](https://lancaric.me/wp-content/uploads/2023/05/image-21-r471x.jpg) 

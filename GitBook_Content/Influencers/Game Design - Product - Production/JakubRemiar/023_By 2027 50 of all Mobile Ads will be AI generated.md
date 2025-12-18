@@ -1,3 +1,7 @@
+---
+title: "By 2027 50 of all Mobile Ads will be AI generated"
+---
+
 # By 2027, 50% of all Mobile Ads will be AI generated
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/AI-usage-in-Mobile-Games-Ad-Creatives-is-getting-so-big.gif)

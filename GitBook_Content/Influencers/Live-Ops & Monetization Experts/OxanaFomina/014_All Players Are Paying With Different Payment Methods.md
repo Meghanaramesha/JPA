@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/all-players-are-paying-with-different-payment-methods
-title: All Players Are Paying With Different Payment Methods
+title: "All Players Are Paying With Different Payment Methods"
 ---
 
 # All Players Are Paying With Different Payment Methods

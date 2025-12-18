@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 101 - 4X (R)evolution part2. Last War The biggest 4X in 2024 Crucial UA integration into core-loop  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #101 - 4X (R)evolution part2. Last War: The biggest 4X in 2024! Crucial UA integration into core-loop – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/03/session-101.jpg) 

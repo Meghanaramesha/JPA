@@ -1,3 +1,7 @@
+---
+title: "30 Small Things that Make Games More Fun"
+---
+
 # 30 Small Things that Make Games More Fun
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/30-Small-Things-that-Make-Games-More-Fun-1.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Lava Quest Breakdown"
+---
+
 # Lava Quest Breakdown
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Lava-Quest-Breakdown.jpg)

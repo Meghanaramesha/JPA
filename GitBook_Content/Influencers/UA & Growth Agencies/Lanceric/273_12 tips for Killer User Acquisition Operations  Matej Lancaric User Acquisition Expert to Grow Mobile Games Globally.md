@@ -1,3 +1,7 @@
+---
+title: "12 tips for Killer User Acquisition Operations  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # 12 tips for Killer User Acquisition Operations – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![User Acquisition post idfa Tips](https://lancaric.me/wp-content/uploads/2023/05/290084915_7657713370967548_8676638431265339879_n.png) 

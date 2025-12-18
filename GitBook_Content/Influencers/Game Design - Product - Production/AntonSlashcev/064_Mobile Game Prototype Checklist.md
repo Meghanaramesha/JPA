@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Prototype Checklist"
+---
+
 # Mobile Game Prototype Checklist
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Mobile-Game-Prototype-Checklist.jpg)

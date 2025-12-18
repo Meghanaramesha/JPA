@@ -1,3 +1,7 @@
+---
+title: "Squad Busters Revenue Drop by 50 For 2nd Month In A Row."
+---
+
 # Squad Busters: Revenue Drop by 50% For 2nd Month In A Row.
 
 ##### Is it time for Supercell to worry?

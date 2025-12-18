@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-to-design-your-player-journey-map
-title: How to design your player journey map?
+title: "How to design your player journey map"
 ---
 
 # How to design your player journey map?

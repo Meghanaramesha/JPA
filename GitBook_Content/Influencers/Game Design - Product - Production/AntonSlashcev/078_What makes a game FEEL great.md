@@ -1,3 +1,7 @@
+---
+title: "What makes a game FEEL great"
+---
+
 # What makes a game FEEL great?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/What-makes-a-game-FEEL-great.jpg)

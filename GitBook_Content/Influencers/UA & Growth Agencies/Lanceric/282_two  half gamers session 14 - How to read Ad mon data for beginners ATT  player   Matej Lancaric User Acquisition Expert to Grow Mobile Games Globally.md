@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 14 - How to read Ad mon data for beginners ATT  player   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #14 - How to read Ad mon data for beginners? ATT & player  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Untitled-920-x-250-px-800-x-250-px-1440-x-432-px-2-1.png) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Cup Heroes Voodoos new hybridcasual hit making 160kday Steady growth w adplacement excellence  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Cup Heroes: Voodoo's new hybridcasual hit making $160k/day! Steady growth w/ adplacement excellence – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/cup-heroes-voodoo.png) 

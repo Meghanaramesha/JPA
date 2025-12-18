@@ -1,3 +1,7 @@
+---
+title: "Clash Royale made 105M in 30 Days Top Game After 8 Years"
+---
+
 # Clash Royale made $105M in 30 Days, Top Game After 8 Years!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Clash-Royale-Roars-Back-105M-in-30-Days-Supercells-Top-Game-After-8-Years.jpg)

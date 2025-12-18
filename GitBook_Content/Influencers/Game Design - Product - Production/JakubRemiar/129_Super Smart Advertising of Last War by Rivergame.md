@@ -1,3 +1,7 @@
+---
+title: "Super Smart Advertising of Last War by Rivergame"
+---
+
 # Super Smart Advertising of Last War by Rivergame
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-244.jpg)

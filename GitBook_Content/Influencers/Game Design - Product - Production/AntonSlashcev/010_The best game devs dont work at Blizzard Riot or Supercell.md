@@ -1,3 +1,7 @@
+---
+title: "The best game devs dont work at Blizzard Riot or Supercell."
+---
+
 # The best game devs don’t work at Blizzard, Riot, or Supercell.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/11/The-best-game-devs-dont-work-at-Blizzard-Riot-or-Supercell.jpg)

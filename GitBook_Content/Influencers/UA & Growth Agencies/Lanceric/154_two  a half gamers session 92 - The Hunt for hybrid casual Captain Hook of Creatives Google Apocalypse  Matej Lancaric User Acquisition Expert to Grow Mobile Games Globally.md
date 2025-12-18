@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 92 - The Hunt for hybrid casual Captain Hook of Creatives Google Apocalypse  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #92 - The Hunt for hybrid casual, Captain Hook of Creatives, Google Apocalypse – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/01/session-92.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "Benchmarking AI with Super Mario"
+---
+
 # Benchmarking AI with Super Mario?
 
 **Source:** https://www.gamigion.com/speedrunning-super-mario-to-benchmark-ai/

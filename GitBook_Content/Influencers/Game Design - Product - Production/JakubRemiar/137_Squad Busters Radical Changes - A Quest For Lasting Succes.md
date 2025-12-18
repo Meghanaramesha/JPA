@@ -1,3 +1,7 @@
+---
+title: "Squad Busters Radical Changes - A Quest For Lasting Succes"
+---
+
 # Squad Busters: Radical Changes - A Quest For Lasting Succes
 
 ##### Jakub Remiar takes us through Supercell’s latest changes to Squad Busters and what to expect next from the game.

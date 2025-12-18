@@ -1,3 +1,7 @@
+---
+title: "What to do if your game has low retention"
+---
+
 # What to do if your game has low retention?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/image-58.jpg)

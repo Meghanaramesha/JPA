@@ -1,3 +1,7 @@
+---
+title: "All in Hole by Homa Scaled to 300K a Day"
+---
+
 # All in Hole by Homa Scaled to $300K a Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/All-in-Hole-by-Homa-Scaled-to-300K-a-Day.jpg)

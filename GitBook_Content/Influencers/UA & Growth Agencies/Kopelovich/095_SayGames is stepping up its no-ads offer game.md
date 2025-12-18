@@ -1,3 +1,7 @@
+---
+title: "SayGames is stepping up its no-ads offer game"
+---
+
 # SayGames is stepping up its no-ads offer game!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

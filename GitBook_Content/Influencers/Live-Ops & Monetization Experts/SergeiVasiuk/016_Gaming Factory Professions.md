@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/gaming-factory-professions
-title: Gaming Factory Professions
+title: "Gaming Factory Professions"
 ---
 
 # Gaming Factory Professions

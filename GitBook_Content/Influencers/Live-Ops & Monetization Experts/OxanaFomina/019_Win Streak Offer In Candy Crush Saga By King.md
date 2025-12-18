@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/win-streak-offer-in-candy-crush-saga-by-king
-title: Win Streak Offer In Candy Crush Saga By King
+title: "Win Streak Offer In Candy Crush Saga By King"
 ---
 
 # Win Streak Offer In Candy Crush Saga By King

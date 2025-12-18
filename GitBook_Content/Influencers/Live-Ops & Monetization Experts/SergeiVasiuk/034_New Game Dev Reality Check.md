@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/new-game-dev-reality-check
-title: New Game Dev Reality Check
+title: "New Game Dev Reality Check"
 ---
 
 # New Game Dev Reality Check

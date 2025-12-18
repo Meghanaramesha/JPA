@@ -1,3 +1,7 @@
+---
+title: "How to Choose an MMP in a Privacy-Centric Mobile Ecosystem  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to Choose an MMP in a Privacy-Centric Mobile Ecosystem? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![MMP in A Privacy Centric Mobile Ecosystem](https://lancaric.me/wp-content/uploads/2023/05/lancito_woman_sitting_infront_of_the_computer_thinking_very_har_dc39f541-9277-4429-ba10-5c7635ce92c6.png) 

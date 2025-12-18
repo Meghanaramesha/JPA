@@ -1,3 +1,7 @@
+---
+title: "Welcome Back reward screen in Dice Dreams"
+---
+
 # “Welcome Back” reward screen in Dice Dreams
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

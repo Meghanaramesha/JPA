@@ -1,3 +1,7 @@
+---
+title: "Fastest Mobile Games to 1B"
+---
+
 # Fastest Mobile Games to $1B
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Fastest-Mobile-Games-to-1B.jpg)

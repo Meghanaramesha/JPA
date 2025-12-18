@@ -1,3 +1,7 @@
+---
+title: "Habby Dominates the Roguelike Genre"
+---
+
 # Habby Dominates the Roguelike Genre
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Habby-Dominates-the-Roguelike-Genre-1.jpg)

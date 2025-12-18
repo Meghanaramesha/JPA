@@ -1,3 +1,7 @@
+---
+title: "Ultimate Cheat Sheet for Mobile Game Marketing"
+---
+
 # Ultimate Cheat Sheet for Mobile Game Marketing
 
 ###### In a struggling market for performance marketing, mobile developers are increasingly exploring diverse promotional strategies for their games.

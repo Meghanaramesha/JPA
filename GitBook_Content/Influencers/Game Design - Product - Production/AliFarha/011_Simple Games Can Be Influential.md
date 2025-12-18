@@ -1,3 +1,7 @@
+---
+title: "Simple Games Can Be Influential"
+---
+
 # Simple Games Can Be Influential
 
 #### “Banana” shows us why.

@@ -1,3 +1,7 @@
+---
+title: "Puzzle Genres Heatmap 2024"
+---
+
 # Puzzle Genres Heatmap 2024
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Puzzle-Genres-Heatmap-2024.jpg)

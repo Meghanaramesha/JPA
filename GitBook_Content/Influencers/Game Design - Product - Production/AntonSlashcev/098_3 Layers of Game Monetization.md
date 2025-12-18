@@ -1,3 +1,7 @@
+---
+title: "3 Layers of Game Monetization"
+---
+
 # 3 Layers of Game Monetization
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/3-Layers-of-Game-Monetization.jpg)

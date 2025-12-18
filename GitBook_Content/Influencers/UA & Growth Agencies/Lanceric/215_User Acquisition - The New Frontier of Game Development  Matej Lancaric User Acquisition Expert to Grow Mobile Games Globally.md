@@ -1,3 +1,7 @@
+---
+title: "User Acquisition - The New Frontier of Game Development  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # User Acquisition - The New Frontier of Game Development – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![User Acquisition - The New Frontier of Game Development](https://lancaric.me/wp-content/uploads/2023/05/Screen-Shot-2023-03-22-at-23.24.19.png) 

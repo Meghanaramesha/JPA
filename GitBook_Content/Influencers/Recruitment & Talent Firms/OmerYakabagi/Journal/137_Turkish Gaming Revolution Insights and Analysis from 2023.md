@@ -1,3 +1,7 @@
+---
+title: "Turkish Gaming Revolution Insights and Analysis from 2023"
+---
+
 # Turkish Gaming Revolution: Insights and Analysis from 2023
 
 **Source:** https://www.gamigion.com/turkiye-game-market-report-2023/

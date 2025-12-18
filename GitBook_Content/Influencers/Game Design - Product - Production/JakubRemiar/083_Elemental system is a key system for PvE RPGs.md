@@ -1,3 +1,7 @@
+---
+title: "Elemental system is a key system for PvE RPGs"
+---
+
 # Elemental system is a key system for PvE RPGs
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Elemental-system-is-a-key-system-for-PvE-RPGs.jpg)

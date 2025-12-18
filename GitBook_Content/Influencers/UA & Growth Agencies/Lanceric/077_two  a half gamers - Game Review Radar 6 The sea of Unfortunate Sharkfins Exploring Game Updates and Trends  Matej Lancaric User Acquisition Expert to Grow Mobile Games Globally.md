@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Game Review Radar 6 The sea of Unfortunate Sharkfins Exploring Game Updates and Trends  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Game Review Radar #6: The sea of Unfortunate Sharkfins! Exploring Game Updates and Trends – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/review-radar.png) 

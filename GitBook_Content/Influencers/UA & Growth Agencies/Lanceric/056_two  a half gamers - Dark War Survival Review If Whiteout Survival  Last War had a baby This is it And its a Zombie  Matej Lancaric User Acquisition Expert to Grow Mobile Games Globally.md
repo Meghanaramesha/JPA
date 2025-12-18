@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Dark War Survival Review If Whiteout Survival  Last War had a baby. This is it And its a Zombie  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Dark War Survival Review: If Whiteout Survival & Last War had a baby. This is it! And it's a Zombie – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/11/Lancaric.me-1640-x-432-px-3.png) 

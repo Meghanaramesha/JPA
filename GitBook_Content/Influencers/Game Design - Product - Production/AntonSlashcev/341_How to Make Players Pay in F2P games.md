@@ -1,3 +1,7 @@
+---
+title: "How to Make Players Pay in F2P games"
+---
+
 # How to Make Players Pay in F2P games?
 
 ##### Make them feel like they DON’T need to pay.

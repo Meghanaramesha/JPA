@@ -1,3 +1,7 @@
+---
+title: "Knowing Your Game Is Half the Battle"
+---
+
 # Knowing Your Game Is Half the Battle
 
 ##### But the other half? Understanding the genres.

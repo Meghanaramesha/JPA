@@ -1,3 +1,7 @@
+---
+title: "Take note casual game developers"
+---
+
 # Take note, casual game developers!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

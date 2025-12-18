@@ -1,3 +1,7 @@
+---
+title: "How To Pitch Your Game"
+---
+
 # How To Pitch Your Game
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/How-To-Pitch-Your-Game.jpg)

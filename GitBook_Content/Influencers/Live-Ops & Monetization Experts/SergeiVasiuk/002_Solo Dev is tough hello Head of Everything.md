@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/solo-dev-is-tough-hello-head-of-everything
-title: Solo Dev is tough; hello, Head of Everything.
+title: "Solo Dev is tough hello Head of Everything."
 ---
 
 # Solo Dev is tough; hello, Head of Everything.

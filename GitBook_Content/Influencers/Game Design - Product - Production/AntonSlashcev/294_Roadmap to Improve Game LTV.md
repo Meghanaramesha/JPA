@@ -1,3 +1,7 @@
+---
+title: "Roadmap to Improve Game LTV"
+---
+
 # Roadmap to Improve Game LTV
 
 ###### A roadmap to improve a game’s LTV isn’t as complicated as it sounds.

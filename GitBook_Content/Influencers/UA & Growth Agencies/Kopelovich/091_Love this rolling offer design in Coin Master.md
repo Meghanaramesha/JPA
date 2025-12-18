@@ -1,3 +1,7 @@
+---
+title: "Love this rolling offer design in Coin Master"
+---
+
 # Love this rolling offer design in Coin Master!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

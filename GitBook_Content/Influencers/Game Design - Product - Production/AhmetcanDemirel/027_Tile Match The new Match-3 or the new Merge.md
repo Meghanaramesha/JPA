@@ -1,3 +1,7 @@
+---
+title: "Tile Match The new Match-3 or the new Merge"
+---
+
 # Tile Match: The new Match-3 or the new Merge?
 
 It’s hard to keep secrets in the gaming industry. Once players show interest in something you’ve created, many game developers worldwide quickly become “inspired” by your game. While finding the blue ocean is the enduring hot topic for game developers, **staying relevant as that ocean turns red is a rare and more valuable skill to possess.**

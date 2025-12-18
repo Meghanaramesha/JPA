@@ -1,3 +1,7 @@
+---
+title: "Trending Live-Ops Events Team Up for Rewards"
+---
+
 # Trending Live-Ops Events: Team Up for Rewards!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

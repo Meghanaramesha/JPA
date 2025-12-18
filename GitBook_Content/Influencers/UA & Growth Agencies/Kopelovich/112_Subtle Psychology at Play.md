@@ -1,3 +1,7 @@
+---
+title: "Subtle Psychology at Play "
+---
+
 # Subtle Psychology at Play? 🔥
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

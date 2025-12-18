@@ -1,3 +1,7 @@
+---
+title: "Grand Gamess Car Match has already crossed 100K a Day"
+---
+
 # Grand Games’s Car Match has already crossed $100K a Day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Grand-Gamess-Car-Match-already-crossed-100K-a-Day.jpg)

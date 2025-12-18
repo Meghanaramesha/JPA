@@ -1,3 +1,7 @@
+---
+title: "Top 5 Mobile Game Marketing Strategies for 2024"
+---
+
 # Top 5 Mobile Game Marketing Strategies for 2024
 
 ![fbpx](https://www.facebook.com/tr?id=1120946185643016&ev=PageView&noscript=1)

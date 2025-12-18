@@ -1,3 +1,7 @@
+---
+title: "Daily rewards design in Block Heads"
+---
+
 # Daily rewards design in Block Heads
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

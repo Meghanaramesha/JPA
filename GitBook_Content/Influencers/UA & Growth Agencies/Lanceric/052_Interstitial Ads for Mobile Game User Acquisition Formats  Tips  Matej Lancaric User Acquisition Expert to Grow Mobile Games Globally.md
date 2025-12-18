@@ -1,3 +1,7 @@
+---
+title: "Interstitial Ads for Mobile Game User Acquisition Formats  Tips  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Interstitial Ads for Mobile Game User Acquisition: Formats & Tips – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Interstitial Apps for Mobile Games User Acquisition](https://lancaric.me/wp-content/uploads/2024/11/interstitial-ads-user-acquisition-mobile-games.png) 

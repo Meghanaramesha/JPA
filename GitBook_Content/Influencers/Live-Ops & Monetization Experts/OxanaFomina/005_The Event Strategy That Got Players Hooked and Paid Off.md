@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/the-event-strategy-that-got-players-hooked-and-paid-off
-title: The Event Strategy That Got Players Hooked and Paid Off
+title: "The Event Strategy That Got Players Hooked and Paid Off"
 ---
 
 # The Event Strategy That Got Players Hooked and Paid Off

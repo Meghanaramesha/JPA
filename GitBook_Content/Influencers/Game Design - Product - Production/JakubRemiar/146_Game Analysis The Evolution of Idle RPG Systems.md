@@ -1,3 +1,7 @@
+---
+title: "Game Analysis The Evolution of Idle RPG Systems"
+---
+
 # Game Analysis: The Evolution of Idle RPG Systems
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-121.png)

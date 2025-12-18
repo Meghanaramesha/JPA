@@ -1,3 +1,7 @@
+---
+title: "Noticed this cross-promo in Word Trip by PlaySimple Games"
+---
+
 # Noticed this cross-promo in Word Trip by PlaySimple Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

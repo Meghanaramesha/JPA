@@ -1,3 +1,7 @@
+---
+title: "Spotted in Ghost Invasion by Miniclip"
+---
+
 # Spotted in Ghost Invasion by Miniclip
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

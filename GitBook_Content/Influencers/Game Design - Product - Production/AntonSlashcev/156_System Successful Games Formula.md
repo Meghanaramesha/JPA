@@ -1,3 +1,7 @@
+---
+title: "System Successful Games Formula"
+---
+
 # System: Successful Games’ Formula
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/System-Successful-Games-Formula.jpg)

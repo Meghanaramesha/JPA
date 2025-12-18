@@ -1,3 +1,7 @@
+---
+title: "Match Villains by Good Job Games keeps scaling aggressively"
+---
+
 # Match Villains by Good Job Games keeps scaling aggressively!
 
 Match Villains by [Good Job Games](https://www.linkedin.com/company/goodjobgames/) continues to aggressively scale to $160K a day with 120K downloads a day in Match3 category 😲. Their downloads increased by 100% from last month? What is happening?  

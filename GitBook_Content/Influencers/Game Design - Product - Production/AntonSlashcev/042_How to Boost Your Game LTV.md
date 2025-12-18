@@ -1,3 +1,7 @@
+---
+title: "How to Boost Your Game LTV"
+---
+
 # How to Boost Your Game LTV
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/How-to-Boost-Your-Game-LTV.jpg)

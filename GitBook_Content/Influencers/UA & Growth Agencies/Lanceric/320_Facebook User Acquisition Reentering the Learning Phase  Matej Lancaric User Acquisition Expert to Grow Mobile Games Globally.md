@@ -1,3 +1,7 @@
+---
+title: "Facebook User Acquisition Reentering the Learning Phase  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Facebook User Acquisition: Reentering the Learning Phase – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![fb ua reentering learning phase](https://lancaric.me/wp-content/uploads/2020/04/fb-reentering-learning-phase.png) 

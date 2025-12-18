@@ -1,3 +1,7 @@
+---
+title: "Essential Game Design Patterns"
+---
+
 # Essential Game Design Patterns
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Essential-Game-Design-Patterns.jpg)

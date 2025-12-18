@@ -1,3 +1,7 @@
+---
+title: "Optimizing FTUE First 30 Minutes of 30 Top Casual Games"
+---
+
 # Optimizing FTUE: First 30 Minutes of 30 Top Casual Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-240.jpg)

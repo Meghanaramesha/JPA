@@ -1,3 +1,7 @@
+---
+title: "Hexa Sort is crushing it with 15M A Month"
+---
+
 # Hexa Sort is crushing it with $15M A Month
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-46.jpg)

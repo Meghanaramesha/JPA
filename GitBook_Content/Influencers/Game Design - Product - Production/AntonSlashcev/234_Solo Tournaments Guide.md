@@ -1,3 +1,7 @@
+---
+title: "Solo Tournaments Guide"
+---
+
 # Solo Tournaments Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/Solo-Tournaments-Guide.jpg)

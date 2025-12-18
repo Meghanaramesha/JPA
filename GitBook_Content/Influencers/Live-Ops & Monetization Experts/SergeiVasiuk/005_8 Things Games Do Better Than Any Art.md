@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/8-things-games-do-better-than-any-art
-title: 8 Things Games Do Better Than Any Art
+title: "8 Things Games Do Better Than Any Art"
 ---
 
 # 8 Things Games Do Better Than Any Art

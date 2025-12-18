@@ -1,3 +1,7 @@
+---
+title: "20 traps that ruin your Live Ops  How to Avoid"
+---
+
 # 20 traps that ruin your Live Ops & How to Avoid
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/image-14.jpg)

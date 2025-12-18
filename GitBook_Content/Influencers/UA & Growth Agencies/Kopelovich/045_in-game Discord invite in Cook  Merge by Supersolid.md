@@ -1,3 +1,7 @@
+---
+title: "in-game Discord invite in Cook  Merge by Supersolid"
+---
+
 # in-game Discord invite in Cook & Merge by Supersolid!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

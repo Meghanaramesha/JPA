@@ -1,3 +1,7 @@
+---
+title: "Loving This Offer Design in Seaside Escape"
+---
+
 # Loving This Offer Design in Seaside Escape
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

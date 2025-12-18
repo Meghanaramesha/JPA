@@ -1,3 +1,7 @@
+---
+title: "How to stop sexist creatives in User Acquisition  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to stop sexist creatives in User Acquisition – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![How to stop sexist creatives in User Acquisition](https://lancaric.me/wp-content/uploads/2023/05/no_to_sexist_advertising_logo_en_180306-e1672180640381.jpeg) 

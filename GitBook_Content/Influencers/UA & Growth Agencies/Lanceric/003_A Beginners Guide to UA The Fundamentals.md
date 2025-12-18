@@ -1,3 +1,7 @@
+---
+title: "A Beginners Guide to UA The Fundamentals"
+---
+
 # A Beginners Guide to UA: The Fundamentals
 
 ![](https://lancaric.me/wp-content/uploads/2025/04/Your-ads-are-boring.png) 

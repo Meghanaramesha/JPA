@@ -1,3 +1,7 @@
+---
+title: "Unleash the Slime Global Case Study. How to supercharge their User Acquisition  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Unleash the Slime: Global Case Study. How to supercharge their User Acquisition? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Unleash the Slime: Global Case Study. How to supercharge their User Acquisition?](https://lancaric.me/wp-content/uploads/2023/05/a6ce197be8d3fe16f8310222be2683e4.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "Will AI Finally Kill User Acquisition  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Will AI Finally Kill User Acquisition? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![role of AI in user acquisition](https://lancaric.me/wp-content/uploads/2023/06/0_An-image-showing-scene-where-AI-robot-is-fighting-_esrgan-v1-x2plus.png) 

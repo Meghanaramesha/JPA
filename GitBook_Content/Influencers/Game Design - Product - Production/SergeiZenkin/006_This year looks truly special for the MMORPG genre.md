@@ -1,3 +1,7 @@
+---
+title: "This year looks truly special for the MMORPG genre."
+---
+
 # This year looks truly special for the MMORPG genre.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-51.jpg)

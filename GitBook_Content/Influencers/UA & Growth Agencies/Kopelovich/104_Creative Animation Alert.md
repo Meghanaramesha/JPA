@@ -1,3 +1,7 @@
+---
+title: "Creative Animation Alert"
+---
+
 # Creative Animation Alert!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

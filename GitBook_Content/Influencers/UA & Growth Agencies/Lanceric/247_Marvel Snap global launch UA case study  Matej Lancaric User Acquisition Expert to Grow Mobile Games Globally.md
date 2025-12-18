@@ -1,3 +1,7 @@
+---
+title: "Marvel Snap global launch UA case study  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Marvel Snap global launch UA case study – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Marvel Snap global launch UA case study](https://lancaric.me/wp-content/uploads/2023/05/MARVEL-SNAP-KA-HORIZONTAL.png) 

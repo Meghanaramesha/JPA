@@ -1,3 +1,7 @@
+---
+title: "Megabonk just passed 117K Concurent users on Steam"
+---
+
 # Megabonk just passed 117K Concurent users on Steam!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Megabonk-just-passed-117K-Concurent-users-on-Steam.jpg)

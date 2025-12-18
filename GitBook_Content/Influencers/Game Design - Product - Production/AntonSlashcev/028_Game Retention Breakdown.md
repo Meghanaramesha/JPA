@@ -1,3 +1,7 @@
+---
+title: "Game Retention Breakdown"
+---
+
 # Game Retention Breakdown
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Game-Retention-Breakdown.jpg)

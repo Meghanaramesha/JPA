@@ -1,3 +1,7 @@
+---
+title: "Royal Match Feature Stack"
+---
+
 # Royal Match Feature Stack
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Royal-Match-Feature-Stack.jpg)

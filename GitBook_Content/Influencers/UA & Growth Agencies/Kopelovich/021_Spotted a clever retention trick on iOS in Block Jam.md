@@ -1,3 +1,7 @@
+---
+title: "Spotted a clever retention trick on iOS in Block Jam"
+---
+
 # Spotted a clever retention trick on iOS in Block Jam
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

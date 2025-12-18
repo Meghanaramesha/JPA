@@ -1,3 +1,7 @@
+---
+title: "Getting a Game Dev Degree is the WORST use of time and money."
+---
+
 # Getting a Game Dev Degree is the WORST use of time and money.
 
 ###### 

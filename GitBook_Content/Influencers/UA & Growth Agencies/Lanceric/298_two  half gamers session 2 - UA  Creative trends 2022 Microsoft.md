@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 2 - UA  Creative trends 2022 Microsoft"
+---
+
 # two & half gamers session #2 - UA & Creative trends 2022, Microsoft
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/episode-2-cover.png) 

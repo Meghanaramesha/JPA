@@ -1,3 +1,7 @@
+---
+title: "App Quality Ads AI Sustainable Growth in Mobile Gaming"
+---
+
 # App Quality, Ads, AI: Sustainable Growth in Mobile Gaming
 
 **Source:** https://www.gamigion.com/app-quality-ads-ai-sustainable-growth-in-mobile-gaming/

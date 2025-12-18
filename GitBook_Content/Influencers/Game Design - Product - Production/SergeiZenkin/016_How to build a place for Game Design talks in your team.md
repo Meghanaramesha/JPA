@@ -1,3 +1,7 @@
+---
+title: "How to build a place for Game Design talks in your team"
+---
+
 # How to build a place for “Game Design” talks in your team?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-55.jpg)

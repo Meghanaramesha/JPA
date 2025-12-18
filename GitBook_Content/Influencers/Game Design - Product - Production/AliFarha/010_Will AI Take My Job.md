@@ -1,3 +1,7 @@
+---
+title: "Will AI Take My Job"
+---
+
 # Will AI Take My Job?
 
 ##### This is the question everyone is asking these days.

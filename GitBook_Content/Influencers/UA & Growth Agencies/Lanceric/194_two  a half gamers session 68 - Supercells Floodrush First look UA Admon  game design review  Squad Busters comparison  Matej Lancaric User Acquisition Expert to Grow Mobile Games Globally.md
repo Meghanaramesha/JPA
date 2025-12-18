@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 68 - Supercells Floodrush First look UA Admon  game design review  Squad Busters comparison  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #68 - Supercell's Floodrush: First look! UA, Admon & game design review & Squad Busters comparison – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/06/session-68.png) 

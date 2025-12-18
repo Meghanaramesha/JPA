@@ -1,3 +1,7 @@
+---
+title: "Already 1 year since the launch of Pokemon TCG Pocket."
+---
+
 # Already 1 year since the launch of Pokemon TCG Pocket.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Already-1-year-since-the-launch-of-Pokemon-TCG-Pocket.jpg)

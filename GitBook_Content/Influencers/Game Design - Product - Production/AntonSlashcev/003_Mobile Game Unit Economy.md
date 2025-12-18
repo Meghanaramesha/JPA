@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Unit Economy"
+---
+
 # Mobile Game Unit Economy
 
 *Let’s break down the math behind profitable scaling.*  

@@ -1,3 +1,7 @@
+---
+title: "How Social Gameplay Can Help Your Game Grow At Every Stage"
+---
+
 # How Social Gameplay Can Help Your Game Grow At Every Stage
 
 Social gameplay is often treated like a final boss in game development. It’s the cherry on top that studios promise themselves they’ll add once they’ve made it. And as Adam and Laura jokingly mentioned on the TWIG podcast some time ago, it ends up becoming “social gameplay jazz hands”. A flashy but often empty gesture toward something fundamentally valuable.

@@ -1,3 +1,7 @@
+---
+title: "Treasure Hunt Event Guide"
+---
+
 # Treasure Hunt Event Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Treasure-Hunt-Event-Guide.jpg)

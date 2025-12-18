@@ -1,3 +1,7 @@
+---
+title: "Uma Musume has the best in class roguelite system design."
+---
+
 # Uma Musume has the best in class roguelite system design.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Uma-Musume-has-the-best-in-class-roguelite-system-design.jpg)

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/you-can-make-millions-at-a-price-point-of-0
-title: You can make Millions at a price point of $0
+title: "You can make Millions at a price point of 0"
 ---
 
 # You can make Millions at a price point of $0

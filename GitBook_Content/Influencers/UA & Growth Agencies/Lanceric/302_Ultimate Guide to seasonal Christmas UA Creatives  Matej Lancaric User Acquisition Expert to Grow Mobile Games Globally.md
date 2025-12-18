@@ -1,3 +1,7 @@
+---
+title: "Ultimate Guide to seasonal (Christmas) UA Creatives  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Ultimate Guide to seasonal (Christmas) UA Creatives – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Ultimate Guide to seasonal (Christmas) UA Creatives](https://lancaric.me/wp-content/uploads/2023/05/Screen-Shot-2021-12-12-at-08.55.15.png) 

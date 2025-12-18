@@ -1,3 +1,7 @@
+---
+title: "Your game features arent USPs."
+---
+
 # Your game features aren’t USPs.
 
 ###### Sorry, but your game features aren’t USPs.

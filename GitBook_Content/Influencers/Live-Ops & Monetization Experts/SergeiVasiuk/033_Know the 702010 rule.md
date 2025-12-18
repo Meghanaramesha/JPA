@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/know-the-70-20-10-rule
-title: Know the 70/20/10 rule?
+title: "Know the 702010 rule"
 ---
 
 # Know the 70/20/10 rule?

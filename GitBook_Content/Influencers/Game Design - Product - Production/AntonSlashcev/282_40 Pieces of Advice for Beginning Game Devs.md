@@ -1,3 +1,7 @@
+---
+title: "40 Pieces of Advice for Beginning Game Devs"
+---
+
 # 40 Pieces of Advice for Beginning Game Devs
 
 ###### 19 Pieces of Advice for Beginning Game Developers

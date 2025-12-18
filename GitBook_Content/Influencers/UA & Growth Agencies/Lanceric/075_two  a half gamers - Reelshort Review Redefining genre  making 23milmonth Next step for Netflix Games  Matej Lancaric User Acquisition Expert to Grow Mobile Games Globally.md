@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Reelshort Review Redefining genre  making 23milmonth. Next step for Netflix Games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Reelshort Review: Redefining genre & making $23mil/month. Next step for Netflix Games? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/reelshort.png) 

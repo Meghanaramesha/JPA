@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Diablo IV special session Gameplay  game design review Pay for comfort Path Of Exile comparison  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Diablo IV special session: Gameplay & game design review, Pay for comfort, Path Of Exile comparison – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/07/special-ep.png) 

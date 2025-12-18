@@ -1,3 +1,7 @@
+---
+title: "20 biggest gamedev lies"
+---
+
 # 20 biggest gamedev lies
 
 ###### 20 biggest gamedev lies 👇

@@ -1,3 +1,7 @@
+---
+title: "Arcade Genres Success Tier-list"
+---
+
 # Arcade Genres Success Tier-list
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Arcade-Genres-Success-Tier-list.jpg)

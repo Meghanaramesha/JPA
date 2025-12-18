@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close-2
-title: 20 metrics all game devs should hold close.
+title: "20 metrics all game devs should hold close."
 ---
 
 # 20 metrics all game devs should hold close.

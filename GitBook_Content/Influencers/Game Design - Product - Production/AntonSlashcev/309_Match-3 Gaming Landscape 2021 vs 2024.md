@@ -1,3 +1,7 @@
+---
+title: "Match-3 Gaming Landscape 2021 vs. 2024"
+---
+
 # Match-3 Gaming Landscape: 2021 vs. 2024
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-107.png)

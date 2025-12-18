@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/interesting-example-of-survivorship-bias-in-live-ops
-title: Interesting Example Of Survivorship Bias In Live Ops
+title: "Interesting Example Of Survivorship Bias In Live Ops"
 ---
 
 # Interesting Example Of Survivorship Bias In Live Ops

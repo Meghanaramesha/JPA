@@ -1,3 +1,7 @@
+---
+title: "Making an indie game is actually easy."
+---
+
 # Making an indie game is actually easy.
 
 Making an indie game is actually easy:

@@ -1,3 +1,7 @@
+---
+title: "Sometimes a single gold bar makes all the difference."
+---
+
 # Sometimes, a single gold bar makes all the difference.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Sometimes-a-single-gold-bar-makes-all-the-difference.jpg)

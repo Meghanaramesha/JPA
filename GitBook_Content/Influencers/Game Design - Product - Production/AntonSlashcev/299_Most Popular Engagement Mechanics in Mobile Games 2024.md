@@ -1,3 +1,7 @@
+---
+title: "Most Popular Engagement Mechanics in Mobile Games 2024"
+---
+
 # Most Popular Engagement Mechanics in Mobile Games 2024
 
 **Based on an analysis of 4,000 updates, here are the most popular mechanics influencing player engagement:**

@@ -1,3 +1,7 @@
+---
+title: "How did Azur Games get past 10 Billion installs"
+---
+
 # How did Azur Games get past 10 Billion installs?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-226.png)

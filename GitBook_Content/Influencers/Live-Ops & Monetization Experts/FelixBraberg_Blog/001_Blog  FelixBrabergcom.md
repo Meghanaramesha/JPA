@@ -1,6 +1,5 @@
 ---
-original_url: https://www.felixbraberg.com/blog
-title: Blog | FelixBraberg.com
+title: "Blog  FelixBraberg.com"
 ---
 
 # Blog | FelixBraberg.com

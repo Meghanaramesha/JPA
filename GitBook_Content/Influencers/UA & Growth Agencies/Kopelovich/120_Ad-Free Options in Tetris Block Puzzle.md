@@ -1,3 +1,7 @@
+---
+title: "Ad-Free Options in Tetris Block Puzzle"
+---
+
 # Ad-Free Options in Tetris Block Puzzle
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

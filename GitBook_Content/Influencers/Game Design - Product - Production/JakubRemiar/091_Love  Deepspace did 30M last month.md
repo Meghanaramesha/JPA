@@ -1,3 +1,7 @@
+---
+title: "Love  Deepspace did 30M last month"
+---
+
 # Love & Deepspace did $30M last month
 
 Love & Deepspace did $30M last month, the undisputed #1 game in the interactive story genre.

@@ -1,3 +1,7 @@
+---
+title: "Why Most Game Studios Burn Out How to Build One That Ships  Joni Lappalainen"
+---
+
 # Why Most Game Studios Burn Out: How to Build One That Ships | Joni Lappalainen
 
 **YouTube URL:** https://www.youtube.com/watch?v=cxanCR3Kirs

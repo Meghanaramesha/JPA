@@ -1,3 +1,7 @@
+---
+title: "Royal Kingdom Match-3 Game uses 4X Creatives from Kingshot"
+---
+
 # Royal Kingdom: Match-3 Game uses 4X Creatives from Kingshot?
 
 It is very obvious these days that the main genre, which really figured out scaling user acquisition to giant install volumes is 4X, mainly Century Games and River game.

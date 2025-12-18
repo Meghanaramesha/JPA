@@ -1,3 +1,7 @@
+---
+title: "Crafting Engaging Ad Creatives for Hyper-Casual Games"
+---
+
 # Crafting Engaging Ad Creatives for Hyper-Casual Games
 
 ![fbpx](https://www.facebook.com/tr?id=1120946185643016&ev=PageView&noscript=1)

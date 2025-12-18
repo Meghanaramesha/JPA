@@ -1,3 +1,7 @@
+---
+title: "Supercells Clash of Clans WWE Update"
+---
+
 # Supercell’s Clash of Clans’ WWE Update
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Supercells-Clash-of-Clans-WWE-Update.jpg)

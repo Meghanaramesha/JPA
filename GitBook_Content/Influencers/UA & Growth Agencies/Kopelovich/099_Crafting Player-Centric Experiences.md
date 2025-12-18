@@ -1,3 +1,7 @@
+---
+title: "Crafting Player-Centric Experiences"
+---
+
 # Crafting Player-Centric Experiences
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

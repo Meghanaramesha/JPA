@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 91 - Unfolding Doodle Magic Wizard vs Slime CPIs missed admon opportunities systems  vectors  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #91 - Unfolding Doodle Magic Wizard vs Slime: CPIs, missed admon opportunities, systems & vectors – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/12/session-91.jpg) 

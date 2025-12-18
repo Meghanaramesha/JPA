@@ -1,3 +1,7 @@
+---
+title: "How to Balance Your Mobile Game"
+---
+
 # How to Balance Your Mobile Game
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/How-to-Balance-Your-Mobile-Game.jpg)

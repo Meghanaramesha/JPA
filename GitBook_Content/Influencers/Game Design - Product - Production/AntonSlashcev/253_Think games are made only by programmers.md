@@ -1,3 +1,7 @@
+---
+title: "Think games are made only by programmers"
+---
+
 # Think games are made only by programmers?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-44.jpg)

@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 17 - the creative framework tips for inspiration recession  games   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #17 - the creative framework, tips for inspiration, recession & games  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/17.png) 

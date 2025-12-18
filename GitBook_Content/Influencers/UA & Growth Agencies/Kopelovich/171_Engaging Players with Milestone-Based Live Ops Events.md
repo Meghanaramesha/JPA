@@ -1,3 +1,7 @@
+---
+title: "Engaging Players with Milestone-Based Live Ops Events"
+---
+
 # Engaging Players with Milestone-Based Live Ops Events
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

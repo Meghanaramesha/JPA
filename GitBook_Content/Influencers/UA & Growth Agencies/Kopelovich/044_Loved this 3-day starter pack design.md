@@ -1,3 +1,7 @@
+---
+title: "Loved this 3-day starter pack design"
+---
+
 # Loved this 3-day starter pack design!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

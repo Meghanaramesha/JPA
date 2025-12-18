@@ -1,3 +1,7 @@
+---
+title: "Capybara Go x Teenage Mutant Ninja Turtles"
+---
+
 # Capybara Go! x Teenage Mutant Ninja Turtles!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

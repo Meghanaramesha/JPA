@@ -1,3 +1,7 @@
+---
+title: "Why Esports Helps Some Games AndHurtsOthers  Simon Sundn"
+---
+
 # Why Esports Helps Some Games And Hurts Others | Simon Sundén
 
 **YouTube URL:** https://www.youtube.com/watch?v=wp_jnztkY94

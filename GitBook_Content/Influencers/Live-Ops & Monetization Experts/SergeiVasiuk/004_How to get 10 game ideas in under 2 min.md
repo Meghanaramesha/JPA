@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-to-get-10-game-ideas-in-under-2-min
-title: How to get 10 game ideas in under 2 min?
+title: "How to get 10 game ideas in under 2 min"
 ---
 
 # How to get 10 game ideas in under 2 min?

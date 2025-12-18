@@ -1,3 +1,7 @@
+---
+title: "How to Check Your Data Before Spending Millions on User Acquisition  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How to Check Your Data Before Spending Millions on User Acquisition? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![User Acquisition data check](https://lancaric.me/wp-content/uploads/2023/05/Global-launching-your-game-in-the-post-IDFA-world-Google-Slides.png) 

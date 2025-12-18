@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/increased-holiday-events-and-sales-in-games
-title: Increased Holiday Events And Sales In Games
+title: "Increased Holiday Events And Sales In Games"
 ---
 
 # Increased Holiday Events And Sales In Games

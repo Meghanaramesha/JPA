@@ -1,3 +1,7 @@
+---
+title: "Why most new game studios fail."
+---
+
 # Why most new game studios fail.
 
 ###### Why most new game studios fail:

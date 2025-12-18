@@ -1,3 +1,7 @@
+---
+title: "Revolutionizing Education The Power of Video Games"
+---
+
 # Revolutionizing Education: The Power of Video Games
 
 [ART](#)

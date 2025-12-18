@@ -1,3 +1,7 @@
+---
+title: "Perfect Gaming App Icon"
+---
+
 # Perfect Gaming App Icon?
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

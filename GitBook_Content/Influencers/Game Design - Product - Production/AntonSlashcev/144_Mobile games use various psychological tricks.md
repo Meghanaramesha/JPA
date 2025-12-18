@@ -1,3 +1,7 @@
+---
+title: "Mobile games use various psychological tricks."
+---
+
 # Mobile games use various psychological tricks.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Mobile-games-use-various-psychological-tricks.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Office Cat by Treeplla 130K a Day"
+---
+
 # Office Cat by Treeplla: $130K a Day
 
 Office Cat by [treeplla Inc.](https://www.linkedin.com/company/treeplla-inc./) already scaled to $130K a day 🤑 overall revenue just in 4 months. In this special episode, we got Seok Kang, CPO at Treeplla to live review the game with us. The company has a lot of cat-themed games such as Cat Snack Bar, Lumbercat, Cat Mart in their portfolio so this is not a “Catccident” 😹.  

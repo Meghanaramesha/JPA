@@ -1,3 +1,7 @@
+---
+title: "The Future of UA 5 of the Best Creator Programs  UA lessons we can learn from them  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # The Future of UA: 5 of the Best Creator Programs & UA lessons we can learn from them – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/11/supercell-creators.jpg) 

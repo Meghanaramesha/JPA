@@ -1,3 +1,7 @@
+---
+title: "The Hidden Value of Subtle Design"
+---
+
 # The Hidden Value of Subtle Design
 
 When discussing the success of a game, we often focus on large features or events. These elements are typically easy to measure with tangible results. We analyze their impact through metrics such as player retention, onboarding success, or spikes in monetization. While these aspects are important, they don’t tell the full story. Subtle design elements can shape the player experience just as significantly, even though their effects are harder to quantify. From encouraging messages to clever animations, these small touches enhance gameplay in ways that keep players engaged.

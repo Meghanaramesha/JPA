@@ -1,3 +1,7 @@
+---
+title: "AppLovin Scandal New Target of Short Sellers"
+---
+
 # AppLovin Scandal: New Target of Short Sellers?
 
 **Source:** https://www.gamigion.com/the-applovin-scandal-what/

@@ -1,3 +1,7 @@
+---
+title: "How does a Live Ops system work"
+---
+
 # How does a Live Ops system work?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/How-does-a-Live-Ops-system-work.jpg)

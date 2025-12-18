@@ -1,3 +1,7 @@
+---
+title: "21 Qs to ask about every new Game Concept"
+---
+
 # 21 Qs to ask about every new Game Concept
 
 ###### 21 questions to ask about every new game concept:

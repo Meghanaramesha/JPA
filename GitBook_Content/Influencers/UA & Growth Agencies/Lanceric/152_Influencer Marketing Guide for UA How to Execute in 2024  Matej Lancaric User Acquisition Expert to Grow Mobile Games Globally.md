@@ -1,3 +1,7 @@
+---
+title: "Influencer Marketing Guide for UA How to Execute in 2024  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Influencer Marketing Guide for UA: How to Execute in 2024 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![influencer marketing for user acquisition](https://lancaric.me/wp-content/uploads/2024/01/ronaldo-shopee-dance.gif) 

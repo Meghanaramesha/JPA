@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 37 - Marvel Snap global launch case study UA GD Admon view  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #37 - Marvel Snap global launch case study UA, GD, Admon view – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-37.png) 

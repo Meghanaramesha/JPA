@@ -1,3 +1,7 @@
+---
+title: "Milestone Rewards Guide"
+---
+
 # Milestone Rewards Guide
 
 ###### 

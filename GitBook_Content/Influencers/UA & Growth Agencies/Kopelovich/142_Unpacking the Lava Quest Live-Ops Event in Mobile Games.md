@@ -1,3 +1,7 @@
+---
+title: "Unpacking the Lava Quest Live-Ops Event in Mobile Games"
+---
+
 # Unpacking the “Lava Quest” Live-Ops Event in Mobile Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

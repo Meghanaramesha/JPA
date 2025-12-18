@@ -1,3 +1,7 @@
+---
+title: "Innovative Scrolling Offers in Coin Master"
+---
+
 # Innovative Scrolling Offers in Coin Master
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

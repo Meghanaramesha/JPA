@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 16 - 7 Ad monetisation secrets how to make more revenue   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #16 - 7 Ad monetisation secrets how to make more revenue  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Lancaric.me-2.png) 

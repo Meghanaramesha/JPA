@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Deadlock Valves new game revealed Its a shooter NOT just MOBA.  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Deadlock Valve's new game revealed: It's a shooter, NOT just MOBA. – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/09/deadlock.png) 

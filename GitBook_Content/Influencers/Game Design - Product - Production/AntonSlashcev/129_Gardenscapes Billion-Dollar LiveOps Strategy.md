@@ -1,3 +1,7 @@
+---
+title: "Gardenscapes Billion-Dollar LiveOps Strategy"
+---
+
 # Gardenscapes Billion-Dollar LiveOps Strategy
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Gardenscapes-Billion-Dollar-LiveOps-Strategy-1.jpg)

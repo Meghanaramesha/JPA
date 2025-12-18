@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/pay-to-play-games-hexa-sort
-title: Pay to Play Games: Hexa Sort
+title: "Pay to Play Games Hexa Sort"
 ---
 
 # Pay to Play Games: Hexa Sort

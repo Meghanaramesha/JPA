@@ -1,3 +1,7 @@
+---
+title: "Project R.I.S.E. by Supercell"
+---
+
 # Project R.I.S.E. by Supercell
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Project-R.I.S.E.-by-Supercell.jpg)

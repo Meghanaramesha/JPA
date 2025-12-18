@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/control-your-career-game
-title: Control Your Career Game!
+title: "Control Your Career Game"
 ---
 
 # Control Your Career Game!

@@ -1,3 +1,7 @@
+---
+title: "War Drone 3D by Miniclip already scaled to 70K a day"
+---
+
 # War Drone 3D by Miniclip already scaled to $70K a day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/War-Drone-3D-by-Miniclip-already-scaled-to-70K-a-day.jpg)

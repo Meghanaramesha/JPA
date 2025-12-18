@@ -1,3 +1,7 @@
+---
+title: "Mastering Facebook Ads for Mobile Games by Ramiz Trtovac"
+---
+
 # Mastering Facebook Ads for Mobile Games by Ramiz Trtovac
 
 ![fbpx](https://www.facebook.com/tr?id=1120946185643016&ev=PageView&noscript=1)

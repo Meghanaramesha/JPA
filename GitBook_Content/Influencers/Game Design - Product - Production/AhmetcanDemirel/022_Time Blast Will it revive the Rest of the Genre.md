@@ -1,3 +1,7 @@
+---
+title: "Time Blast Will it revive the Rest of the Genre"
+---
+
 # Time Blast: Will it revive the Rest of the Genre?
 
 It is no secret that puzzle games dominate a significant share of the mobile gaming market. Over the last decade, the puzzle market has become fiercely competitive, with various subgenres vying to capture the attention of puzzle players. While Match-3 remains the dominant force in this competition, we’ve seen other subgenres like Merge taking the second place, while others, like Tile Match, [showed potential](https://www.gamigion.com/tile-match-the-new-match-3-or-the-new-merge/) but ultimately fell short.

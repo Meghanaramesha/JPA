@@ -1,3 +1,7 @@
+---
+title: "High ARPU vs Low ARPU What Drives the Difference"
+---
+
 # High ARPU vs Low ARPU: What Drives the Difference?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/High-ARPU-vs-Low-ARPU-What-Drives-the-Difference.jpg)

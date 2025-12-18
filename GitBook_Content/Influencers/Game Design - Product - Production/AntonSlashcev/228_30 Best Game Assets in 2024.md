@@ -1,3 +1,7 @@
+---
+title: "30 Best Game Assets in 2024"
+---
+
 # 30 Best Game Assets in 2024
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/30-Best-Game-Assets-in-2024.jpg)

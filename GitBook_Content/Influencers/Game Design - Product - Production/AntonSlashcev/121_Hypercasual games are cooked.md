@@ -1,3 +1,7 @@
+---
+title: "Hypercasual games are cooked"
+---
+
 # Hypercasual games are cooked?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Hypercasual-games-are-cooked.jpg)

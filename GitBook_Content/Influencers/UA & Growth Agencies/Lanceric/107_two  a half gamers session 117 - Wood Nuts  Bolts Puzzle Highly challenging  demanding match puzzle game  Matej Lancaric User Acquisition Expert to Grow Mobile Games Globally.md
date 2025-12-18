@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 117 - Wood Nuts  Bolts Puzzle Highly challenging  demanding match puzzle game  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #117 - Wood Nuts & Bolts Puzzle: Highly challenging & demanding match puzzle game – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/06/session-117-wide.jpg) 

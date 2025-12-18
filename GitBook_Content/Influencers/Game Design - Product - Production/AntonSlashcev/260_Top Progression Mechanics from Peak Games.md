@@ -1,3 +1,7 @@
+---
+title: "Top Progression Mechanics from Peak Games"
+---
+
 # Top Progression Mechanics from Peak Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/Top-Progression-Mechanics-from-Peak-Games.jpg)

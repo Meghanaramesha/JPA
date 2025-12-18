@@ -1,3 +1,7 @@
+---
+title: "Impulse  Brain Training Scaled to 6 M A Month"
+---
+
 # Impulse – Brain Training Scaled to $6 M A Month
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-29.png)

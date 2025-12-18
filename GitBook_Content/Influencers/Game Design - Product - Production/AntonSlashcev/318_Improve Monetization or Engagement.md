@@ -1,3 +1,7 @@
+---
+title: "Improve Monetization or Engagement"
+---
+
 # Improve Monetization or Engagement?
 
 This is the main question when developing a new feature in Live Ops.

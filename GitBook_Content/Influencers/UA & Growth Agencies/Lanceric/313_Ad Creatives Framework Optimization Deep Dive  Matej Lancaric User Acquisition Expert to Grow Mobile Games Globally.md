@@ -1,3 +1,7 @@
+---
+title: "Ad Creatives Framework Optimization Deep Dive  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Ad Creatives Framework: Optimization Deep Dive – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/photo-1507183711269-1235bed98f14.jpg) 

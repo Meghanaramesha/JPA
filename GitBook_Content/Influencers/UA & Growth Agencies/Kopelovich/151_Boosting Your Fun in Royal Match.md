@@ -1,3 +1,7 @@
+---
+title: "Boosting Your Fun in Royal Match"
+---
+
 # Boosting Your Fun in Royal Match!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

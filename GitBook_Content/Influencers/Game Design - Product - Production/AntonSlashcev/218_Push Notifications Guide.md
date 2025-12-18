@@ -1,3 +1,7 @@
+---
+title: "Push Notifications Guide"
+---
+
 # Push Notifications Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Push-Notifications-Guide.jpg)

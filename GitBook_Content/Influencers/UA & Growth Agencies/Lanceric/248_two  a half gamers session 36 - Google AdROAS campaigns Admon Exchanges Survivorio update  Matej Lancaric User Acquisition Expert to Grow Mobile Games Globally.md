@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 36 - Google AdROAS campaigns Admon Exchanges Survivor.io update  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #36 - Google AdROAS campaigns, Admon Exchanges, Survivor.io update – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/5.png) 

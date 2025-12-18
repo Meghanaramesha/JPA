@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - How to increase your profitability with Cross-promotion A step-by-step guide with Gonalo  Boombit  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - How to increase your profitability with Cross-promotion? A step-by-step guide with Gonçalo @ Boombit – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/12/boombit.png) 

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Unity Special 2 Boycott - Developers Fight Back in the mediation war  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Unity Special #2: Boycott - Developers Fight Back in the mediation war – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/09/unity-special-2.jpg) 

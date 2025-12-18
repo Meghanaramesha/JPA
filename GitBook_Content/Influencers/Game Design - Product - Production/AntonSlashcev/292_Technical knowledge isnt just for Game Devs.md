@@ -1,3 +1,7 @@
+---
+title: "Technical knowledge isnt just for Game Devs."
+---
+
 # Technical knowledge isn’t just for Game Devs.
 
 ###### Technical knowledge isn’t just for game developers. Managers need it too.

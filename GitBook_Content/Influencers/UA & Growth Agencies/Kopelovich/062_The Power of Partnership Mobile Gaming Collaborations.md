@@ -1,3 +1,7 @@
+---
+title: "The Power of Partnership Mobile Gaming Collaborations"
+---
+
 # The Power of Partnership: Mobile Gaming Collaborations
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

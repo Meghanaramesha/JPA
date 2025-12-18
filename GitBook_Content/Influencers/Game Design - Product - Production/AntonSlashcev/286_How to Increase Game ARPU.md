@@ -1,3 +1,7 @@
+---
+title: "How to Increase Game ARPU"
+---
+
 # How to Increase Game ARPU
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-234.jpg)

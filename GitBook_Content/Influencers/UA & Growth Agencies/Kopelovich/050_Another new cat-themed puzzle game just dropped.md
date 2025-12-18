@@ -1,3 +1,7 @@
+---
+title: "Another new cat-themed puzzle game just dropped"
+---
+
 # Another new cat-themed puzzle game just dropped
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "Squad Busters First Look at the Supercell new game in Soft launch  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Squad Busters: First Look at the Supercell new game in Soft launch! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Squad Busters First look in Soft Launch](https://lancaric.me/wp-content/uploads/2023/06/SquadBusters-Banner_2023-02-06-150716_zlpe.jpeg) 

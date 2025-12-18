@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 98 - Voodoo super growth w Alvaro Duarte How to 10x IAP revenue in 2 years Healthy margin  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #98 - Voodoo super growth w/ Alvaro Duarte: How to 10x IAP revenue in 2 years? Healthy margin! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/02/session-98.jpg) 

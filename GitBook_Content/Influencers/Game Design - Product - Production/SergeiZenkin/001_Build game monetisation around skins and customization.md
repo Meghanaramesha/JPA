@@ -1,3 +1,7 @@
+---
+title: "Build game monetisation around skins and customization"
+---
+
 # Build game monetisation around skins and customization?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-58.jpg)

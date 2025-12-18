@@ -1,3 +1,7 @@
+---
+title: "How To Review Game Builds Like a Pro"
+---
+
 # How To Review Game Builds Like a Pro?
 
 **After reviewing more than 1,000 game builds I have prepared a framework for a Producer \ Creative Director \ Lead GD to review a build.**  

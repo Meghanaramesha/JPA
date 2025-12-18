@@ -1,3 +1,7 @@
+---
+title: "Spotted this mechanic in Disney Magic Match 3D"
+---
+
 # Spotted this mechanic in Disney Magic Match 3D!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

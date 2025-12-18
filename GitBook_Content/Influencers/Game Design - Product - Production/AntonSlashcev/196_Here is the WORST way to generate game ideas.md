@@ -1,3 +1,7 @@
+---
+title: "Here is the WORST way to generate game ideas"
+---
+
 # Here is the WORST way to generate game ideas:
 
 ###### Here is the WORST way to generate game ideas:

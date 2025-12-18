@@ -1,3 +1,7 @@
+---
+title: "Performance of mobile puzzle genres in 2025"
+---
+
 # Performance of mobile puzzle genres in 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Performance-of-mobile-puzzle-genres-in-2025.jpg)

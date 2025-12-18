@@ -1,3 +1,7 @@
+---
+title: "Color Block Jam by Rollic scaled to 300K A Day"
+---
+
 # Color Block Jam by Rollic scaled to $300K A Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Color-Block-Jam-by-Rollic-scaled-to-300K-A-Day.jpg)

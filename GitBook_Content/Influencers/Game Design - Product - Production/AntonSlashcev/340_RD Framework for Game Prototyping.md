@@ -1,3 +1,7 @@
+---
+title: "RD Framework for Game Prototyping"
+---
+
 # R&D Framework for Game Prototyping
 
 **After developing over 100 game prototypes, I found that having a flexible yet clear workflow can significantly simplify the R&D process.**  

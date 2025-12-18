@@ -1,3 +1,7 @@
+---
+title: "Global games market at 188 billion this year Mobile still leads"
+---
+
 # Global games market at $188 billion this year, Mobile still leads
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Global-games-market-at-188-billion-this-year-Mobile-still-leads.jpg)

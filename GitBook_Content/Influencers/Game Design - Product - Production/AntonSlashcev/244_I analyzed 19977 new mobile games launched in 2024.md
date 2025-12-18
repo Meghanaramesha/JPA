@@ -1,3 +1,7 @@
+---
+title: "I analyzed 19977 new mobile games launched in 2024."
+---
+
 # I analyzed 19,977 new mobile games launched in 2024.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/image-33.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Cross-Promotion Done Right in Seaside Escape"
+---
+
 # Cross-Promotion Done Right in Seaside Escape
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "What is User Acquisition and why should I care  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # What is User Acquisition and why should I care? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/photo-1508921340878-ba53e1f016ec-1.jpg) 

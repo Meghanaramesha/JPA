@@ -1,3 +1,7 @@
+---
+title: "How could Frozen City earn 273 more ad revenue  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How could Frozen City earn 273% more ad revenue? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Frozen City earn 273% more ad revenue](https://lancaric.me/wp-content/uploads/2023/05/61c2b10fdc7ed8c0d5580e343e77f4fa.jpg) 

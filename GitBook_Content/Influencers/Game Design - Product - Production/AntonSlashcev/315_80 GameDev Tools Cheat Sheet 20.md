@@ -1,3 +1,7 @@
+---
+title: "80 GameDev Tools Cheat Sheet 2.0"
+---
+
 # 80 GameDev Tools Cheat Sheet 2.0
 
 ##### Thanks to all community members for their valuable feedback on the previous version of this list, which helped create the improved 2.0 version:

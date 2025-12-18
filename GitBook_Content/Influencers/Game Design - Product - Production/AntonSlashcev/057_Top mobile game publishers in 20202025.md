@@ -1,3 +1,7 @@
+---
+title: "Top mobile game publishers in 20202025"
+---
+
 # Top mobile game publishers in 2020–2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Top-mobile-game-publishers-in-2020–2025.jpg)

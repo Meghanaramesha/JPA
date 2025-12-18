@@ -1,3 +1,7 @@
+---
+title: "Live Ops Holiday Events Cheatsheet"
+---
+
 # Live Ops Holiday Events Cheatsheet
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Live-Ops-Holiday-Events-Cheatsheet.jpg)

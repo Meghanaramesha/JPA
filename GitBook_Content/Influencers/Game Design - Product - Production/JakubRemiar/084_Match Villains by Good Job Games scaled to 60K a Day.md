@@ -1,3 +1,7 @@
+---
+title: "Match Villains by Good Job Games scaled to 60K a Day"
+---
+
 # Match Villains by Good Job Games scaled to $60K a Day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Match-Villains-by-Good-Job-Games-scaled-to-60K-a-Day.jpg)

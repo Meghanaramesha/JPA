@@ -1,3 +1,7 @@
+---
+title: "In-Game Customization CheatSheet"
+---
+
 # In-Game Customization CheatSheet
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-52-771x1024.png)

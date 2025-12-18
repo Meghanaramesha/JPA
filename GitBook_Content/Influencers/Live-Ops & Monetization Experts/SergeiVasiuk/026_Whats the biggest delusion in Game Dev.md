@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/whats-the-biggest-delusion-in-game-dev
-title: What’s the biggest delusion in Game Dev?
+title: "Whats the biggest delusion in Game Dev"
 ---
 
 # What’s the biggest delusion in Game Dev?

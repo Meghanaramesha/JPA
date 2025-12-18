@@ -1,3 +1,7 @@
+---
+title: "LiveOps isnt just about events. Its a strategy."
+---
+
 # LiveOps isn’t just about events. It’s a strategy.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/LiveOps-isnt-just-about-events.-Its-a-strategy.jpg)

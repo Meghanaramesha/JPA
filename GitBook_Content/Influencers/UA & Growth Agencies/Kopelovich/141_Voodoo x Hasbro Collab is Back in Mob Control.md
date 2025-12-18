@@ -1,3 +1,7 @@
+---
+title: "Voodoo x Hasbro Collab is Back in Mob Control"
+---
+
 # Voodoo x Hasbro Collab is Back in Mob Control
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

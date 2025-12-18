@@ -1,3 +1,7 @@
+---
+title: "New Games 2025 H1 Analysis"
+---
+
 # New Games 2025 H1 Analysis
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/New-Games-2025-H1-Analysis.jpg)

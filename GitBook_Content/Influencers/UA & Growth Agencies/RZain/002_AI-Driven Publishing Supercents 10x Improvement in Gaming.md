@@ -1,3 +1,7 @@
+---
+title: "AI-Driven Publishing Supercents 10x Improvement in Gaming"
+---
+
 # AI-Driven Publishing: Supercent's 10x Improvement in Gaming
 
 [ART](#)

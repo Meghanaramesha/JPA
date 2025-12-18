@@ -1,3 +1,7 @@
+---
+title: "Why Most Game Studios Will Fail in 2025 (And How to Survive)  Hendrik Lesser"
+---
+
 # Why Most Game Studios Will Fail in 2025 (And How to Survive) | Hendrik Lesser
 
 **YouTube URL:** https://www.youtube.com/watch?v=yEHkOBtF5fo

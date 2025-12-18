@@ -1,3 +1,7 @@
+---
+title: "Communication Is A Huge Problem In Game Development"
+---
+
 # Communication Is A Huge Problem In Game Development
 
 ##### In fact, nearly every team struggles with it.

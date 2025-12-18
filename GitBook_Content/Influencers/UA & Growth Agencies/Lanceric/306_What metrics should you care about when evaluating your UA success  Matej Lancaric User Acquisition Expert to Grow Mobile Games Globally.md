@@ -1,3 +1,7 @@
+---
+title: "What metrics should you care about when evaluating your UA success  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # What metrics should you care about when evaluating your UA success? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![What metrics should you care about when evaluating your UA success?](https://lancaric.me/wp-content/uploads/2023/05/stiahnut-1.png) 

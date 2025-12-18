@@ -1,3 +1,7 @@
+---
+title: "Fish of Fortune by Whalo"
+---
+
 # Fish of Fortune by Whalo
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

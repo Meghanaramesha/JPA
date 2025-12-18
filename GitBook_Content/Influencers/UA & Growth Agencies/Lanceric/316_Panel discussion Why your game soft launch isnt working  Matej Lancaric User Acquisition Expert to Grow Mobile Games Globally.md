@@ -1,3 +1,7 @@
+---
+title: "Panel discussion Why your game soft launch isnt working  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Panel discussion: Why your game soft launch isn't working – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/0.jpeg) 

@@ -1,6 +1,5 @@
 ---
-original_url: https://felixbraberg.substack.com/p/the-new-ua-playbook-grabbing-downloads
-title: The New UA Playbook: Grabbing Downloads by Combining Genres
+title: "The New UA Playbook Grabbing Downloads by Combining Genres"
 ---
 
 # The New UA Playbook: Grabbing Downloads by Combining Genres

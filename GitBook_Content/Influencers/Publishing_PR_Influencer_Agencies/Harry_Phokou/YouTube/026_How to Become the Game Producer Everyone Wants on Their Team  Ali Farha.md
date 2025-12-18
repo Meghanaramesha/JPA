@@ -1,3 +1,7 @@
+---
+title: "How to Become the Game Producer Everyone Wants on Their Team  Ali Farha"
+---
+
 # How to Become the Game Producer Everyone Wants on Their Team | Ali Farha
 
 **YouTube URL:** https://www.youtube.com/watch?v=agprn_UUZ8g

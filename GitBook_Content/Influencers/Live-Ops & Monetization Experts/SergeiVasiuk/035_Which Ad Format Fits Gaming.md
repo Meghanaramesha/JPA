@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/which-ad-format-fits-gaming
-title: Which Ad Format Fits Gaming?
+title: "Which Ad Format Fits Gaming"
 ---
 
 # Which Ad Format Fits Gaming?

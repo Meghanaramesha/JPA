@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 43 - How to approach new game development  see new trends in gaming  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #43 - How to approach new game development & see new trends in gaming – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-43.png) 

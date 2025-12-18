@@ -1,3 +1,7 @@
+---
+title: "FOMO Secret Sauce For Driving IAP"
+---
+
 # FOMO: Secret Sauce For Driving IAP
 
 **It’s everywhere:**  

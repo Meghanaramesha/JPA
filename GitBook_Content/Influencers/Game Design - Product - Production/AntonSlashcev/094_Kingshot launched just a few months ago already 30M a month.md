@@ -1,3 +1,7 @@
+---
+title: "Kingshot launched just a few months ago already 30M a month"
+---
+
 # Kingshot launched just a few months ago, already 30M$ a month!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Kingshot-launched-just-a-few-months-ago-already-30M-a-month.jpg)

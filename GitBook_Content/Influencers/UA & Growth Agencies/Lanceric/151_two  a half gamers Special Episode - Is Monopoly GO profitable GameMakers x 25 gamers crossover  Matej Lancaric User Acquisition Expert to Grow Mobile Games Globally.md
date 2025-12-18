@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Special Episode - Is Monopoly GO profitable GameMakers x 2.5 gamers crossover  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Special Episode - Is Monopoly GO profitable? GameMakers x 2.5 gamers crossover – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/01/special-ep-monopoly.png) 

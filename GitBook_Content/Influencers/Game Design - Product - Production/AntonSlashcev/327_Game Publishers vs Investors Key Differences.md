@@ -1,3 +1,7 @@
+---
+title: "Game Publishers vs Investors Key Differences"
+---
+
 # Game Publishers vs Investors: Key Differences
 
 #### I have made deals with both investors and publishers.

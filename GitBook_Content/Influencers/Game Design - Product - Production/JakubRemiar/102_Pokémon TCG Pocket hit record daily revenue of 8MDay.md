@@ -1,3 +1,7 @@
+---
+title: "Pokmon TCG Pocket hit record daily revenue of 8MDay"
+---
+
 # Pokémon TCG Pocket hit record daily revenue of $8M/Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Day.jpg)

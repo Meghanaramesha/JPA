@@ -1,3 +1,7 @@
+---
+title: "Game development is full of myths."
+---
+
 # Game development is full of myths.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Game-development-is-full-of-myths.jpg)

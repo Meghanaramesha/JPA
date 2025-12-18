@@ -1,3 +1,7 @@
+---
+title: "Revamping User Acquisition Strategies for 2025 and Beyond"
+---
+
 # Revamping User Acquisition: Strategies for 2025 and Beyond
 
 [ART](#)

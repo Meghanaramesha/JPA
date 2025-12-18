@@ -1,3 +1,7 @@
+---
+title: "TheCareerGameLoop-JobStoryOutlineTemplate.pdf"
+---
+
 # The+Career+Game+Loop+-+Job+Story+Outline+Template.pdf
 
 **Download Link:**

@@ -1,3 +1,7 @@
+---
+title: "MTG completes 620M Plarium Buy"
+---
+
 # MTG completes $620M Plarium Buy
 
 **Source:** https://www.gamigion.com/mtg-completes-620m-plarium-buy/

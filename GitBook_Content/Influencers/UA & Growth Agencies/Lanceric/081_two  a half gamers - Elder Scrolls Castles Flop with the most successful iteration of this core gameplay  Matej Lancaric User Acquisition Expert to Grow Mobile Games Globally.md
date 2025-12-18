@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Elder Scrolls Castles Flop with the most successful iteration of this core gameplay  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Elder Scrolls Castles: Flop with the most successful iteration of this core gameplay – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/09/elder-scrolls.png) 

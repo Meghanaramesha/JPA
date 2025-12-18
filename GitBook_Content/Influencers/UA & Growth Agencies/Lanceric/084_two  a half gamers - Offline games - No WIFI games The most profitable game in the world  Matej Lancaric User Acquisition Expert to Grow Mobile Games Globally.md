@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Offline games - No WIFI games The most profitable game in the world  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Offline games - No WIFI games: The most profitable game in the world – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/09/nowifi-games.png) 

@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Leaders August 2024"
+---
+
 # Mobile Game Leaders: August 2024
 
 **Source:** https://www.gamigion.com/mobile-game-leaders-august-2024/

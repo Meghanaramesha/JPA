@@ -1,3 +1,7 @@
+---
+title: "Do and Donts in GameDev For New Studios"
+---
+
 # Do and Don’ts in GameDev For New Studios
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-177.jpg)

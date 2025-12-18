@@ -1,3 +1,7 @@
+---
+title: "Core vs. Meta in Mobile Games"
+---
+
 # Core vs. Meta in Mobile Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Core-vs.-Meta-in-Mobile-Games.jpg)

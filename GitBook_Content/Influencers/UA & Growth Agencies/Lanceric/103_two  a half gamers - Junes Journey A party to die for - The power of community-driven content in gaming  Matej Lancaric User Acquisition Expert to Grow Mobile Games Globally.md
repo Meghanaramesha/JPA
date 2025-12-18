@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Junes Journey A party to die for - The power of community-driven content in gaming  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - June's Journey: A party to die for - The power of community-driven content in gaming! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/07/junes-journey.jpg) 

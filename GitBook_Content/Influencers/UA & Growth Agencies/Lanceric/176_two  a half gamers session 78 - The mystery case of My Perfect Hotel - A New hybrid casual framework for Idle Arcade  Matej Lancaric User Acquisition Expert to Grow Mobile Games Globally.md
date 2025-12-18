@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 78 - The mystery case of My Perfect Hotel - A New hybrid casual framework for Idle Arcade  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #78 - The mystery case of My Perfect Hotel - A New hybrid casual framework for Idle Arcade – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/09/session-78.jpg) 

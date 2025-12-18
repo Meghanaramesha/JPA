@@ -1,3 +1,7 @@
+---
+title: "Acecraft by Moonton scaled to 300K a day during first week"
+---
+
 # Acecraft by Moonton scaled to $300K a day during first week!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Acecraft-by-Moonton-scaled-to-300K-a-day-during-first-week.jpg)

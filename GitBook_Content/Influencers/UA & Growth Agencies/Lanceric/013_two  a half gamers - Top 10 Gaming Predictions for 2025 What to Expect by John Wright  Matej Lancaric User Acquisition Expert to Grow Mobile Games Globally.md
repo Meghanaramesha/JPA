@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Top 10 Gaming Predictions for 2025 What to Expect by John Wright  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Top 10 Gaming Predictions for 2025: What to Expect by John Wright – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2025/01/john.png) 

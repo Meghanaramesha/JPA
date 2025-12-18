@@ -1,3 +1,7 @@
+---
+title: "My Supermarket Simulator 3D by Game District is the winner"
+---
+
 # My Supermarket Simulator 3D by Game District is the winner
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/My-Supermarket-Simulator-3D-by-Game-District-is-the-winner.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Spotted a clever twist in Chum Chums battle pass"
+---
+
 # Spotted a clever twist in Chum Chum’s battle pass!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

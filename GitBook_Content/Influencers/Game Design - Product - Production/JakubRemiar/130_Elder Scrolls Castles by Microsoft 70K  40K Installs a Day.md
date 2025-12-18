@@ -1,3 +1,7 @@
+---
+title: "Elder Scrolls Castles by Microsoft 70K  40K Installs a Day"
+---
+
 # Elder Scrolls Castles by Microsoft: $70K & 40K Installs a Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-235.jpg)

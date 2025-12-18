@@ -1,3 +1,7 @@
+---
+title: "The Evolution of Mobile Games Trends in Emotional Design"
+---
+
 # The Evolution of Mobile Games: Trends in Emotional Design
 
 [ART](#)

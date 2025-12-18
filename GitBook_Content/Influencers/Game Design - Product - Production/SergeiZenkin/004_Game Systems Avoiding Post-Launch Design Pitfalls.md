@@ -1,3 +1,7 @@
+---
+title: "Game Systems Avoiding Post-Launch Design Pitfalls"
+---
+
 # Game Systems: Avoiding Post-Launch Design Pitfalls
 
 When designing game systems, it is very important to ask yourself a question — how long will the feature exist after release? Why is it useful:  

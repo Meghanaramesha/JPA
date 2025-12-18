@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 4 - How to soft launch a mobile game Ad monetisation Perspective   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #4 - How to soft launch a mobile game Ad monetisation Perspective  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/cover-lanco-session-4.png) 

@@ -1,3 +1,7 @@
+---
+title: "Zenless Zone Zero by miHoYo 50M in 3 Weeks"
+---
+
 # Zenless Zone Zero by miHoYo: $50M in 3 Weeks
 
 ##### Zenless Zone Zero by [miHoYo](https://www.linkedin.com/company/mihoyo/) already went past $50 Million in the first 3 weeks 🤑

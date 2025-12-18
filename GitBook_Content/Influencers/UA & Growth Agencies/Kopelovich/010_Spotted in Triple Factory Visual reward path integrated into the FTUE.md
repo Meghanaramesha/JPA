@@ -1,3 +1,7 @@
+---
+title: "Spotted in Triple Factory Visual reward path integrated into the FTUE."
+---
+
 # Spotted in Triple Factory: Visual reward path integrated into the FTUE.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

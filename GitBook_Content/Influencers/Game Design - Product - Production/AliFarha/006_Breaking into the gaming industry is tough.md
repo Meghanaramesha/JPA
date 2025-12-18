@@ -1,3 +1,7 @@
+---
+title: "Breaking into the gaming industry is tough."
+---
+
 # Breaking into the gaming industry is tough.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-44.jpg)

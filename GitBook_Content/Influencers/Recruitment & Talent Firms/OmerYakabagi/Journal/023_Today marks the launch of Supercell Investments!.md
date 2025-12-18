@@ -1,3 +1,7 @@
+---
+title: "Today marks the launch of Supercell Investments"
+---
+
 # Today marks the launch of Supercell Investments!
 
 **Source:** https://www.gamigion.com/welcome-supercell-investments/

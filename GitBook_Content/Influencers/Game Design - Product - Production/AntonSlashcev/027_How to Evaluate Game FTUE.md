@@ -1,3 +1,7 @@
+---
+title: "How to Evaluate Game FTUE"
+---
+
 # How to Evaluate Game FTUE
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/How-to-Evaluate-Game-FTUE.jpg)

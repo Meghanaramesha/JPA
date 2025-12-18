@@ -1,3 +1,7 @@
+---
+title: "How to analyze mobile trends in just a few minutes."
+---
+
 # How to analyze mobile trends in just a few minutes.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/How-to-analyze-mobile-trends-in-just-a-few-minutes.jpg)

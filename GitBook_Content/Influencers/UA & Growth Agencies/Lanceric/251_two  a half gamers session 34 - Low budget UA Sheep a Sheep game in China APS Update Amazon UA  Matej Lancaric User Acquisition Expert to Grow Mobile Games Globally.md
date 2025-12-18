@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 34 - Low budget UA Sheep a Sheep game in China APS Update Amazon UA  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #34 - Low budget UA, Sheep a Sheep game in China, APS Update, Amazon UA – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/sesh-34.png) 

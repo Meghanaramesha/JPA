@@ -1,3 +1,7 @@
+---
+title: "Dos and Donts in game analysis"
+---
+
 # Do’s and Don’ts in game analysis
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Dos-and-Donts-in-game-analysis.jpg)

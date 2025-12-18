@@ -1,3 +1,7 @@
+---
+title: "More money raised  higher chances of success."
+---
+
 # More money raised ≠ higher chances of success.
 
 More money raised isn’t equal to higher chances of success.

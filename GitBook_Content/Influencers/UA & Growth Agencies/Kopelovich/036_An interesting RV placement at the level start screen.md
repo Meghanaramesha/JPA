@@ -1,3 +1,7 @@
+---
+title: "An interesting RV placement at the level start screen."
+---
+
 # An interesting RV placement at the level start screen.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

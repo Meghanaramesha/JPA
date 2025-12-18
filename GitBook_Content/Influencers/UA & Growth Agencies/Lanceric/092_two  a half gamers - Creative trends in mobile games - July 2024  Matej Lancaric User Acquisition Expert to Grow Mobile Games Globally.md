@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Creative trends in mobile games - July 2024  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Creative trends in mobile games - July 2024 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/08/Lancaric.me-1640-x-432-px-1.jpg) 

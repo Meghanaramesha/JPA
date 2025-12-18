@@ -1,3 +1,7 @@
+---
+title: "Which setting should you choose for your mobile game"
+---
+
 # Which setting should you choose for your mobile game?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-731x1024.png)

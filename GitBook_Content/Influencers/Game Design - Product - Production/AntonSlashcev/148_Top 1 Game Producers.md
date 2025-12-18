@@ -1,3 +1,7 @@
+---
+title: "Top 1 Game Producers"
+---
+
 # Top 1% Game Producers?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Top-1-Game-Producers.jpg)

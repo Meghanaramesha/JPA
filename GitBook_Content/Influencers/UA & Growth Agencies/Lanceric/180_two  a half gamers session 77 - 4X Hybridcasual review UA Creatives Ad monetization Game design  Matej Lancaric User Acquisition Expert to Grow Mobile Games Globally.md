@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 77 - 4X Hybridcasual review UA Creatives Ad monetization Game design  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #77 - 4X Hybridcasual review: UA, Creatives, Ad monetization, Game design – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/09/session-77.jpg) 

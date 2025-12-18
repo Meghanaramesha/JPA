@@ -1,3 +1,7 @@
+---
+title: "Tasty Travels by Century Games already scaled past 170k a day"
+---
+
 # Tasty Travels by Century Games already scaled past $170k a day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Tasty-Travels-by-Century-Games-already-scaled-past-170k-a-day-1.jpg)

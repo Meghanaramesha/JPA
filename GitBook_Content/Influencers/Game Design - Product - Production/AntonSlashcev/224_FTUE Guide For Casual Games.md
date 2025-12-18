@@ -1,3 +1,7 @@
+---
+title: "FTUE Guide For Casual Games"
+---
+
 # FTUE Guide For Casual Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/FTUE-Guide-For-Casual-Games.jpg)

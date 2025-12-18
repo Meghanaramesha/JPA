@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/10-signs-of-a-decent-game
-title: 10 Signs Of a Decent Game:
+title: "10 Signs Of a Decent Game"
 ---
 
 # 10 Signs Of a Decent Game:

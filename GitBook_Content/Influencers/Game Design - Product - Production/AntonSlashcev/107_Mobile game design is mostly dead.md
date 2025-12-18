@@ -1,3 +1,7 @@
+---
+title: "Mobile game design is mostly dead."
+---
+
 # Mobile game design is mostly dead.
 
 #### Mobile game design is mostly dead.

@@ -1,3 +1,7 @@
+---
+title: "Gaming Investments AppLovin Unity and Ugly Labubu Dolls"
+---
+
 # Gaming Investments: AppLovin, Unity, and Ugly Labubu Dolls
 
 When most people think of gaming, they picture consoles, mobile hits, or maybe Roblox worlds. But behind the scenes, the real money game is in investments, stocks, acquisitions, and cultural icons that break out far beyond gameplay.

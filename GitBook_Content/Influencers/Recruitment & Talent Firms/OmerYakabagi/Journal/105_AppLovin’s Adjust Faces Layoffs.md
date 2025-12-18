@@ -1,3 +1,7 @@
+---
+title: "AppLovins Adjust Faces Layoffs"
+---
+
 # AppLovin’s Adjust Faces Layoffs
 
 **Source:** https://www.gamigion.com/applovins-adjust-faces-layoffs/

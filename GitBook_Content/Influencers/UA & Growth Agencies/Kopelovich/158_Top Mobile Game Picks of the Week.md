@@ -1,3 +1,7 @@
+---
+title: "Top Mobile Game Picks of the Week"
+---
+
 # Top Mobile Game Picks of the Week!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

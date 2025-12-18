@@ -1,3 +1,7 @@
+---
+title: "Monetizing Live-Ops Events Exploring Key Examples"
+---
+
 # Monetizing Live-Ops Events: Exploring Key Examples
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

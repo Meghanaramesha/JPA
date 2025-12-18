@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 28 - Admob bidder uplift update how do hypercasual games make money  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #28 - Admob bidder uplift update, how do hypercasual games make money? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-28-lancaric.me_.jpg) 

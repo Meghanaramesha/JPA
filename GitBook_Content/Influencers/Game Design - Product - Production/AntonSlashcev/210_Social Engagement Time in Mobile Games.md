@@ -1,3 +1,7 @@
+---
+title: "Social Engagement Time in Mobile Games"
+---
+
 # Social Engagement Time in Mobile Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Social-Engagement-Time-in-Mobile-Games.jpg)

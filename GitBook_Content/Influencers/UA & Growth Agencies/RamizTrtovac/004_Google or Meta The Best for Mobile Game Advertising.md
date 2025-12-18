@@ -1,3 +1,7 @@
+---
+title: "Google or Meta The Best for Mobile Game Advertising"
+---
+
 # Google or Meta: The Best for Mobile Game Advertising?
 
 ![fbpx](https://www.facebook.com/tr?id=1120946185643016&ev=PageView&noscript=1)

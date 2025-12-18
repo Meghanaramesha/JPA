@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/boosting-retention-in-your-game
-title: Boosting Retention in Your Game
+title: "Boosting Retention in Your Game"
 ---
 
 # Boosting Retention in Your Game

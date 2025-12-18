@@ -1,3 +1,7 @@
+---
+title: "Mobile Games User Acquisition Retention Monetization  Case Studies  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Mobile Games: User Acquisition, Retention, Monetization & Case Studies – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games](https://lancaric.me/wp-content/uploads/2024/11/games-for-mobile-devices-1.png) 

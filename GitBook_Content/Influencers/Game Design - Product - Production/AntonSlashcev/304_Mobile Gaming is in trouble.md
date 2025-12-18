@@ -1,3 +1,7 @@
+---
+title: "Mobile Gaming is in trouble."
+---
+
 # Mobile Gaming is in trouble.
 
 **Monthly downloads and revenue for the top 10 genres are still lower than 3 years ago.**

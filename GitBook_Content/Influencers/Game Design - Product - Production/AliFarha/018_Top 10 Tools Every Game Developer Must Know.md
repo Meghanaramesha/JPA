@@ -1,3 +1,7 @@
+---
+title: "Top 10 Tools Every Game Developer Must Know"
+---
+
 # Top 10 Tools Every Game Developer Must Know
 
 ##### Having the right tools can make all the difference.

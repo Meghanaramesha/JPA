@@ -1,3 +1,7 @@
+---
+title: "Why is SuperPlay valued at 2B"
+---
+
 # Why is SuperPlay valued at $2B?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-225.jpg)

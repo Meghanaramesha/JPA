@@ -1,3 +1,7 @@
+---
+title: "Homescapes Level Design Insights"
+---
+
 # Homescapes Level Design Insights
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Homescapes-Level-Design-Insights.jpg)

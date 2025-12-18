@@ -1,3 +1,7 @@
+---
+title: "The Value of QA Metrics in Predicting Game Success"
+---
+
 # The Value of QA Metrics in Predicting Game Success
 
 ##### This should help remove your doubts and highlight the critical role of these metrics.

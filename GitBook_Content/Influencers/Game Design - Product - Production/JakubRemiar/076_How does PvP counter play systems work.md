@@ -1,3 +1,7 @@
+---
+title: "How does PvP counter play systems work"
+---
+
 # How does PvP counter play systems work?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/How-does-PvP-counter-play-systems-work.jpg)

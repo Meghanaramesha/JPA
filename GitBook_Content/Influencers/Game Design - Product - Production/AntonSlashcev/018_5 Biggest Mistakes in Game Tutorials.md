@@ -1,3 +1,7 @@
+---
+title: "5 Biggest Mistakes in Game Tutorials"
+---
+
 # 5 Biggest Mistakes in Game Tutorials
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/11/5-Biggest-Mistakes-in-Game-Mutorials.jpg)

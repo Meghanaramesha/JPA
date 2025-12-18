@@ -1,3 +1,7 @@
+---
+title: "From Indie Game Dev to CEO Staying Focused Under Pressure  Jenny Xu"
+---
+
 # From Indie Game Dev to CEO: Staying Focused Under Pressure | Jenny Xu
 
 **YouTube URL:** https://www.youtube.com/watch?v=yAHMmUu4SgY

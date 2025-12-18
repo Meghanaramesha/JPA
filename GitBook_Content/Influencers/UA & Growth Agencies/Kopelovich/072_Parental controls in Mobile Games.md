@@ -1,3 +1,7 @@
+---
+title: "Parental controls in Mobile Games"
+---
+
 # Parental controls in Mobile Games?
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

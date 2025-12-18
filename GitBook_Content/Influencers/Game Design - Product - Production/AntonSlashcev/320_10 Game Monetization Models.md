@@ -1,3 +1,7 @@
+---
+title: "10 Game Monetization Models"
+---
+
 # 10 Game Monetization Models
 
 #### Here’s a quick overview of 10 different models, each with its pros and cons.

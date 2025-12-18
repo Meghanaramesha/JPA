@@ -1,3 +1,7 @@
+---
+title: "Fake Ads in games How to 10x your games revenue - The untold story  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Fake Ads in games: How to 10x your game's revenue - The untold story – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Fake Ads in games: How to 10x your game's revenue - The untold story](https://lancaric.me/wp-content/uploads/2023/05/1000x462bb.png) 

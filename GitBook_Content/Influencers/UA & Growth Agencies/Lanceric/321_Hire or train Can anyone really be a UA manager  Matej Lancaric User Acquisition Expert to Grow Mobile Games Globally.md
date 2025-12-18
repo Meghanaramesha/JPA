@@ -1,3 +1,7 @@
+---
+title: "Hire or train Can anyone really be a UA manager  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Hire or train: Can anyone really be a UA manager? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Hire or train: Can anyone really be a UA manager?](https://lancaric.me/wp-content/uploads/2023/05/ian-schneider-TamMbr4okv4-unsplash.jpg) 

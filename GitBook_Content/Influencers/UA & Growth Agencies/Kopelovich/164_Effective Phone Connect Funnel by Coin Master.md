@@ -1,3 +1,7 @@
+---
+title: "Effective Phone Connect Funnel by Coin Master"
+---
+
 # Effective Phone Connect Funnel by Coin Master
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

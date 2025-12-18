@@ -1,3 +1,7 @@
+---
+title: "Puzzle Genres Tier-list"
+---
+
 # Puzzle Genres Tier-list
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Puzzle-Genres-Tier-list.jpg)

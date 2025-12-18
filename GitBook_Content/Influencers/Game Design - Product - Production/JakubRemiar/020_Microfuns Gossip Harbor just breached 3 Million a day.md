@@ -1,3 +1,7 @@
+---
+title: "Microfuns Gossip Harbor just breached 3 Million a day"
+---
+
 # Microfun’s Gossip Harbor just breached $3 Million a day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Microfuns-Gossip-Harbor-just-breached-3-Million-a-day.jpg)

@@ -1,3 +1,7 @@
+---
+title: "What Makes a Game Fun"
+---
+
 # What Makes a Game Fun?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/What-Makes-a-Game-Fun.jpg)

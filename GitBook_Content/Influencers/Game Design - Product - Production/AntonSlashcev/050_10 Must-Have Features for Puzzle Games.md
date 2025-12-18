@@ -1,3 +1,7 @@
+---
+title: "10 Must-Have Features for Puzzle Games"
+---
+
 # 10 Must-Have Features for Puzzle Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/10-Must-Have-Features-for-Puzzle-Games.jpg)

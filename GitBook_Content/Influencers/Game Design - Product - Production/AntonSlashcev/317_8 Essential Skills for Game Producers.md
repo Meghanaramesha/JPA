@@ -1,3 +1,7 @@
+---
+title: "8 Essential Skills for Game Producers"
+---
+
 # 8 Essential Skills for Game Producers
 
 ##### Master these to become a top producer:

@@ -1,3 +1,7 @@
+---
+title: "How to Make a Game Feel Juicy"
+---
+
 # How to Make a Game Feel Juicy?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-256.jpg)

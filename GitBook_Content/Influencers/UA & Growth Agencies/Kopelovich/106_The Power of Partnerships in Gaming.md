@@ -1,3 +1,7 @@
+---
+title: "The Power of Partnerships in Gaming"
+---
+
 # The Power of Partnerships in Gaming
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "Legend of Mushrooms Community Building on Discord"
+---
+
 # Legend of Mushroom’s Community Building on Discord
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

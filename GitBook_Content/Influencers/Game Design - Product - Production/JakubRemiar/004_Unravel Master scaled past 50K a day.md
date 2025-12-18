@@ -1,3 +1,7 @@
+---
+title: "Unravel Master scaled past 50K a day"
+---
+
 # Unravel Master scaled past $50K a day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/Unravel-Master-by-EO-game-Supersonic-scaled-past-50K-a-day.jpg)

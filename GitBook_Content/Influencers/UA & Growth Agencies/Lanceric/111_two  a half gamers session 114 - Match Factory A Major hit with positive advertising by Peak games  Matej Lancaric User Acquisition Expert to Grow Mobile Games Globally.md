@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 114 - Match Factory A Major hit with positive advertising by Peak games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #114 - Match Factory! A Major hit with positive advertising by Peak games – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/06/session-114.jpg) 

@@ -1,3 +1,7 @@
+---
+title: "Meta vs. Progression in Games Whats the Difference"
+---
+
 # Meta vs. Progression in Games: What’s the Difference?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-32.jpg)

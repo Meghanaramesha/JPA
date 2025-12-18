@@ -1,3 +1,7 @@
+---
+title: "One Page Game Concept"
+---
+
 # One Page Game Concept
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/One-Page-Game-Concept.jpg)

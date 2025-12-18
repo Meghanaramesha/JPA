@@ -1,3 +1,7 @@
+---
+title: "Player Journey Funnel Breakdown"
+---
+
 # Player Journey Funnel Breakdown
 
 **Each stage of the funnel drives revenue. Here’s how it works:**  

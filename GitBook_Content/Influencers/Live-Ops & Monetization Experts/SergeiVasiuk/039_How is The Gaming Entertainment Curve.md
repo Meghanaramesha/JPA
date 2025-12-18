@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/how-is-the-gaming-entertainment-curve
-title: How is The Gaming Entertainment Curve?
+title: "How is The Gaming Entertainment Curve"
 ---
 
 # How is The Gaming Entertainment Curve?

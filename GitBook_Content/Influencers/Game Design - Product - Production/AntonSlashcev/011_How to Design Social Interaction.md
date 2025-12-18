@@ -1,3 +1,7 @@
+---
+title: "How to Design Social Interaction"
+---
+
 # How to Design Social Interaction
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/11/How-to-Design-Social-Interaction.jpg)

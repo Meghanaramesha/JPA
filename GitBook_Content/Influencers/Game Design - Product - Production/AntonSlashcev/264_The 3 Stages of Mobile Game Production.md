@@ -1,3 +1,7 @@
+---
+title: "The 3 Stages of Mobile Game Production"
+---
+
 # The 3 Stages of Mobile Game Production
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/The-3-Stages-of-Mobile-Game-Production.jpg)

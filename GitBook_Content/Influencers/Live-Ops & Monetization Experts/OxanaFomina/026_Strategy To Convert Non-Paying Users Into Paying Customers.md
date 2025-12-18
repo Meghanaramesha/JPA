@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/strategy-to-convert-non-paying-users-into-paying-customers
-title: Strategy To Convert Non-Paying Users Into Paying Customers
+title: "Strategy To Convert Non-Paying Users Into Paying Customers"
 ---
 
 # Strategy To Convert Non-Paying Users Into Paying Customers

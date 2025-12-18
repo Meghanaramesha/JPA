@@ -1,3 +1,7 @@
+---
+title: "Match Factory Grew From 1M to 17M in 9 Months"
+---
+
 # Match Factory Grew From $1M to $17M in 9 Months
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-30.png)

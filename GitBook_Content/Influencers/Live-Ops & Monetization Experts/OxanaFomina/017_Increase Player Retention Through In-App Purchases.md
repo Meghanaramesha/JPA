@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/increase-player-retention-through-in-app-purchases
-title: Increase Player Retention Through In-App Purchases
+title: "Increase Player Retention Through In-App Purchases"
 ---
 
 # Increase Player Retention Through In-App Purchases

@@ -1,3 +1,7 @@
+---
+title: "Best Game Devs dont work at Blizzard Riot King Playrix or Supercell."
+---
+
 # Best Game Devs don’t work at Blizzard, Riot, King, Playrix, or Supercell.
 
 ###### Unpopular opinion: the best game developers don’t work at Blizzard, Riot, King, Playrix, or Supercell.

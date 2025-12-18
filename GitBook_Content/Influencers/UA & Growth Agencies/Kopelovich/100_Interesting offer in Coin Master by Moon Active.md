@@ -1,3 +1,7 @@
+---
+title: "Interesting offer in Coin Master by Moon Active"
+---
+
 # Interesting offer in Coin Master by Moon Active
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

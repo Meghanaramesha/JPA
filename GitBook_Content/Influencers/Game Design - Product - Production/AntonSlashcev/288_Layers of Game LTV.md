@@ -1,3 +1,7 @@
+---
+title: "Layers of Game LTV"
+---
+
 # Layers of Game LTV
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-205.jpg)

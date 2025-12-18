@@ -1,3 +1,7 @@
+---
+title: "Step-by-step process for reviewing new games"
+---
+
 # Step-by-step process for reviewing new games
 
 ###### I’ve reviewed over 100 games in the past few years.

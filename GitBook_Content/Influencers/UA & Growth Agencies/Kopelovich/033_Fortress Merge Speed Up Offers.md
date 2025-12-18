@@ -1,3 +1,7 @@
+---
+title: "Fortress Merge Speed Up Offers"
+---
+
 # Fortress Merge: Speed Up Offers!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

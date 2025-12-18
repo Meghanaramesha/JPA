@@ -1,3 +1,7 @@
+---
+title: "OFFLINE Capable Mobile Shooter FPS Strike Ops is doing 50K a Day"
+---
+
 # OFFLINE Capable Mobile Shooter: FPS Strike Ops is doing $50K a Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/OFFLINE-Capable-Mobile-Shooter-FPS-Strike-Ops-is-doing-50K-a-Day.jpg)

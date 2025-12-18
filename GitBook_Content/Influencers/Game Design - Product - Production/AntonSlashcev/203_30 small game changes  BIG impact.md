@@ -1,3 +1,7 @@
+---
+title: "30 small game changes  BIG impact"
+---
+
 # 30 small game changes = BIG impact
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/30-small-game-changes-BIG-impact.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Mobile Gaming Today 48"
+---
+
 # Mobile Gaming Today: 48
 
 **Source:** https://www.gamigion.com/mobile-gaming-today-48/

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/boosting-monetization-season-pass-in-candy-crush-soda-saga
-title: Boosting Monetization: Season Pass In Candy Crush Soda Saga
+title: "Boosting Monetization Season Pass In Candy Crush Soda Saga"
 ---
 
 # Boosting Monetization: Season Pass In Candy Crush Soda Saga

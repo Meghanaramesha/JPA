@@ -1,3 +1,7 @@
+---
+title: "Finland Winning Europes start-up crown"
+---
+
 # Finland: Winning Europe’s start-up crown?
 
 **Source:** https://www.gamigion.com/finland-winning-europes-start-up-crown/

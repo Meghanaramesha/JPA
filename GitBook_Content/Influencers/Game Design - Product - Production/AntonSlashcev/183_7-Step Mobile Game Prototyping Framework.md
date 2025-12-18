@@ -1,3 +1,7 @@
+---
+title: "7-Step Mobile Game Prototyping Framework"
+---
+
 # 7-Step Mobile Game Prototyping Framework
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/7-Step-Mobile-Game-Prototyping-Framework.jpg)

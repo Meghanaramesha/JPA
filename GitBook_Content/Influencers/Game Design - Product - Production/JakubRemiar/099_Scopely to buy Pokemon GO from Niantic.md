@@ -1,3 +1,7 @@
+---
+title: "Scopely to buy Pokemon GO from Niantic"
+---
+
 # Scopely to buy Pokemon GO from Niantic
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Scopely-to-buy-Pokemon-GO-from-Niantic.jpg)

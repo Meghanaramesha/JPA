@@ -1,3 +1,7 @@
+---
+title: "How to Design a Winstreak"
+---
+
 # How to Design a Winstreak
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/How-to-Design-a-Winstreak.jpg)

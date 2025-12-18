@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/want-to-keep-your-players-engaged
-title: Want to keep your players engaged?
+title: "Want to keep your players engaged"
 ---
 
 # Want to keep your players engaged?

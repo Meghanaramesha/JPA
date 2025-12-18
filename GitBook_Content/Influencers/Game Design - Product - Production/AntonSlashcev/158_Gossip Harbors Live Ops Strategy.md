@@ -1,3 +1,7 @@
+---
+title: "Gossip Harbors Live Ops Strategy"
+---
+
 # Gossip Harbor’s Live Ops Strategy
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Gossip-Harbors-Live-Ops-Strategy.jpg)

@@ -1,3 +1,7 @@
+---
+title: "The Content Strategy Behind Viral LinkedIn Creators with Lara A Luke M Matt B Sam G.W Jacob P."
+---
+
 # The Content Strategy Behind Viral LinkedIn Creators with Lara A, Luke M, Matt B, Sam G.W, Jacob P.
 
 **YouTube URL:** https://www.youtube.com/watch?v=zPxo2fWcrFk

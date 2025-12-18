@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Exploring Path of Exile2 Pay for Convenience  Comfort  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Exploring Path of Exile2: Pay for Convenience & Comfort – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2025/01/poe2.png) 

@@ -1,3 +1,7 @@
+---
+title: "20 New Features in Casual Games"
+---
+
 # 20+ New Features in Casual Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/20-New-Features-in-Casual-Games.jpg)

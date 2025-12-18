@@ -1,3 +1,7 @@
+---
+title: "Static Puzzles in a Dynamic Market"
+---
+
 # Static Puzzles in a Dynamic Market
 
 Static puzzles are everywhere right now.

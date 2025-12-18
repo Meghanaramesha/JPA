@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/multiple-paid-pass-boost-player-choice-rewards-playtimes-and-revenue
-title: Multiple Paid Pass: Boost Player Choice, Rewards, Playtimes, And Revenue
+title: "Multiple Paid Pass Boost Player Choice Rewards Playtimes And Revenue"
 ---
 
 # Multiple Paid Pass: Boost Player Choice, Rewards, Playtimes, And Revenue

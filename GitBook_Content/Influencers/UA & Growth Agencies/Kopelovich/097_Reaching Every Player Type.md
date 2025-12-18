@@ -1,3 +1,7 @@
+---
+title: "Reaching Every Player Type"
+---
+
 # Reaching Every Player Type!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

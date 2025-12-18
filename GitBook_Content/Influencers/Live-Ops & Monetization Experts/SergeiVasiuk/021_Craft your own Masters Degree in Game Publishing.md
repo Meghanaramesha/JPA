@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/craft-your-own-masters-degree-in-game-publishing
-title: Craft your own Master’s Degree in Game Publishing
+title: "Craft your own Masters Degree in Game Publishing"
 ---
 
 # Craft your own Master’s Degree in Game Publishing

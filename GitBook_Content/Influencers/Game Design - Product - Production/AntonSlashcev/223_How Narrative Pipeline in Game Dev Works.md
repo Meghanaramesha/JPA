@@ -1,3 +1,7 @@
+---
+title: "How Narrative Pipeline in Game Dev Works"
+---
+
 # How Narrative Pipeline in Game Dev Works
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/How-Narrative-Pipeline-in-Game-Dev-Works.jpg)

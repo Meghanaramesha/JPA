@@ -1,3 +1,7 @@
+---
+title: "GPT vs. Royal Match Can AI Win a Hard Level"
+---
+
 # GPT vs. Royal Match: Can AI Win a Hard Level?
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

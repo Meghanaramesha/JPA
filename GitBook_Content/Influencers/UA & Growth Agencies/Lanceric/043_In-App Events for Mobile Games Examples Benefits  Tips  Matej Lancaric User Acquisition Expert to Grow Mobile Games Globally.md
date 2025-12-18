@@ -1,3 +1,7 @@
+---
+title: "In-App Events for Mobile Games Examples Benefits  Tips  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # In-App Events for Mobile Games: Examples, Benefits & Tips – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Examples of Benefits of In-App Events for Mobile Games User Retention](https://lancaric.me/wp-content/uploads/2024/11/in-app-events-mobile-games-user-retention-engagement.png) 

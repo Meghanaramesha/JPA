@@ -1,3 +1,7 @@
+---
+title: "10 Live Ops traps to avoid"
+---
+
 # 10 Live Ops traps to avoid
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/10-Live-Ops-traps-to-avoid.jpg)

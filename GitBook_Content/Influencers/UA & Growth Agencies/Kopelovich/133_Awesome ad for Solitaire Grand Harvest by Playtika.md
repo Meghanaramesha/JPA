@@ -1,3 +1,7 @@
+---
+title: "Awesome ad for Solitaire Grand Harvest by Playtika"
+---
+
 # Awesome ad for Solitaire Grand Harvest by Playtika
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

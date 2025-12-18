@@ -1,3 +1,7 @@
+---
+title: "New Take in Coin Master Team Up for Daily Challenges"
+---
+
 # New Take in Coin Master: Team Up for Daily Challenges
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

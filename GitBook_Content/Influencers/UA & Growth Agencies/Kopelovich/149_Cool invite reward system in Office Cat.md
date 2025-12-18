@@ -1,3 +1,7 @@
+---
+title: "Cool invite reward system in Office Cat"
+---
+
 # Cool invite reward system in Office Cat!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 108 - From Hypercasual to Hybridcasual - The Supercent story. Iterative nature  Admon w UA in grey zone  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #108 - From Hypercasual to Hybridcasual - The Supercent story. Iterative nature & Admon w/ UA in grey zone – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/05/session-108.png) 

@@ -1,3 +1,7 @@
+---
+title: "Kings Candy Crush Solitaire What Went Wrong"
+---
+
 # King’s Candy Crush Solitaire: What Went Wrong?
 
 [Candy Crush Solitaire](https://play.google.com/store/apps/details?id=com.king.apps.candysolitaire&hl=en) by King had its global launch on Feb 6th. Looking at the numbers nearly one month later, the game did ***just $600K in revenue on 4 million downloads*** at that time. Doesn’t seem like the result King was looking for after releasing it as the first Candy Crush-themed game in the last 6 years.

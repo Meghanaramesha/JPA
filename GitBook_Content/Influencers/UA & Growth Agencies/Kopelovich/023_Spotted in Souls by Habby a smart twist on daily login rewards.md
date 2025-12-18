@@ -1,3 +1,7 @@
+---
+title: "Spotted in Souls by Habby a smart twist on daily login rewards."
+---
+
 # Spotted in Souls by Habby: a smart twist on daily login rewards.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "The Importance of User Acquisition in Mobile Gaming A Simplified Guide - Ramiz Trtovac"
+---
+
 # The Importance of User Acquisition in Mobile Gaming: A Simplified Guide - Ramiz Trtovac
 
 ![fbpx](https://www.facebook.com/tr?id=1120946185643016&ev=PageView&noscript=1)

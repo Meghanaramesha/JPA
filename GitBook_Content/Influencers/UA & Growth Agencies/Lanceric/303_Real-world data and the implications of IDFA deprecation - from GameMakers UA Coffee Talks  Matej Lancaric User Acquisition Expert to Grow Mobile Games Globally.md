@@ -1,3 +1,7 @@
+---
+title: "Real-world data and the implications of IDFA deprecation - from GameMakers UA Coffee Talks  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Real-world data and the implications of IDFA deprecation - from GameMakers UA Coffee Talks – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Real-world-data-and-the-implications-of-IDFA-deprecation-from-GameMakers-UA-Coffee-Talks.png) 

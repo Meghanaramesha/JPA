@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Diversifying your Mobile Game UA with Influencer Marketing (real data included)  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Diversifying your Mobile Game UA with Influencer Marketing (real data included) – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/09/Diversifying-your-Mobile-Game-UA-with-Influencer-Marketing-real-data-included.png) 

@@ -1,3 +1,7 @@
+---
+title: "12 tips for killer mobile User Acquisition (Q3 version)  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # 12 tips for killer mobile User Acquisition (Q3 version) – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/lancito_a_ninja_with_tattoos_in_a_dark_place_cutting_papers_wit_c3bd39f6-60b9-4131-bb2e-7c6fd68a84e2.png) 

@@ -1,3 +1,7 @@
+---
+title: "Low CPI Cheat Code Any IPs Any Ads"
+---
+
 # Low CPI Cheat Code: Any IPs, Any Ads
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/The-Next-CPI-Cheat-Code-Any-IPs-Any-Ads.jpg)

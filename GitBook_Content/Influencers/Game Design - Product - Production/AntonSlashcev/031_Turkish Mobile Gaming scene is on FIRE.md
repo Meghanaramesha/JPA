@@ -1,3 +1,7 @@
+---
+title: "Turkish Mobile Gaming scene is on FIRE"
+---
+
 # Turkish Mobile Gaming scene is on FIRE!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Turkish-Mobile-Gaming-scene-is-on-FIRE.jpg)

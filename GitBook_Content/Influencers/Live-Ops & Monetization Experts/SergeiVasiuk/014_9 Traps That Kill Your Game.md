@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/9-traps-that-kill-your-game
-title: 9 Traps That Kill Your Game
+title: "9 Traps That Kill Your Game"
 ---
 
 # 9 Traps That Kill Your Game

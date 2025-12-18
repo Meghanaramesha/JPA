@@ -1,3 +1,7 @@
+---
+title: "Pokemon TCG Pocket is making more than 5M A Day"
+---
+
 # Pokemon TCG Pocket is making more than $5M A Day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/image-12.jpg)

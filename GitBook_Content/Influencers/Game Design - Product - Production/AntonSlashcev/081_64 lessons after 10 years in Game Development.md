@@ -1,3 +1,7 @@
+---
+title: "64 lessons after 10 years in Game Development"
+---
+
 # 64 lessons after 10 years in Game Development
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/64-lessons-after-10-years-in-Game-Development.jpg)

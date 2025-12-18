@@ -1,3 +1,7 @@
+---
+title: "Review Radar 8 is back with 15 games"
+---
+
 # Review Radar #8 is back with 15 games!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Review-Radar-8-is-back-with-15-games.jpg)

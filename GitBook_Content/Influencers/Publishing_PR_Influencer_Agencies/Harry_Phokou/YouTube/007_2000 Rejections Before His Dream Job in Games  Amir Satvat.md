@@ -1,3 +1,7 @@
+---
+title: "2000 Rejections Before His Dream Job in Games  Amir Satvat"
+---
+
 # 2,000 Rejections Before His Dream Job in Games | Amir Satvat
 
 **YouTube URL:** https://www.youtube.com/watch?v=P2TbHDpaD68

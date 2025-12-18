@@ -1,3 +1,7 @@
+---
+title: "Would love to see more games implementing this"
+---
+
 # Would love to see more games implementing this!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

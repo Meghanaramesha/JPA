@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Marketing Why Most Games Fail  How to Win  Peter Fodor"
+---
+
 # Mobile Game Marketing: Why Most Games Fail & How to Win | Peter Fodor
 
 **YouTube URL:** https://www.youtube.com/watch?v=wqqboJewZnM

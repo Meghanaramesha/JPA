@@ -1,3 +1,7 @@
+---
+title: "Rewards Apps for Mobile Game User Acquisition Best Platforms  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Rewards Apps for Mobile Game User Acquisition: Best Platforms – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Rewards Apps for Mobile Games User Acquisition](https://lancaric.me/wp-content/uploads/2024/11/rewards-apps-user-acquisition-mobile-games.png) 

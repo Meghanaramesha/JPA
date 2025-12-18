@@ -1,3 +1,7 @@
+---
+title: "Happy Halloween to all my US readers"
+---
+
 # Happy Halloween to all my US readers!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

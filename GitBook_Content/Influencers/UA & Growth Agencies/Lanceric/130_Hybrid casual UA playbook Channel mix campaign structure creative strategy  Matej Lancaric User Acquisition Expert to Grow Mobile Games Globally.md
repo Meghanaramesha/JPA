@@ -1,3 +1,7 @@
+---
+title: "Hybrid casual UA playbook Channel mix campaign structure creative strategy  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Hybrid casual UA playbook! Channel mix, campaign structure, creative strategy – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Hybrid casual UA playbook! Channel mix, campaign structure, creative strategy](https://lancaric.me/wp-content/uploads/2023/09/hybrid-casual.png) 

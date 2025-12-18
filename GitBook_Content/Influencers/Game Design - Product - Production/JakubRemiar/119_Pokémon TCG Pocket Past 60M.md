@@ -1,3 +1,7 @@
+---
+title: "Pokmon TCG Pocket Past 60M"
+---
+
 # Pokémon TCG Pocket Past $60M
 
 ###### Pokémon TCG Pocket is already past $60 Mil. 🤑 2 weeks from its launch, with a stable 700K downloads per day. Developed by [DeNA](https://www.linkedin.com/company/dena/) ([The Pokémon Company International](https://www.linkedin.com/company/pokemon/)) this is your childhood nostalgia done right! Ready why 😎:

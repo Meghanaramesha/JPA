@@ -1,3 +1,7 @@
+---
+title: "Exploring fun ways to surprise players with rewards."
+---
+
 # Exploring fun ways to surprise players with rewards.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "Brawl Stars to the Moon A monetization deep dive GameMakers x 2.5 gamers crossover  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Brawl Stars to the Moon? A monetization deep dive! GameMakers x 2.5 gamers crossover – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/02/Lancaric.me_.jpg) 

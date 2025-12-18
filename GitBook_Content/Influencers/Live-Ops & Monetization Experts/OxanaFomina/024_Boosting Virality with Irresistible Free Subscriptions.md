@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/boosting-virality-with-irresistible-free-subscriptions
-title: Boosting Virality with Irresistible Free Subscriptions
+title: "Boosting Virality with Irresistible Free Subscriptions"
 ---
 
 # Boosting Virality with Irresistible Free Subscriptions

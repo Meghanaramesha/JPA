@@ -1,3 +1,7 @@
+---
+title: "Soft-launch Sonar 5"
+---
+
 # Soft-launch Sonar #5
 
 #### 13 brand new soft-launched games with no particular filter 😅

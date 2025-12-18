@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Unity Special From 200month fee to 187k. Death kiss to (small  hypercasual) developers  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Unity Special: From $200/month fee to $187k. Death kiss to (small & hypercasual) developers – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/09/session-unity-special.jpg) 

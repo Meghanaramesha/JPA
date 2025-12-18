@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/want-to-start-your-career-in-game-dev
-title: Want to start your career in Game Dev?
+title: "Want to start your career in Game Dev"
 ---
 
 # Want to start your career in Game Dev?

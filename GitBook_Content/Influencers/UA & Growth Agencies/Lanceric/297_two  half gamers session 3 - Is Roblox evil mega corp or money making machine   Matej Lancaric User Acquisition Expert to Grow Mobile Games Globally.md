@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 3 - Is Roblox evil mega corp or money making machine   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #3 - Is Roblox evil mega corp or money making machine?  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/gamers-podcast-session-3.png) 

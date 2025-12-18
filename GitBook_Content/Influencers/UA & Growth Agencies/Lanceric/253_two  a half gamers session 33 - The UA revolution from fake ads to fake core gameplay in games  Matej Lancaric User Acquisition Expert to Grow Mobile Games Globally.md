@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 33 - The UA (r)evolution from fake ads to fake core gameplay in games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #33 - The UA (r)evolution, from fake ads to fake core gameplay in games – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Lancaric.me-1.png) 

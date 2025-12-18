@@ -1,3 +1,7 @@
+---
+title: "Season Pass Guide"
+---
+
 # Season Pass Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Season-Pass-Guide.jpg)

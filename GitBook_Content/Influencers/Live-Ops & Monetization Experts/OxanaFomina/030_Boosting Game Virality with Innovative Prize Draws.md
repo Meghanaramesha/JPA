@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/boosting-game-virality-with-innovative-prize-draws
-title: Boosting Game Virality with Innovative Prize Draws
+title: "Boosting Game Virality with Innovative Prize Draws"
 ---
 
 # Boosting Game Virality with Innovative Prize Draws

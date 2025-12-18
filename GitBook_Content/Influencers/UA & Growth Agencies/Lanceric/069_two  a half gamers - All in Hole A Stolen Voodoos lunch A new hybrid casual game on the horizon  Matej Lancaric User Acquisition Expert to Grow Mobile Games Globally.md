@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - All in Hole A Stolen Voodoos lunch. A new (hybrid) casual game on the horizon  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - All in Hole: A Stolen Voodoo's lunch. A new (hybrid) casual game on the horizon – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/all-in-hole.png) 

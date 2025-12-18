@@ -1,3 +1,7 @@
+---
+title: "Game Dev Career Guide"
+---
+
 # Game Dev Career Guide
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Game-Dev-Career-Guide.jpg)

@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/game-development-tools-landscape
-title: Game Development Tools Landscape
+title: "Game Development Tools Landscape"
 ---
 
 # Game Development Tools Landscape

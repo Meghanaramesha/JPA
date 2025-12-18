@@ -1,3 +1,7 @@
+---
+title: "Ads Monetization Guide For Mobile Games"
+---
+
 # Ads Monetization Guide For Mobile Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Ads-Monetization-Guide-For-Mobile-Games.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Players Are Not Idiots"
+---
+
 # Players Are Not Idiots!
 
 ##### I know this might sound shocking to some game developers…

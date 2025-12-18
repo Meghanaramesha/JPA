@@ -1,3 +1,7 @@
+---
+title: "Putting emoji in your Apps name"
+---
+
 # Putting emoji in your App’s name?
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

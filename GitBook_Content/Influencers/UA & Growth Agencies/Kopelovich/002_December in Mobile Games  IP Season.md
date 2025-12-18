@@ -1,3 +1,7 @@
+---
+title: "December in Mobile Games  IP Season"
+---
+
 # December in Mobile Games = IP Season
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

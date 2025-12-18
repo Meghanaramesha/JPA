@@ -1,3 +1,7 @@
+---
+title: "West Game II scaled already past 50K a day"
+---
+
 # West Game II scaled already past $50K a day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/11/West-Game-II-scaled-already-past-50K-a-day.jpg)

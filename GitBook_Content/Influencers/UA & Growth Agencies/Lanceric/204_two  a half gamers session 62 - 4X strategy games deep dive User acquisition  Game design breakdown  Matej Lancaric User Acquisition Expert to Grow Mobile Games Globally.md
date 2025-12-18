@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 62 - 4X strategy games deep dive User acquisition  Game design breakdown  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #62 - 4X strategy games deep dive, User acquisition & Game design breakdown – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/sessions-62.jpg) 

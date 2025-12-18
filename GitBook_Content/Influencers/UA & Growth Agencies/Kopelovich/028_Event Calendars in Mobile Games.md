@@ -1,3 +1,7 @@
+---
+title: " Event Calendars in Mobile Games"
+---
+
 # 🎯 Event Calendars in Mobile Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

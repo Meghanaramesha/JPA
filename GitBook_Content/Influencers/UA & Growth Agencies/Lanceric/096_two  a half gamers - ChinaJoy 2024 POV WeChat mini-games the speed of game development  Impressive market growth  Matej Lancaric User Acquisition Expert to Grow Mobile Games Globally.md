@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - ChinaJoy 2024 POV WeChat mini-games the speed of game development  Impressive market growth  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - ChinaJoy 2024 POV: WeChat mini-games, the speed of game development & Impressive market growth – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/07/china-joy.jpg) 

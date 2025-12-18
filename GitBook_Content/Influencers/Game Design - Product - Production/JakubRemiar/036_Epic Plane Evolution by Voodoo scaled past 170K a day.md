@@ -1,3 +1,7 @@
+---
+title: "Epic Plane Evolution by Voodoo scaled past 170K a day"
+---
+
 # Epic Plane Evolution by Voodoo scaled past $170K a day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Epic-Plane-Evolution-by-Voodoo-scaled-past-170K-a-day.jpg)

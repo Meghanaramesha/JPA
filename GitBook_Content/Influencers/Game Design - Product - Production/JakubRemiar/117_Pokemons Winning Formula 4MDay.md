@@ -1,3 +1,7 @@
+---
+title: "Pokemons Winning Formula 4MDay"
+---
+
 # Pokemon’s Winning Formula: $4M/Day
 
 ![Game Analysis: The winning formula behind Pokémon Trading Card Game Pocket](https://media.pocketgamer.biz/images/130813/85314/jakub-remiar-pokemon-tcg-pocket_l1200.jpg)

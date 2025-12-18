@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/royal-match-how-new-event-design-increased-revenue-by-14-6
-title: Royal Match: How New Event Design Increased Revenue by 14.6%
+title: "Royal Match How New Event Design Increased Revenue by 14.6"
 ---
 
 # Royal Match: How New Event Design Increased Revenue by 14.6%

@@ -1,3 +1,7 @@
+---
+title: "App Store Optimization Tips for Mobile Game User Acquisition  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # App Store Optimization Tips for Mobile Game User Acquisition – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![App Store Optimization for Mobile Games User Acquisition](https://lancaric.me/wp-content/uploads/2024/11/app-store-optimization-user-acquisition-mobile-games.png) 

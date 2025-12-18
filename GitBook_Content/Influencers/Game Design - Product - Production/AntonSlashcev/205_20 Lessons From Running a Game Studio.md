@@ -1,3 +1,7 @@
+---
+title: "20 Lessons From Running a Game Studio"
+---
+
 # 20 Lessons From Running a Game Studio
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/20-Lessons-From-Running-a-Game-Studio.jpg)

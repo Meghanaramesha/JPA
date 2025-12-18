@@ -1,3 +1,7 @@
+---
+title: "First 30 Days Checklist for Mobile Games"
+---
+
 # First 30 Days Checklist for Mobile Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/First-30-Days-Checklist-for-Mobile-Games.jpg)

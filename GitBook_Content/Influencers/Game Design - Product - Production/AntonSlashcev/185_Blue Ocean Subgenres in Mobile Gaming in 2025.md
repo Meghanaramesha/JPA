@@ -1,3 +1,7 @@
+---
+title: "Blue Ocean Subgenres in Mobile Gaming in 2025"
+---
+
 # Blue Ocean Subgenres in Mobile Gaming in 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Blue-Ocean-Subgenres-in-Mobile-Gaming-in-2025.jpg)

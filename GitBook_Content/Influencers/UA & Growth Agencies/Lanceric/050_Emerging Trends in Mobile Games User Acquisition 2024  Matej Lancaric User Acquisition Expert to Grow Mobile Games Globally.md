@@ -1,3 +1,7 @@
+---
+title: "Emerging Trends in Mobile Games User Acquisition 2024  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Emerging Trends in Mobile Games User Acquisition 2024 – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Emerging Trends in Mobile Gaming User Acquisition](https://lancaric.me/wp-content/uploads/2024/11/emerging-trends-mobile-games-user-acquisition.png) 

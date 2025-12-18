@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 41 - Stop with sexist ads Q4 Admn round up Goddess of Victory review  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #41 - Stop with sexist ads, Q4 Admn round up, Goddess of Victory review – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-41.png) 

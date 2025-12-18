@@ -1,3 +1,7 @@
+---
+title: "Which game metrics drive the most ROAS impact"
+---
+
 # Which game metrics drive the most ROAS impact?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-40.jpg)

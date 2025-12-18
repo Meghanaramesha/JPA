@@ -1,3 +1,7 @@
+---
+title: "AI Ad Creatives Continues to Take Over"
+---
+
 # AI Ad Creatives Continues to Take Over!
 
 𝐀𝐈 𝐚𝐝 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐞𝐬 𝐭𝐨 𝐭𝐚𝐤𝐞 𝐨𝐯𝐞𝐫 😱   

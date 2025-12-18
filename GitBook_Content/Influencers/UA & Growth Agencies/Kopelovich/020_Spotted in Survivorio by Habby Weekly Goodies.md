@@ -1,3 +1,7 @@
+---
+title: "Spotted in Survivor.io by Habby Weekly Goodies"
+---
+
 # Spotted in Survivor.io by Habby: Weekly Goodies
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

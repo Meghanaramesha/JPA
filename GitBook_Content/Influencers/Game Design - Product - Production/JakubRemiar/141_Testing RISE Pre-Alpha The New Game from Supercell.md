@@ -1,3 +1,7 @@
+---
+title: "Testing R.I.S.E. Pre-Alpha The New Game from Supercell"
+---
+
 # Testing R.I.S.E. Pre-Alpha, The New Game from Supercell
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-227.png)

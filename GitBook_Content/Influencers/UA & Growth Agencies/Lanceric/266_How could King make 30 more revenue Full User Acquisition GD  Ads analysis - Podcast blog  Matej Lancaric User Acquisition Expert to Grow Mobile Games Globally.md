@@ -1,3 +1,7 @@
+---
+title: "How could King make 30 more revenue Full User Acquisition GD  Ads analysis - Podcast blog  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # How could King make 30% more revenue? Full User Acquisition, GD & Ads analysis - Podcast blog – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![How could King make 30% more revenue? Full User Acquisition, Game Design & Ads analysis - Podcast blog](https://lancaric.me/wp-content/uploads/2023/05/18.png) 

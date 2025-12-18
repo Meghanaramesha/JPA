@@ -1,3 +1,7 @@
+---
+title: "Survivor.io  Top War User Acquisition creative strategy masters  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Survivor.io & Top War: User Acquisition creative strategy masters – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Survivor.io & Top War: User Acquisition creative strategy masters](https://lancaric.me/wp-content/uploads/2023/05/Screen-Shot-2022-11-19-at-14.29.05.png) 

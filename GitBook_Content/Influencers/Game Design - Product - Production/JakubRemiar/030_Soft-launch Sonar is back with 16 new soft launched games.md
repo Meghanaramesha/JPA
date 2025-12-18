@@ -1,3 +1,7 @@
+---
+title: "Soft-launch Sonar is back with 16 new soft launched games"
+---
+
 # Soft-launch Sonar is back with 16 new soft launched games!
 
 Rovio making a social casino? Small Giant has a new game after 6 years? 😲 Coin Master going after Monopoly GO?

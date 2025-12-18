@@ -1,3 +1,7 @@
+---
+title: "The Power of Partnership in Mobile Gaming  Part 10"
+---
+
 # The Power of Partnership in Mobile Gaming – Part #10
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

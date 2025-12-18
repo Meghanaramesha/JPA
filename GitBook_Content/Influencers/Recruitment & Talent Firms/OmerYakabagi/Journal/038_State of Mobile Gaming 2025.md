@@ -1,3 +1,7 @@
+---
+title: "State of Mobile Gaming 2025"
+---
+
 # State of Mobile Gaming 2025
 
 **Source:** https://www.gamigion.com/state-of-mobile-gaming-2025/

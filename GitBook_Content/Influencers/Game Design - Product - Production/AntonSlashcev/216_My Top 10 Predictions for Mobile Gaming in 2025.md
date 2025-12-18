@@ -1,3 +1,7 @@
+---
+title: "My Top 10 Predictions for Mobile Gaming in 2025"
+---
+
 # My Top 10 Predictions for Mobile Gaming in 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/My-Top-10-Predictions-for-Mobile-Gaming-in-2025.jpg)

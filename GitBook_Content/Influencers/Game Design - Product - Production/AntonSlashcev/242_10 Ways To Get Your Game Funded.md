@@ -1,3 +1,7 @@
+---
+title: "10 Ways To Get Your Game Funded"
+---
+
 # 10 Ways To Get Your Game Funded
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/10-Ways-To-Get-Your-Game-Funded.jpg)

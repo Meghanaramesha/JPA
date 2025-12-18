@@ -1,3 +1,7 @@
+---
+title: "How to Find the Perfect Game Idea"
+---
+
 # How to Find the Perfect Game Idea
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-10.jpg)

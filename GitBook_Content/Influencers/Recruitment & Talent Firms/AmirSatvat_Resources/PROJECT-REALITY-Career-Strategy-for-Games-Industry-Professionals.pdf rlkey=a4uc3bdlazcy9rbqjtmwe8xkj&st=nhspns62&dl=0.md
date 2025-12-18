@@ -1,3 +1,7 @@
+---
+title: "PROJECT-REALITY-Career-Strategy-for-Games-Industry-Professionals.pdfrlkeya4uc3bdlazcy9rbqjtmwe8xkjstnhspns62dl0"
+---
+
 # PROJECT-REALITY-Career-Strategy-for-Games-Industry-Professionals.pdf?rlkey=a4uc3bdlazcy9rbqjtmwe8xkj&st=nhspns62&dl=0
 
 **Download Link:**

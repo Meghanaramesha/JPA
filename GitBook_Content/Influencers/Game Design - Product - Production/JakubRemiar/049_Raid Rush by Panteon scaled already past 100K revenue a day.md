@@ -1,3 +1,7 @@
+---
+title: "Raid Rush by Panteon scaled already past 100K revenue a day"
+---
+
 # Raid Rush by Panteon scaled already past $100K revenue a day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Raid-Rush-by-Panteon-scaled-already-past-100K-revenue-a-day-1.jpg)

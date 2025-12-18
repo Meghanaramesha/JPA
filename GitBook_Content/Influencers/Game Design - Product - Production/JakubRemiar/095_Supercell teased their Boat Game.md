@@ -1,3 +1,7 @@
+---
+title: "Supercell teased their Boat Game"
+---
+
 # Supercell teased their “Boat Game”
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Supercell-teased-their-22Boat-Game22.jpg)

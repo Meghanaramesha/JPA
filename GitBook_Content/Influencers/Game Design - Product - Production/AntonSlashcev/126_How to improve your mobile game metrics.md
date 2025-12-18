@@ -1,3 +1,7 @@
+---
+title: "How to improve your mobile game metrics"
+---
+
 # How to improve your mobile game metrics?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/How-to-improve-your-mobile-game-metrics.jpg)

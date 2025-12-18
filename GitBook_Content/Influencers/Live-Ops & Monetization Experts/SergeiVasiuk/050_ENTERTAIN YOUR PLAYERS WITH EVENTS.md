@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/entertain-your-players-with-events
-title: ENTERTAIN YOUR PLAYERS WITH EVENTS!
+title: "ENTERTAIN YOUR PLAYERS WITH EVENTS"
 ---
 
 # ENTERTAIN YOUR PLAYERS WITH EVENTS!

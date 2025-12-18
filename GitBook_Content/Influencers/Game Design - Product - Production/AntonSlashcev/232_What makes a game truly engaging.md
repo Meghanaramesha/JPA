@@ -1,3 +1,7 @@
+---
+title: "What makes a game truly engaging"
+---
+
 # What makes a game truly engaging?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/What-makes-a-game-truly-engaging.jpg)

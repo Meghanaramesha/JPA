@@ -1,3 +1,7 @@
+---
+title: "2B Later Umamusume Pretty Derby Launches Globally"
+---
+
 # $2B Later, Umamusume Pretty Derby Launches Globally!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/2B-Later-The-Wait-Is-Over-Umamusume-Pretty-Derby-Launches-Globally.jpg)

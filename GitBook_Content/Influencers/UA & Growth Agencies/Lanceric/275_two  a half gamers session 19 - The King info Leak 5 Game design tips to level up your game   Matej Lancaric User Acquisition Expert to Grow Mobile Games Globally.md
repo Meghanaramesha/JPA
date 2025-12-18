@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 19 - The King info Leak 5 Game design tips to level up your game   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #19 - The King info Leak, 5 Game design tips to level up your game  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Lancaric.me_-1.png) 

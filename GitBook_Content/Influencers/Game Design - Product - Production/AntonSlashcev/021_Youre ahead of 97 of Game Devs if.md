@@ -1,3 +1,7 @@
+---
+title: "Youre ahead of 97 of Game Devs if"
+---
+
 # You’re ahead of 97% of Game Devs if
 
 You’re already ahead of 97% of game devs if you do this:

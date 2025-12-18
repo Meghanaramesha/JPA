@@ -1,3 +1,7 @@
+---
+title: "How to Design FUUU Factor for Puzzle Games"
+---
+
 # How to Design FUUU Factor for Puzzle Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/How-to-Design-FUUU-Factor-for-Puzzle-Games.jpg)

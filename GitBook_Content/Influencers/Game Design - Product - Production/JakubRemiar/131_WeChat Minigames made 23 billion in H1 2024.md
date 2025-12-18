@@ -1,3 +1,7 @@
+---
+title: "WeChat Minigames made 2.3 billion in H1 2024"
+---
+
 # WeChat Minigames made $2.3 billion in H1 2024
 
 * The latest statistics show that there are 845.4 million WeChat users in China

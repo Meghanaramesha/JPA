@@ -1,3 +1,7 @@
+---
+title: "Iteration over Innovation Case Makeover Match"
+---
+
 # Iteration over Innovation? Case: Makeover Match
 
 Making games is hard. As player expectations rise and market conditions become more challenging, creating a successful game and maintaining that success is becoming increasingly difficult. It looks like these are not enough to stop [Tactile](https://tactilegames.com/), the Danish studio behind smash hit [Lily’s Garden](https://play.google.com/store/apps/details?gl=US&hl=en&id=dk.tactile.lilysgarden), from working on a new title since they launched their latest game [Makeover Match](https://play.google.com/store/apps/details?hl=en_US&id=dk.tactile.makeoverchallenge) in March 2023.

@@ -1,3 +1,7 @@
+---
+title: "Combining a deal  a spin wheel in one screen."
+---
+
 # Combining a deal + a spin wheel in one screen.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

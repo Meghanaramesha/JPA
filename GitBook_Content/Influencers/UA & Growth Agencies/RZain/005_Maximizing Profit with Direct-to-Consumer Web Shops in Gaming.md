@@ -1,3 +1,7 @@
+---
+title: "Maximizing Profit with Direct-to-Consumer Web Shops in Gaming"
+---
+
 # Maximizing Profit with Direct-to-Consumer Web Shops in Gaming
 
 [ART](#)

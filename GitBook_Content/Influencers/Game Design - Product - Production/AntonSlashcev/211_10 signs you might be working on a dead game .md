@@ -1,3 +1,7 @@
+---
+title: "10 signs you might be working on a dead game "
+---
+
 # 10 signs you might be working on a dead game 🚩
 
 ###### 10 signs you might be working on a dead game 🚩

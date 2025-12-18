@@ -1,3 +1,7 @@
+---
+title: "Supercells Squad Busters A Major Update"
+---
+
 # Supercell’s Squad Busters: A Major Update
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/08/image-141.png)

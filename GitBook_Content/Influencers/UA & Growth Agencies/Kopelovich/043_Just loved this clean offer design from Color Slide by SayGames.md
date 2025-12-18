@@ -1,3 +1,7 @@
+---
+title: "Just loved this clean offer design from Color Slide by SayGames."
+---
+
 # Just loved this clean offer design from Color Slide by SayGames.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

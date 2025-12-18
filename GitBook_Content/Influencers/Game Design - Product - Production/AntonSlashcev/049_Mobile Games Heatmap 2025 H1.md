@@ -1,3 +1,7 @@
+---
+title: "Mobile Games Heatmap 2025 H1"
+---
+
 # Mobile Games Heatmap 2025 H1
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Mobile-Games-Heatmap-2025-H1.jpg)

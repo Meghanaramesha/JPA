@@ -1,3 +1,7 @@
+---
+title: "Combat Balance Breakdown"
+---
+
 # Combat Balance Breakdown
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Combat-Balance-Breakdown.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Mobile game loop breakdown"
+---
+
 # Mobile game loop breakdown:
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/Mobile-game-loop-breakdown.jpg)

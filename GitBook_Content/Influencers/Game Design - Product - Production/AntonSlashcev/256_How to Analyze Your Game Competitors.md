@@ -1,3 +1,7 @@
+---
+title: "How to Analyze Your Game Competitors"
+---
+
 # How to Analyze Your Game Competitors:
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/How-to-Analyze-Your-Game-Competitors.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Beginners Guide to Mobile User Acquisition The No-Bullshit Guide  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Beginner’s Guide to Mobile User Acquisition: The No-Bullshit Guide – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/03/lancito_ideas_coming_out_of_a_brain_of_a_gamer._Show_the_ideas__65b5d7df-b50c-4f39-bc40-6e15d9569716.png) 

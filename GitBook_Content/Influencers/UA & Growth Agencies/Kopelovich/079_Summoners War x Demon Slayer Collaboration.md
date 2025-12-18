@@ -1,3 +1,7 @@
+---
+title: "Summoners War x Demon Slayer Collaboration"
+---
+
 # Summoners War x Demon Slayer Collaboration
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

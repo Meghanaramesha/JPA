@@ -1,3 +1,7 @@
+---
+title: "Apple Faces Investigation in China Over Monopoly"
+---
+
 # Apple Faces Investigation in China Over Monopoly
 
 **Source:** https://www.gamigion.com/apple-faces-investigation-in-china-over-monopoly/

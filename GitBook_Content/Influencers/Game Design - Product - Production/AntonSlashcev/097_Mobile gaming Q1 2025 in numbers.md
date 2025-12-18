@@ -1,3 +1,7 @@
+---
+title: "Mobile gaming Q1 2025 in numbers."
+---
+
 # Mobile gaming Q1 2025 in numbers.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/Mobile-gaming-Q1-2025-in-numbers.jpg)

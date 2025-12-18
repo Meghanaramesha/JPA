@@ -1,3 +1,7 @@
+---
+title: "How to Set Player Goals"
+---
+
 # How to Set Player Goals
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/How-to-Set-Player-Goals.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Block Blast by Hungry Studio is doing 1M a Day"
+---
+
 # Block Blast by Hungry Studio is doing $1M a Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Block-Blast-by-Hungry-Studio-is-doing-1M-a-Day.jpg)

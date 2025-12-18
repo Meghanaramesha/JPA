@@ -1,3 +1,7 @@
+---
+title: "Unexpected impact of Dota on f2p RPGs in Asia"
+---
+
 # Unexpected impact of Dota on f2p RPGs in Asia
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-56.jpg)

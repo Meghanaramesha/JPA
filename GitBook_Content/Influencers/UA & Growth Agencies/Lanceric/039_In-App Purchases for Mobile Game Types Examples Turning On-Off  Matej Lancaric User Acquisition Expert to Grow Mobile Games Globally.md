@@ -1,3 +1,7 @@
+---
+title: "In-App Purchases for Mobile Game Types Examples Turning On-Off  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # In-App Purchases for Mobile Game: Types, Examples, Turning On-Off – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games In-App Purchases Monetization Model](https://lancaric.me/wp-content/uploads/2024/11/in-app-purchases-mobile-games-monetization.png) 

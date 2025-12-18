@@ -1,3 +1,7 @@
+---
+title: "300K a Day Rivergames Last Z Survival Shooter"
+---
+
 # $300K a Day: Rivergame’s Last Z Survival Shooter
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/300K-a-Day-Rivergames-Last-Z-Survival-Shooter.jpg)

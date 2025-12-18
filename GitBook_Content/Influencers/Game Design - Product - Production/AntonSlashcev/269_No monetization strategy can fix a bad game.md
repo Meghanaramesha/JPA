@@ -1,3 +1,7 @@
+---
+title: "No monetization strategy can fix a bad game."
+---
+
 # No monetization strategy can fix a bad game.
 
 No monetization strategy can fix a bad game.

@@ -1,3 +1,7 @@
+---
+title: "Really liked this small UI touch in Block Jam"
+---
+
 # Really liked this small UI touch in Block Jam
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

@@ -1,3 +1,7 @@
+---
+title: "The Game Scout Why Game Publishing in 2025 Is Broken for Indie Developers  Bobby Wertheim"
+---
+
 # The Game Scout: Why Game Publishing in 2025 Is Broken for Indie Developers | Bobby Wertheim
 
 **YouTube URL:** https://www.youtube.com/watch?v=fdiVwb3nv20

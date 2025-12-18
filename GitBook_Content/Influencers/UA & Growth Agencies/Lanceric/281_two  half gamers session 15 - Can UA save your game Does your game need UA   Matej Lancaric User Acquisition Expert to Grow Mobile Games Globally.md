@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 15 - Can UA save your game Does your game need UA   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #15 - Can UA save your game? Does your game need UA?  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Lancaric.me_.png) 

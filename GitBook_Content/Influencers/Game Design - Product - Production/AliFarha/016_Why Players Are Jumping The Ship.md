@@ -1,3 +1,7 @@
+---
+title: "Why Players Are Jumping The Ship"
+---
+
 # Why Players Are Jumping The Ship
 
 ##### Most likely you are one of them.

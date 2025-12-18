@@ -1,3 +1,7 @@
+---
+title: "Squad Busters Soft launch  Global launch case study  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Squad Busters Soft launch & Global launch case study – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Squad Busters First look in Soft Launch](https://lancaric.me/wp-content/uploads/2023/06/SquadBusters-Banner_2023-02-06-150716_zlpe.jpeg) 

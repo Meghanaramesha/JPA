@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/linkedin-expands-its-puzzle-lineup-w-tango
-title: LinkedIn expands its puzzle lineup w/ Tango.
+title: "LinkedIn expands its puzzle lineup w Tango."
 ---
 
 # LinkedIn expands its puzzle lineup w/ Tango.

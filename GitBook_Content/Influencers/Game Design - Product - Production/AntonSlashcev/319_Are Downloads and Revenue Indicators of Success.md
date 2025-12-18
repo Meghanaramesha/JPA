@@ -1,3 +1,7 @@
+---
+title: "Are Downloads and Revenue Indicators of Success"
+---
+
 # Are Downloads and Revenue Indicators of Success?
 
 **Downloads and revenue are not indicators of a game’s success.**  

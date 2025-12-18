@@ -1,3 +1,7 @@
+---
+title: "20 Costly Production Mistakes and How to Avoid Them"
+---
+
 # 20 Costly Production Mistakes and How to Avoid Them
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/20-Costly-Production-Mistakes-and-How-to-Avoid-Them.jpg)

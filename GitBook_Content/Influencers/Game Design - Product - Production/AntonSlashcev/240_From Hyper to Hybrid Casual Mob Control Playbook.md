@@ -1,3 +1,7 @@
+---
+title: "From Hyper to Hybrid Casual Mob Control Playbook"
+---
+
 # From Hyper to Hybrid Casual: Mob Control Playbook
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/image-51.jpg)

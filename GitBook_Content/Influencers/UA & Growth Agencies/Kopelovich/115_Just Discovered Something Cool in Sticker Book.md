@@ -1,3 +1,7 @@
+---
+title: "Just Discovered Something Cool in Sticker Book"
+---
+
 # Just Discovered Something Cool in Sticker Book!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

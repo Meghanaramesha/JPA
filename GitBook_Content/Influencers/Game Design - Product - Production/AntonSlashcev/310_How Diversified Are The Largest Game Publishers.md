@@ -1,3 +1,7 @@
+---
+title: "How Diversified Are The Largest Game Publishers"
+---
+
 # How Diversified Are The Largest Game Publishers?
 
 ***Here’s the monthly revenue distribution of some industry giants.***

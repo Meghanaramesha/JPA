@@ -1,3 +1,7 @@
+---
+title: "Playtesting can make or break your game."
+---
+
 # Playtesting can make or break your game.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Playtesting-can-make-or-break-your-game-1.jpg)

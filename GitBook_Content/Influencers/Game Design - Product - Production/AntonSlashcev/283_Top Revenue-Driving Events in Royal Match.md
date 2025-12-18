@@ -1,3 +1,7 @@
+---
+title: "Top Revenue-Driving Events in Royal Match"
+---
+
 # Top Revenue-Driving Events in Royal Match
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-252.jpg)

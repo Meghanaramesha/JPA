@@ -1,3 +1,7 @@
+---
+title: "Supercell Launches Developer Grants for African Gaming Studios"
+---
+
 # Supercell Launches Developer Grants for African Gaming Studios
 
 [ART](#)

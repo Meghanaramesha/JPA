@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/50-of-baby-boomers-are-playing-games
-title: 50% of Baby Boomers Are Playing Games
+title: "50 of Baby Boomers Are Playing Games"
 ---
 
 # 50% of Baby Boomers Are Playing Games

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Soft launch Sonar 6 Is Capybara GO the next big hit from Habby  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Soft launch Sonar #6: Is Capybara GO the next big hit from Habby? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/10/capybara-go.png) 

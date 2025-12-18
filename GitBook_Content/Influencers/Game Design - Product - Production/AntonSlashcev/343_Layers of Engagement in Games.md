@@ -1,3 +1,7 @@
+---
+title: "Layers of Engagement in Games"
+---
+
 # Layers of Engagement in Games
 
 ##### Here’s how to keep players hooked:

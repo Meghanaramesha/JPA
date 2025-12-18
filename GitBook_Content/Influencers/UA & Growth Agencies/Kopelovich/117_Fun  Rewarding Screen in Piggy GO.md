@@ -1,3 +1,7 @@
+---
+title: "Fun  Rewarding Screen in Piggy GO"
+---
+
 # Fun & Rewarding Screen in Piggy GO
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

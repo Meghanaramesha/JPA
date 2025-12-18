@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 25 - Does Ubisoft give a F about mobile games  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #25 - Does Ubisoft give a F! about mobile games? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-25.png) 

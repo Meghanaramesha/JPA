@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Publishers Heatmap in 2024"
+---
+
 # Mobile Game Publishers Heatmap in 2024
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Mobile-Game-Publishers-Heatmap-in-2024.jpg)

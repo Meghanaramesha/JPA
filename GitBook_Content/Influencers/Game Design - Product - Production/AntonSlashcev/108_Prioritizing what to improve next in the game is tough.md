@@ -1,3 +1,7 @@
+---
+title: "Prioritizing what to improve next in the game is tough."
+---
+
 # Prioritizing what to improve next in the game is tough.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Prioritizing-what-to-improve-next-in-the-game-is-tough.jpg)

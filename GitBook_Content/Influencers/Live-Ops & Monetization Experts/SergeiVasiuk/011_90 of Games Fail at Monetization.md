@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/90-of-games-fail-at-monetization
-title: 90% of Games Fail at Monetization
+title: "90 of Games Fail at Monetization"
 ---
 
 # 90% of Games Fail at Monetization

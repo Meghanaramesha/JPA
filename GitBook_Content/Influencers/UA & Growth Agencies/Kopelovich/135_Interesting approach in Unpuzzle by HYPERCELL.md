@@ -1,3 +1,7 @@
+---
+title: "Interesting approach in Unpuzzle by HYPERCELL"
+---
+
 # Interesting approach in ‘Unpuzzle’ by HYPERCELL
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

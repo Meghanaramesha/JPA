@@ -1,3 +1,7 @@
+---
+title: "5 Rules to Keep Players Engaged"
+---
+
 # 5 Rules to Keep Players Engaged
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/5-Rules-to-Keep-Players-Engaged.jpg)

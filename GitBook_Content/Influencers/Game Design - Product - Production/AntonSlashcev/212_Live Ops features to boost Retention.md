@@ -1,3 +1,7 @@
+---
+title: "Live Ops features to boost Retention"
+---
+
 # Live Ops features to boost Retention
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Live-Ops-features-to-boost-Retention.jpg)

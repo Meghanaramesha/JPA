@@ -1,3 +1,7 @@
+---
+title: "Royal Match earns MORE than all Playrix titles combined."
+---
+
 # Royal Match earns MORE than all Playrix titles combined.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Royal-Match-earns-MORE-than-all-Playrix-titles-combined.jpg)

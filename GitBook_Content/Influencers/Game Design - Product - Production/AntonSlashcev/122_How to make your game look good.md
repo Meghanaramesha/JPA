@@ -1,3 +1,7 @@
+---
+title: "How to make your game look good"
+---
+
 # How to make your game look good?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/How-to-make-your-game-look-good.jpg)

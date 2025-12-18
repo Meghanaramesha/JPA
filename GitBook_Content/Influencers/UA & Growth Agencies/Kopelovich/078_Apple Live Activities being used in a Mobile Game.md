@@ -1,3 +1,7 @@
+---
+title: "Apple Live Activities being used in a Mobile Game"
+---
+
 # Apple Live Activities being used in a Mobile Game
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

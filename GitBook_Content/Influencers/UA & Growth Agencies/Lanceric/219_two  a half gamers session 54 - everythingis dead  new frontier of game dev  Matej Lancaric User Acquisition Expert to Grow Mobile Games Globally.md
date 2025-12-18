@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 54 - everythingis dead  new frontier of game dev  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #54 - #everything is dead & new frontier of game dev – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/session-54.png) 

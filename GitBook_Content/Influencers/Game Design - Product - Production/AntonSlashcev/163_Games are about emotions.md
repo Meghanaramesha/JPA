@@ -1,3 +1,7 @@
+---
+title: "Games are about emotions."
+---
+
 # Games are about emotions.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Games-are-about-emotions.jpg)

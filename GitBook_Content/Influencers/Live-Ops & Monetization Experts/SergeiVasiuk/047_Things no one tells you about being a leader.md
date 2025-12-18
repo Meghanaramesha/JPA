@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/things-no-one-tells-you-about-being-a-leader
-title: Things no one tells you about being a leader:
+title: "Things no one tells you about being a leader"
 ---
 
 # Things no one tells you about being a leader:

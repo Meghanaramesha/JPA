@@ -1,3 +1,7 @@
+---
+title: "60 Gamedev Learning Resources"
+---
+
 # 60+ Gamedev Learning Resources
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/60-Gamedev-Learning-Resources.jpg)

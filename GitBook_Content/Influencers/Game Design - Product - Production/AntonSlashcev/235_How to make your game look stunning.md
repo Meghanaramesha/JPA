@@ -1,3 +1,7 @@
+---
+title: "How to make your game look stunning"
+---
+
 # How to make your game look stunning?
 
 ###### How to make your game look stunning?

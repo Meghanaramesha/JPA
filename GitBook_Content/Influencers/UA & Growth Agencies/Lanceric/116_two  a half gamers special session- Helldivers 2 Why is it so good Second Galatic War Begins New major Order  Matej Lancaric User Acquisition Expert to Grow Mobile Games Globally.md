@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers special session- Helldivers 2 Why is it so good Second Galatic War Begins New major Order  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers special session- Helldivers 2: Why is it so good? Second Galatic War Begins! New major Order! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/05/special-ep-helldivers.jpg) 

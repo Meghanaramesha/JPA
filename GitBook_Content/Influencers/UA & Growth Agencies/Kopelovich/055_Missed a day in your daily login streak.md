@@ -1,3 +1,7 @@
+---
+title: "Missed a day in your daily login streak"
+---
+
 # Missed a day in your daily login streak?
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

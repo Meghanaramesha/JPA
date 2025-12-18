@@ -1,3 +1,7 @@
+---
+title: "Century Gamess Kingshot 300K a Day"
+---
+
 # Century Games’s Kingshot: $300K a Day
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Century-Gamess-Kingshot-already-scaled-past-300-a-Day.jpg)

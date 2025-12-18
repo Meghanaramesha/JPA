@@ -1,3 +1,7 @@
+---
+title: "How Race Events Drive Engagement in Mobile Games"
+---
+
 # How Race Events Drive Engagement in Mobile Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

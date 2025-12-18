@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives
-title: Candy Crush Saga’s Unique Challenge For More Lives
+title: "Candy Crush Sagas Unique Challenge For More Lives"
 ---
 
 # Candy Crush Saga’s Unique Challenge For More Lives

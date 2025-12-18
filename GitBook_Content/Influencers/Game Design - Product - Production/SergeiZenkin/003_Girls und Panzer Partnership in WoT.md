@@ -1,3 +1,7 @@
+---
+title: "Girls und Panzer Partnership in WoT"
+---
+
 # Girls und Panzer Partnership in WoT!
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/09/image-53.jpg)

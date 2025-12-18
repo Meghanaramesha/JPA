@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/fishdom-by-playrix-fantastic-results
-title: Fishdom by Playrix: Fantastic Results
+title: "Fishdom by Playrix Fantastic Results"
 ---
 
 # Fishdom by Playrix: Fantastic Results

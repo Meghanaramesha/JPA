@@ -1,3 +1,7 @@
+---
+title: "Static Boards Moving Parts Inside Hybridcasual Dynamism"
+---
+
 # Static Boards, Moving Parts: Inside Hybridcasual Dynamism
 
 *[We talked about static puzzles before](https://www.gamigion.com/static-puzzles-in-a-dynamic-market/)* and how they took off because they felt close to real-life puzzles. Tile sorters, block shufflers, small gridded boards you could almost imagine on a table.

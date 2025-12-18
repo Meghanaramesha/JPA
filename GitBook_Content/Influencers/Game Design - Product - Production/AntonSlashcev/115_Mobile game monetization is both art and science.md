@@ -1,3 +1,7 @@
+---
+title: "Mobile game monetization is both art and science."
+---
+
 # Mobile game monetization is both art and science.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Mobile-game-monetization-is-both-art-and-science.jpg)

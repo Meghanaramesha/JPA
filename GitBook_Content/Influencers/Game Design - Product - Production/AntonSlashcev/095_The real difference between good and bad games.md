@@ -1,3 +1,7 @@
+---
+title: "The real difference between good and bad games"
+---
+
 # The real difference between good and bad games?
 
 ###### The real difference between good and bad games:

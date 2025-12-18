@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/whats-the-supreme-boss-level-in-game-dev
-title: What’s the supreme boss level in Game Dev?
+title: "Whats the supreme boss level in Game Dev"
 ---
 
 # What’s the supreme boss level in Game Dev?

@@ -1,3 +1,7 @@
+---
+title: "Black Friday Deals on Mobile Games"
+---
+
 # Black Friday Deals on Mobile Games
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

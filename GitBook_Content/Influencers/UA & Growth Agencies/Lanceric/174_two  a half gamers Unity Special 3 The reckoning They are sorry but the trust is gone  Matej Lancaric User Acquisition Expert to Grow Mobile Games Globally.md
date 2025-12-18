@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers Unity Special 3 The reckoning. They are sorry but the trust is gone  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers Unity Special #3: The reckoning. They are sorry, but the trust is gone! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/09/unity-special-3.jpg) 

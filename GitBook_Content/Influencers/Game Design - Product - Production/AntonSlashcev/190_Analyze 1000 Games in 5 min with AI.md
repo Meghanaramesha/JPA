@@ -1,3 +1,7 @@
+---
+title: "Analyze 1000 Games in 5 min with AI"
+---
+
 # Analyze 1000 Games in 5 min with AI
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/Analyze-1000-Games-in-5-min-with-AI.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Mobile Games Downloads Heatmap 2024"
+---
+
 # Mobile Games Downloads Heatmap 2024
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Mobile-Games-Downloads-Heatmap-2024.jpg)

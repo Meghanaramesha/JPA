@@ -1,3 +1,7 @@
+---
+title: "Frozen City post-IDFA Global Launch User Acquisition Case Study  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # Frozen City post-IDFA Global Launch User Acquisition Case Study – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Frozen City post-IDFA global launch](https://lancaric.me/wp-content/uploads/2023/05/frozen-city.jpeg) 

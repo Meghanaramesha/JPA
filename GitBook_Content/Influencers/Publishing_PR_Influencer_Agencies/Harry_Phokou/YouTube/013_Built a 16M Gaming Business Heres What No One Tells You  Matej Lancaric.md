@@ -1,3 +1,7 @@
+---
+title: "Built a 1.6M Gaming Business Heres What No One Tells You  Matej Lancaric"
+---
+
 # Built a €1.6M Gaming Business… Here’s What No One Tells You | Matej Lancaric
 
 **YouTube URL:** https://www.youtube.com/watch?v=n02LNbU4NCI

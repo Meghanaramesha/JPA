@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers - Top Girl game review Idle Game made with AI meets 4X genre  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers - Top Girl game review: Idle Game made with AI meets 4X genre! – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/12/top-girl.png) 

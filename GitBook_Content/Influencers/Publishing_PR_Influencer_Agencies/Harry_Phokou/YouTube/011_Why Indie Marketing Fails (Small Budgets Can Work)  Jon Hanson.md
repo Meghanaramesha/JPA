@@ -1,3 +1,7 @@
+---
+title: "Why Indie Marketing Fails (Small Budgets Can Work)  Jon Hanson"
+---
+
 # Why Indie Marketing Fails (Small Budgets Can Work) | Jon Hanson
 
 **YouTube URL:** https://www.youtube.com/watch?v=Mzi1HyOJiOI

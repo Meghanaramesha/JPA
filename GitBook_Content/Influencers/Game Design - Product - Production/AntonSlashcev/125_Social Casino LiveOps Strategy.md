@@ -1,3 +1,7 @@
+---
+title: "Social Casino LiveOps Strategy"
+---
+
 # Social Casino LiveOps Strategy
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/05/Social-casino-LiveOps-Strategy.jpg)

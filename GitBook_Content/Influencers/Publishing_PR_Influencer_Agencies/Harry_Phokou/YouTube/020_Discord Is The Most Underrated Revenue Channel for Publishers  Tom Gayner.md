@@ -1,3 +1,7 @@
+---
+title: "Discord Is The Most Underrated Revenue Channel for Publishers  Tom Gayner"
+---
+
 # Discord Is The Most Underrated Revenue Channel for Publishers | Tom Gayner
 
 **YouTube URL:** https://www.youtube.com/watch?v=PTDZOkNDACw

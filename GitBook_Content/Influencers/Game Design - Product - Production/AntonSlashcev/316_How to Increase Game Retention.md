@@ -1,3 +1,7 @@
+---
+title: "How to Increase Game Retention"
+---
+
 # How to Increase Game Retention?
 
 #### Here is a step-by-step algorithm for making a decision:

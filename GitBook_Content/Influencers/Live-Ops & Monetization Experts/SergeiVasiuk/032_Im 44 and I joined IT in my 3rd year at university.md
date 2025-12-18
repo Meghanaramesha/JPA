@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/im-44-and-i-joined-it-in-my-3rd-year-at-university
-title: I’m 44, and I joined IT in my 3rd year at university.
+title: "Im 44 and I joined IT in my 3rd year at university."
 ---
 
 # I’m 44, and I joined IT in my 3rd year at university.

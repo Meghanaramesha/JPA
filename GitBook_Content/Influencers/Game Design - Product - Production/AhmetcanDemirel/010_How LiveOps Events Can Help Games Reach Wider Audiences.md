@@ -1,3 +1,7 @@
+---
+title: "How LiveOps Events Can Help Games Reach Wider Audiences"
+---
+
 # How LiveOps Events Can Help Games Reach Wider Audiences
 
 The gaming industry has long embraced the idea that games don’t just compete with each other, but they compete with all forms of entertainment. But we may be crossing into an even more complex era. Entertainment is no longer just competition; it’s becoming collaboration. The success of the Minecraft movie, with its impressive box office debut and [a viral TikTok trend of its own](https://www.theguardian.com/film/2025/apr/09/cinemas-minecraft-movie-chicken-jockey-tiktok-trend), is the latest proof that entertainment formats are increasingly blending.

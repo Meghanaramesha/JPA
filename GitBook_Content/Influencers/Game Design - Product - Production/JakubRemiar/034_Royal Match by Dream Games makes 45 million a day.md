@@ -1,3 +1,7 @@
+---
+title: "Royal Match by Dream Games makes 45 million a day"
+---
+
 # Royal Match by Dream Games makes $4,5 million a day!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/Royal-Match-by-Dream-Games-doing-45M-a-day.jpg)

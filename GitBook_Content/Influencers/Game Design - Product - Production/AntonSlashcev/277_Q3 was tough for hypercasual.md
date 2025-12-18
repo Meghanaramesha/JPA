@@ -1,3 +1,7 @@
+---
+title: "Q3 was tough for hypercasual."
+---
+
 # Q3 was tough for hypercasual.
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/10/image-17.jpg)

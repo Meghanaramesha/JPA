@@ -1,3 +1,7 @@
+---
+title: "Gamedev Learning Resources"
+---
+
 # Gamedev Learning Resources
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/11/Gamedev-Learning-Resources.jpg)

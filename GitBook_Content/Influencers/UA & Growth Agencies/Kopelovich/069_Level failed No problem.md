@@ -1,3 +1,7 @@
+---
+title: "Level failed No problem."
+---
+
 # Level failed? No problem.
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

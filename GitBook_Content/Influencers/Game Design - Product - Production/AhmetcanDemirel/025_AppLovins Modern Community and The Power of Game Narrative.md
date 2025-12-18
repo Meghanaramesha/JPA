@@ -1,3 +1,7 @@
+---
+title: "AppLovins Modern Community and The Power of Game Narrative"
+---
+
 # AppLovin’s Modern Community and The Power of Game Narrative
 
 Making a successful Match-3 is one of the most challenging tasks a mobile game developer can tackle. To succeed, you need a top-of-the-line game engine in addition to an engaging and differentiated metagame, and, even if you have both, you need a robust UA campaign to entice players. You will be competing against some of the most profitable game businesses out there with some of the heaviest war chests possible. You need a lot of stars to align and hopefully don’t run out of money in the process.

@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 45 - (ironic) predictions 2023 is next year the end of sexists ads  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #45 - (ironic) predictions 2023, is next year the end of sexists ads? – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/05/Lancaric.me_-3.png) 

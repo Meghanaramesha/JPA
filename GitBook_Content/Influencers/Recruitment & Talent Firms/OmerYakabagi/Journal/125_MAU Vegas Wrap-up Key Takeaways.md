@@ -1,3 +1,7 @@
+---
+title: "MAU Vegas Wrap-up Key Takeaways"
+---
+
 # MAU Vegas Wrap-up: Key Takeaways
 
 **Source:** https://www.gamigion.com/mau-vegas-wrap-up-key-takeaways/

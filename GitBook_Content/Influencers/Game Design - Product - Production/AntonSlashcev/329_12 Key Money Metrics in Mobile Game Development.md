@@ -1,3 +1,7 @@
+---
+title: "12 Key Money Metrics in Mobile Game Development"
+---
+
 # 12 Key Money Metrics in Mobile Game Development
 
 #### 🛠️ Product

@@ -1,3 +1,7 @@
+---
+title: "10 Rules every game designer must follow"
+---
+
 # 10 Rules every game designer must follow
 
 ###### 10 rules every game designer must follow:

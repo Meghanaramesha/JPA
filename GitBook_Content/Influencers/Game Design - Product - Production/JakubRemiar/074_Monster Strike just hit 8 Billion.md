@@ -1,3 +1,7 @@
+---
+title: "Monster Strike just hit 8 Billion"
+---
+
 # Monster Strike just hit $8 Billion!
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Monster-Strike-just-hit-8-Billion.jpg)

@@ -1,3 +1,7 @@
+---
+title: "New event in Royal Match Puzzle Break"
+---
+
 # New event in Royal Match: Puzzle Break
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/New-event-in-Royal-Match-Puzzle-Break.jpg)

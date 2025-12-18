@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/10-ways-players-spot-bad-games
-title: 10 Ways Players Spot Bad Games
+title: "10 Ways Players Spot Bad Games"
 ---
 
 # 10 Ways Players Spot Bad Games

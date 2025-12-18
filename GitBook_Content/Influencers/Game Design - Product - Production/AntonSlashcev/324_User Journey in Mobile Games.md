@@ -1,3 +1,7 @@
+---
+title: "User Journey in Mobile Games"
+---
+
 # User Journey in Mobile Games
 
 **The main steps in the interaction between the player and the product are:**

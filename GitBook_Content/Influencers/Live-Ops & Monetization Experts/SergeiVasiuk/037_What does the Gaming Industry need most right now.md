@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/what-does-the-gaming-industry-need-most-right-now
-title: What does the Gaming Industry need most right now?
+title: "What does the Gaming Industry need most right now"
 ---
 
 # What does the Gaming Industry need most right now?

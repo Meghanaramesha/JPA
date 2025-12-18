@@ -1,3 +1,7 @@
+---
+title: "Casual Games LiveOps in Q1 2025"
+---
+
 # Casual Games LiveOps in Q1 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/02/Casual-Games-LiveOps-in-Q1-2025.jpg)

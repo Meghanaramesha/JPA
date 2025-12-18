@@ -1,3 +1,7 @@
+---
+title: "Mobile Game Monetization  Design Insights Sep 14-19"
+---
+
 # Mobile Game Monetization & Design Insights: Sep 14-19
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

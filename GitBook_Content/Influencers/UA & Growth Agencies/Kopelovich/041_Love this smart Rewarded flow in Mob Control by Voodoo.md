@@ -1,3 +1,7 @@
+---
+title: "Love this smart Rewarded flow in Mob Control by Voodoo"
+---
+
 # Love this smart Rewarded flow in Mob Control by Voodoo!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

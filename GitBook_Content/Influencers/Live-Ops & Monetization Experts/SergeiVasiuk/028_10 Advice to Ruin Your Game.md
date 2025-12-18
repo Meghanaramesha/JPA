@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/10-advice-to-ruin-your-game
-title: 10 Advice to Ruin Your Game
+title: "10 Advice to Ruin Your Game"
 ---
 
 # 10 Advice to Ruin Your Game

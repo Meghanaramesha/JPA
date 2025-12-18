@@ -1,3 +1,7 @@
+---
+title: "Cross Promotion Pop-up Carousel"
+---
+
 # Cross Promotion: Pop-up Carousel
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

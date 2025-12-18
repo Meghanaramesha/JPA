@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/unlocking-success-in-monopoly-go-first-purchases
-title: Unlocking Success In Monopoly GO: First Purchases
+title: "Unlocking Success In Monopoly GO First Purchases"
 ---
 
 # Unlocking Success In Monopoly GO: First Purchases

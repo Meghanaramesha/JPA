@@ -1,3 +1,7 @@
+---
+title: "MONOPOLY GO x McDonalds"
+---
+
 # MONOPOLY GO! x McDonald’s
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

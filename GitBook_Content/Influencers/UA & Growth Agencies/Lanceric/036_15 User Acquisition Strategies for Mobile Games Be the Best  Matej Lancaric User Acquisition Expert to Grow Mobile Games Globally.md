@@ -1,3 +1,7 @@
+---
+title: "15 User Acquisition Strategies for Mobile Games Be the Best  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # 15 User Acquisition Strategies for Mobile Games: Be the Best – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Mobile Games User Acquisition Strategies in 2024](https://lancaric.me/wp-content/uploads/2024/11/player-acquisition-strategies-mobile-games.png) 

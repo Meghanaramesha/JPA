@@ -1,3 +1,7 @@
+---
+title: "Puzzle games are harder to make than they look."
+---
+
 # Puzzle games are harder to make than they look.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Puzzle-games-are-harder-to-make-than-they-look.jpg)

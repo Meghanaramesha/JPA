@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 88 - Zenless Zone Zero First look Everything we know from Closed Beta  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #88 - Zenless Zone Zero: First look! Everything we know from Closed Beta – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/12/session-88.jpg) 

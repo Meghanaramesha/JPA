@@ -1,3 +1,7 @@
+---
+title: "Mobile Games Live-Ops Cheat Sheet"
+---
+
 # Mobile Games Live-Ops Cheat Sheet
 
 ##### **The ultimate goal of any product changes in a game is to increase LTV.**

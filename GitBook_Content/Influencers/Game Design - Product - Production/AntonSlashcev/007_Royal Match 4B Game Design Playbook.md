@@ -1,3 +1,7 @@
+---
+title: "Royal Match 4B Game Design Playbook"
+---
+
 # Royal Match: $4B Game Design Playbook
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/12/Royal-Match-4B-Game-Design-Playbook.jpg)

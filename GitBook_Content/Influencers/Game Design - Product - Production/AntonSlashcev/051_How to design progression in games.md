@@ -1,3 +1,7 @@
+---
+title: "How to design progression in games"
+---
+
 # How to design progression in games?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/09/How-to-design-progression-in-games.jpg)

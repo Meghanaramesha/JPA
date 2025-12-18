@@ -1,3 +1,7 @@
+---
+title: "No-Ads UI Integration by Lion Studios"
+---
+
 # No-Ads UI Integration by Lion Studios
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

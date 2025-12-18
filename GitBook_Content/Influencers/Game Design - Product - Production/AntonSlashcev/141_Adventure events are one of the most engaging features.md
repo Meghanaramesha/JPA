@@ -1,3 +1,7 @@
+---
+title: "Adventure events are one of the most engaging features."
+---
+
 # Adventure events are one of the most engaging features.
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/04/Adventure-events-are-one-of-the-most-engaging-features.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Welcome Back screen from Travel Town by Moon Active"
+---
+
 # “Welcome Back!” screen from Travel Town by Moon Active!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

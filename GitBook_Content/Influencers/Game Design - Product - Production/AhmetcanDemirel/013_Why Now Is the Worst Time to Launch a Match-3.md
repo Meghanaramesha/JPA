@@ -1,3 +1,7 @@
+---
+title: "Why Now Is the Worst Time to Launch a Match-3"
+---
+
 # Why Now Is the Worst Time to Launch a Match-3
 
 For any team eyeing a sizable market, Match-3 has always been an incredibly tempting target. Puzzle games remain one of the biggest and most consistent genres on mobile, and within that space, Match-3 stands out as a true titan. Generating over 60% of puzzle IAP revenue and pulling in more than $5 billion last year, Match-3 has long held the promise of massive returns. It’s the kind of stat that makes even the most disciplined team think, “If we could just carve out 1% of this market…” That thinking has led so many teams into the grinder…

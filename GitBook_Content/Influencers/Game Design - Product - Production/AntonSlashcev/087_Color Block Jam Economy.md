@@ -1,3 +1,7 @@
+---
+title: "Color Block Jam Economy"
+---
+
 # Color Block Jam Economy
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Color-Block-Jam-Economy.jpg)

@@ -1,3 +1,7 @@
+---
+title: "Spotted in Pencil Sort by Onetap Global"
+---
+
 # Spotted in Pencil Sort by Onetap Global
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

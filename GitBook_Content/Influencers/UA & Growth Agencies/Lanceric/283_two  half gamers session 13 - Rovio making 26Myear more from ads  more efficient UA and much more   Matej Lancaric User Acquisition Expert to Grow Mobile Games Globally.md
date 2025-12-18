@@ -1,3 +1,7 @@
+---
+title: "two  half gamers session 13 - Rovio making 2.6Myear more from ads  more efficient UA and much more   Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & half gamers session #13 - Rovio making $2.6M/year more from ads & more efficient UA? and much more  – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![Rovio User Acquisition case study](https://lancaric.me/wp-content/uploads/2023/05/Untitled-920-x-250-px-800-x-250-px-1440-x-432-px-2.png) 

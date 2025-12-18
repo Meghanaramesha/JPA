@@ -1,3 +1,7 @@
+---
+title: "15 Documents Every Game Developer Needs"
+---
+
 # 15 Documents Every Game Developer Needs
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/15-Documents-Every-Game-Developer-Needs.jpg)

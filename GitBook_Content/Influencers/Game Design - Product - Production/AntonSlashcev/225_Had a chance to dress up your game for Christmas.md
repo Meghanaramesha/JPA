@@ -1,3 +1,7 @@
+---
+title: "Had a chance to dress up your game for Christmas"
+---
+
 # Had a chance to “dress up” your game for Christmas?
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/Had-a-chance-to-22dress-up22-your-game-for-Christmas.jpg)

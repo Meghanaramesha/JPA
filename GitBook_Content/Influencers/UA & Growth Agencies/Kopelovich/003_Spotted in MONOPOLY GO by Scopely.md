@@ -1,3 +1,7 @@
+---
+title: "Spotted in MONOPOLY GO by Scopely"
+---
+
 # Spotted in MONOPOLY GO by Scopely
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

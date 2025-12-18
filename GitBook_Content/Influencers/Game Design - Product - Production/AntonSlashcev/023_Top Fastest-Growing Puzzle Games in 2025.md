@@ -1,3 +1,7 @@
+---
+title: "Top Fastest-Growing Puzzle Games in 2025"
+---
+
 # Top Fastest-Growing Puzzle Games in 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/10/Top-Fastest-Growing-Puzzle-Games-in-2025.jpg)

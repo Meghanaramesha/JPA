@@ -1,3 +1,7 @@
+---
+title: "Core Loop in Top Casual Games"
+---
+
 # Core Loop in Top Casual Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/07/Core-Loop-in-Top-Casual-Games.jpg)

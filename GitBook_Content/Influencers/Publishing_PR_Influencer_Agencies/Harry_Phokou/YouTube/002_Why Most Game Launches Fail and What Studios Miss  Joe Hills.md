@@ -1,3 +1,7 @@
+---
+title: "Why Most Game Launches Fail and What Studios Miss  Joe Hills"
+---
+
 # Why Most Game Launches Fail and What Studios Miss | Joe Hills
 
 **YouTube URL:** https://www.youtube.com/watch?v=v5tWOCNSbXc

@@ -1,3 +1,7 @@
+---
+title: "Something Cool I Found in Raid Rush"
+---
+
 # Something Cool I Found in Raid Rush!
 
 ### [Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News Gamigion: Mobile Games Industry News](https://www.gamigion.com/)

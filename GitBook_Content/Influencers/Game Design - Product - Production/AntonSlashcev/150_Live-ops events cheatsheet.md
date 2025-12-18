@@ -1,3 +1,7 @@
+---
+title: "Live-ops events cheatsheet"
+---
+
 # Live-ops events cheatsheet
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/03/Live-ops-events-cheatsheet.jpg)

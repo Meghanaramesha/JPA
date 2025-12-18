@@ -1,3 +1,7 @@
+---
+title: "AVOID these mobile game genres in 2025"
+---
+
 # AVOID these mobile game genres in 2025
 
 ![](https://www.gamigion.com/wp-content/uploads/2024/12/AVOID-these-mobile-game-genres-in-2025.jpg)

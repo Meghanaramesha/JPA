@@ -1,3 +1,7 @@
+---
+title: "One simple truth mobile game devs often forget."
+---
+
 # One simple truth mobile game devs often forget.
 
 Behind every purchase in your game – there’s a real person.  

@@ -1,3 +1,7 @@
+---
+title: "Why is retention the most important metric of your game"
+---
+
 # Why is retention the most important metric of your game?
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Why-is-retention-the-most-important-metric-of-your-game.jpg)

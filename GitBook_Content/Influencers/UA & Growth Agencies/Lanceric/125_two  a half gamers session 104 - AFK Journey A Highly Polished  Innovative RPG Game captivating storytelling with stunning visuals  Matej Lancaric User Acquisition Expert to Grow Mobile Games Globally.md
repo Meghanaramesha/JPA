@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 104 - AFK Journey A Highly Polished  Innovative RPG Game captivating storytelling with stunning visuals  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #104 - AFK Journey: A Highly Polished & Innovative RPG Game, captivating storytelling with stunning visuals – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2024/04/Lancaric.me_.jpg) 

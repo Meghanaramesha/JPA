@@ -1,6 +1,5 @@
 ---
-original_url: https://www.gamigion.com/personalized-gaming-offers-through-phone-numbers
-title: Personalized Gaming Offers Through Phone Numbers
+title: "Personalized Gaming Offers Through Phone Numbers"
 ---
 
 # Personalized Gaming Offers Through Phone Numbers

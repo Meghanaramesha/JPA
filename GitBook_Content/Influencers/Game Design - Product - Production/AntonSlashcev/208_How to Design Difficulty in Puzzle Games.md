@@ -1,3 +1,7 @@
+---
+title: "How to Design Difficulty in Puzzle Games"
+---
+
 # How to Design Difficulty in Puzzle Games
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/01/How-to-Design-Difficulty-in-Puzzle-Games.jpg)

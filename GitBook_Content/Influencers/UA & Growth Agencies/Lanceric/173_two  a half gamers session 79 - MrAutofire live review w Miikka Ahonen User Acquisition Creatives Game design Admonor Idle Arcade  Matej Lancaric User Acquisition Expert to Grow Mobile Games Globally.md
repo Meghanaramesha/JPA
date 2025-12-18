@@ -1,3 +1,7 @@
+---
+title: "two  a half gamers session 79 - Mr.Autofire live review w Miikka Ahonen User Acquisition Creatives Game design Admonor Idle Arcade  Matej Lancaric User Acquisition Expert to Grow Mobile Games Globally "
+---
+
 # two & a half gamers session #79 - Mr.Autofire live review w/ Miikka Ahonen: User Acquisition, Creatives, Game design, Admonor Idle Arcade – Matej Lancaric: User Acquisition Expert to Grow Mobile Games Globally 🦄🕺
 
 ![](https://lancaric.me/wp-content/uploads/2023/09/session-79.jpg) 

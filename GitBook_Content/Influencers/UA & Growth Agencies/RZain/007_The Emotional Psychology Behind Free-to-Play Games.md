@@ -1,3 +1,7 @@
+---
+title: "The Emotional Psychology Behind Free-to-Play Games"
+---
+
 # The Emotional Psychology Behind Free-to-Play Games
 
 [ART](#)

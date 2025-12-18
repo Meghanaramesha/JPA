@@ -1,3 +1,7 @@
+---
+title: "Match-3 Games Features Full Breakdown"
+---
+
 # Match-3 Games Features Full Breakdown
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/08/Match-3-Games-Features-Full-Breakdown.jpg)

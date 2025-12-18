@@ -1,3 +1,7 @@
+---
+title: "The puzzle genre is overheating"
+---
+
 # The puzzle genre is overheating
 
 ![](https://www.gamigion.com/wp-content/uploads/2025/06/The-puzzle-genre-is-overheating.jpg)
