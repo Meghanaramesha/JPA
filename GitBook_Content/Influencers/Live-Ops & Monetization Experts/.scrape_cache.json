@@ -1,0 +1,400 @@
+{
+  "pages": {
+    "https://felixbraberg.substack.com/p/the-new-ua-playbook-grabbing-downloads": {
+      "hash": "d5ec51497d9a6285e7bba8bf81ab359e56c778ae4b63ba1c826fa0aae492e320",
+      "file": "001_The New UA Playbook Grabbing Downloads by Combining Genres.md"
+    },
+    "https://felixbraberg.substack.com/p/the-greatest-fake-onboarding-of-all": {
+      "hash": "da17afc8c6e15b2f423e5b1dff87f7f51dd6127d525bab4a1087d63aeec5f099",
+      "file": "002_The Greatest Fake Onboarding of All Time.md"
+    },
+    "https://felixbraberg.substack.com/p/the-1-banner-ad-mistake-youre-still": {
+      "hash": "a901ba525b926290a0074306e07c6a2d3b38cfff3fa1c55e0a97ff8d1ce6d828",
+      "file": "003_The 1 Banner Ad Mistake Youre Still Making.md"
+    },
+    "https://felixbraberg.substack.com/p/candy-crush-is-crushing-it-with-ad": {
+      "hash": "9fd2e8814f89af634b2289efc91e951cd34a4efb502ab9c1bc6ec7932afa1a83",
+      "file": "004_Candy Crush is Crushing it with Ad Revenue.md"
+    },
+    "https://felixbraberg.substack.com/p/8-jolly-ad-monetization-tips-for": {
+      "hash": "2df46f199452f5eb45fedc77fbfecf89b484dfff76e22749294f014735b0fd00",
+      "file": "005_8 Jolly Ad Monetization Tips for Black Friday Weekend.md"
+    },
+    "https://felixbraberg.substack.com/p/lessmores-first-release-under-miniclip": {
+      "hash": "6e0f2211805e945cc0354d3bc70506ea7140bcfb4134124b1e46c899d7d55785",
+      "file": "006_Lessmores first release under Miniclip ownership.md"
+    },
+    "https://felixbraberg.substack.com/p/hungrystudio-is-hungry-for-more": {
+      "hash": "5186588fbdd74b10d2c32cff1f89c876cf7f48fa855c662c2396f341e4bb28ec",
+      "file": "007_HungryStudio is hungry for more.md"
+    },
+    "https://felixbraberg.substack.com/p/is-coin-master-adding-in-game-ads": {
+      "hash": "6ebc13874a1179b7b9ba1433d7f438abc8c06a6d2d87e73f8d497f82d5a46a73",
+      "file": "008_Is Coin Master Adding in Game Ads.md"
+    },
+    "https://felixbraberg.substack.com/p/banners-the-walking-dead-of-mobile": {
+      "hash": "f411607fd6a77c6e4bcd13bebf4add93703eadc956738a4ea7dfbdc1f0bb7fbd",
+      "file": "009_Banners The Walking Dead of Mobile Ads.md"
+    },
+    "https://felixbraberg.substack.com/p/from-44-to-72-vietnams-studio-surge": {
+      "hash": "b6b2dacaee4f65ddc36ca268283e2ee3956a9f1ee85f341f4ae74aaffce6c0fa",
+      "file": "010_From 44 to 72 Vietnams Studio Surge Continues.md"
+    },
+    "https://felixbraberg.substack.com/p/end-cards-the-silent-driver-of-player": {
+      "hash": "2cbc3a7dbd02768c7805762c0cbaf4d41e9d56d9ec7922da2b5527c128be2c5c",
+      "file": "011_End Cards The Silent Driver of Player Retention.md"
+    },
+    "https://felixbraberg.substack.com/p/are-ads-falling-out-of-fashion": {
+      "hash": "2da983999b1dfe03b4c6a437954c89d20c1839ee9477d44059a69895db32f389",
+      "file": "012_Are Ads Falling Out of Fashion.md"
+    },
+    "https://www.felixbraberg.com/blog": {
+      "hash": "79840c6412191ba4a5ca7c9b8b58fc17baed466e3e4cc6167b8058bc4d4d5731",
+      "file": "001_Blog  FelixBrabergcom.md"
+    },
+    "https://www.gamigion.com/every-great-game-is-a-fight": {
+      "hash": "2f1ec7aa1ea11779896a8f56dd87b0d0b1e752086e5e8a49a174a39dfb318040",
+      "file": "001_Every Great Game is a FIGHT.md"
+    },
+    "https://www.gamigion.com/solo-dev-is-tough-hello-head-of-everything": {
+      "hash": "002cb899ae6c98be1846bdf5c835e2771a94620d8d8718dcc2e9477074a20759",
+      "file": "002_Solo Dev is tough hello Head of Everything.md"
+    },
+    "https://www.gamigion.com/indian-gaming-industry-surge": {
+      "hash": "1e49c92f4c7a44b268b8106b96a7395bfc85a68a84beaaa8b6633f208b61fea4",
+      "file": "003_Indian Gaming Industry Surge.md"
+    },
+    "https://www.gamigion.com/how-to-get-10-game-ideas-in-under-2-min": {
+      "hash": "022006951bbdb0748060ccf0d73d6cf914354390aa1f4bdd29744fd9cf43c2de",
+      "file": "004_How to get 10 game ideas in under 2 min.md"
+    },
+    "https://www.gamigion.com/8-things-games-do-better-than-any-art": {
+      "hash": "9bf92f618078dcd83a27fd784c1acbfdff9ea773a842ebc62af78c5b395fbfef",
+      "file": "005_8 Things Games Do Better Than Any Art.md"
+    },
+    "https://www.gamigion.com/20-metrics-game-devs-must-track": {
+      "hash": "e9ae8233a543932774c5700fbbc93126c9a6f8f99192dc08b6aa831853d1f7be",
+      "file": "006_20 Metrics Game Devs Must Track.md"
+    },
+    "https://www.gamigion.com/the-80-to-20-rule-in-game-dev-design": {
+      "hash": "b1fc2b0850d60d1899d397351953c8825ab76d50f0f7a3946924c83e7f5709c6",
+      "file": "007_The 80 to 20 Rule in Game Dev  Design.md"
+    },
+    "https://www.gamigion.com/keep-your-live-ops-game-healthy": {
+      "hash": "ad60dddc444f51f9247812e9d385deedbacb0b77ca33ae652745129c92c415d3",
+      "file": "008_Keep Your Live Ops Game Healthy.md"
+    },
+    "https://www.gamigion.com/game-development-isnt-just-about-coding": {
+      "hash": "8ee0c432261ca6a47cf542817605d168d24a85560c61c8025bc55546448ef210",
+      "file": "009_Game development isnt just about coding.md"
+    },
+    "https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close-2": {
+      "hash": "716421ca09840f0ced52ceb945abdcf97146569d3a57729ee92b25777780e643",
+      "file": "010_20 metrics all game devs should hold close.md"
+    },
+    "https://www.gamigion.com/90-of-games-fail-at-monetization": {
+      "hash": "008bd88b5e1ec989f3a9920e45c061317898ffa2e9ba834f5aaa125c7889bb3f",
+      "file": "011_90 of Games Fail at Monetization.md"
+    },
+    "https://www.gamigion.com/the-gaming-industry-is-not-what-you-think": {
+      "hash": "324fb37eada9af41d5162ed468cd577b4ff5ae1a0661788cd1caad66e2ef7c24",
+      "file": "012_The gaming industry is NOT what you think.md"
+    },
+    "https://www.gamigion.com/5-game-systems-to-make-your-game-stick": {
+      "hash": "1de8988ab0aed91161702dace00f98c82fed3139c77ea661585520d9dbb1e244",
+      "file": "013_5 Game Systems to Make Your Game Stick.md"
+    },
+    "https://www.gamigion.com/9-traps-that-kill-your-game": {
+      "hash": "59d9b7815d7b1e7ecc21318d04fdb232e4e5358de9e8608276346dc8eafb40a7",
+      "file": "014_9 Traps That Kill Your Game.md"
+    },
+    "https://www.gamigion.com/how-games-manipulate-emotions": {
+      "hash": "b8b2b0a792cc5ae734a1533ff8f0a2fa67e7fd873cd8e11ac86b9c8bf1c847fd",
+      "file": "015_How Games Manipulate Emotions.md"
+    },
+    "https://www.gamigion.com/gaming-factory-professions": {
+      "hash": "9eb637d48191548c8f5a7db9718d3c4a83618b2704444bb33ec057efb09aaaca",
+      "file": "016_Gaming Factory Professions.md"
+    },
+    "https://www.gamigion.com/musk-gaming": {
+      "hash": "f06828684f69aa3fea89db14e554b7d52aff1d3386e7fc5510fb5cfb948f898c",
+      "file": "017_Musk  Gaming.md"
+    },
+    "https://www.gamigion.com/how-to-design-your-player-journey-map": {
+      "hash": "0a740a385cd804210e766ca9e638991ebda6066ad15a4b49e8e9488edd8efaa2",
+      "file": "018_How to design your player journey map.md"
+    },
+    "https://www.gamigion.com/mistakes-new-game-devs-make": {
+      "hash": "174143d93f70516333d284d02f6f4e07f60b3726f366a00a597ab719542443bc",
+      "file": "019_Mistakes New Game Devs Make.md"
+    },
+    "https://www.gamigion.com/are-you-interested-in-game-development": {
+      "hash": "34fd32ee235f91738829b00a252fd76fcfd7c98952fb21d1980d1dc8fec74d0b",
+      "file": "020_Are you interested in Game Development.md"
+    },
+    "https://www.gamigion.com/craft-your-own-masters-degree-in-game-publishing": {
+      "hash": "261bd0962160c8263ed1e43f36a000234970b6cfcec5abe217992fb83bb5132d",
+      "file": "021_Craft your own Masters Degree in Game Publishing.md"
+    },
+    "https://www.gamigion.com/control-your-career-game": {
+      "hash": "d6c48095d9c095020924477e59ed71162979533ae3d363d4788cbb9a949e200b",
+      "file": "022_Control Your Career Game.md"
+    },
+    "https://www.gamigion.com/great-games-know-this-key-to-players-needs-2": {
+      "hash": "16ca3823e859ea60a7d824cda011e14aa90b667d59377422c0d597d240c71e15",
+      "file": "023_Great games know this key to players needs.md"
+    },
+    "https://www.gamigion.com/whats-the-supreme-boss-level-in-game-dev": {
+      "hash": "35d3310094201091828d3da1f980466eed0254683bda19c136e73d4761ad7348",
+      "file": "024_Whats the supreme boss level in Game Dev.md"
+    },
+    "https://www.gamigion.com/boosting-retention-in-your-game": {
+      "hash": "00e21c7e56f472447cc1b9cdf37744e6c97471240ec89be2125b675a623225a8",
+      "file": "025_Boosting Retention in Your Game.md"
+    },
+    "https://www.gamigion.com/whats-the-biggest-delusion-in-game-dev": {
+      "hash": "cfec644e95479a21a3f8c04ba1dcb40b4e37486d3a819b621234eaacb6943216",
+      "file": "026_Whats the biggest delusion in Game Dev.md"
+    },
+    "https://www.gamigion.com/linkedin-expands-its-puzzle-lineup-w-tango": {
+      "hash": "5ec9fe7a53f1e45ea8c4455c2195a552171f8f7e4da94e6fcc76e9177d61bbc5",
+      "file": "027_LinkedIn expands its puzzle lineup w Tango.md"
+    },
+    "https://www.gamigion.com/10-advice-to-ruin-your-game": {
+      "hash": "f4425051fc4dbf5e0c3c9f8449fce377230f3ac4b66081e1279f1eef2e37945e",
+      "file": "028_10 Advice to Ruin Your Game.md"
+    },
+    "https://www.gamigion.com/what-to-keep-your-game-fresh": {
+      "hash": "2e472353f713dba6028999ed95c1ac9cfd2629d2079a808d90d81aeaed887bae",
+      "file": "029_How to keep your game fresh.md"
+    },
+    "https://www.gamigion.com/want-to-start-your-career-in-game-dev": {
+      "hash": "04794ae61b96d963b5d35dd8abe7f394e06f924d542d0af97b28a104c4c5163d",
+      "file": "030_Want to start your career in Game Dev.md"
+    },
+    "https://www.gamigion.com/think-the-gaming-industry-is-just-for-nerds": {
+      "hash": "bca4480e611c9227ac8ab8df9c669c7d630aedb87e77e77bb2b629669a87efa0",
+      "file": "031_Think the gaming industry is just for nerds.md"
+    },
+    "https://www.gamigion.com/im-44-and-i-joined-it-in-my-3rd-year-at-university": {
+      "hash": "516d60205de1254b56659ae863e63ba5ea74cb90894636d0073489323c86a8ed",
+      "file": "032_Im 44 and I joined IT in my 3rd year at university.md"
+    },
+    "https://www.gamigion.com/know-the-70-20-10-rule": {
+      "hash": "a83695e144189e231943dfeb474e36a3da1ac5cc373e04aa67ed5cad3199e2d3",
+      "file": "033_Know the 702010 rule.md"
+    },
+    "https://www.gamigion.com/new-game-dev-reality-check": {
+      "hash": "1abb0b564c27cf0c0521f699372533517222234869127d40cd559922a54d0a95",
+      "file": "034_New Game Dev Reality Check.md"
+    },
+    "https://www.gamigion.com/which-ad-format-fits-gaming": {
+      "hash": "95db78c7418846f61bfe1bfef0b78be78182f8598d227193d80532cbc56d2dea",
+      "file": "035_Which Ad Format Fits Gaming.md"
+    },
+    "https://www.gamigion.com/starting-your-journey-as-a-game-developer": {
+      "hash": "846f266e88353241757570cddcae6bd0d9499297e9d90895754930aa17087ce7",
+      "file": "036_Starting your journey as a Game Developer.md"
+    },
+    "https://www.gamigion.com/what-does-the-gaming-industry-need-most-right-now": {
+      "hash": "73315cd654146eaff2f230cb42aa62c3d4407a5b7cf5b1b524c3fb48ef360b91",
+      "file": "037_What does the Gaming Industry need most right now.md"
+    },
+    "https://www.gamigion.com/10-ways-players-spot-bad-games": {
+      "hash": "060a9a477e1131a7ccfeea9ed0f0b91a0b82613bfaf8ddb0acd114e42cd7c205",
+      "file": "038_10 Ways Players Spot Bad Games.md"
+    },
+    "https://www.gamigion.com/how-is-the-gaming-entertainment-curve": {
+      "hash": "c64bb079528c8d8d7a1588e608eb24022841a366e37deb2e9e256a3107e37516",
+      "file": "039_How is The Gaming Entertainment Curve.md"
+    },
+    "https://www.gamigion.com/50-of-baby-boomers-are-playing-games": {
+      "hash": "8472603bbd59e410b65b9dc05e334015e2b355e75b6e8cd0a4fb262487954694",
+      "file": "040_50 of Baby Boomers Are Playing Games.md"
+    },
+    "https://www.gamigion.com/sorry-gamers-but-i-have-to-say-this": {
+      "hash": "c099a7118e6009a2b3e9ebece6d5ccd4353072fc74401e0db546adad1384362b",
+      "file": "041_Sorry gamers but I have to say this.md"
+    },
+    "https://www.gamigion.com/want-to-keep-your-players-engaged": {
+      "hash": "d8cee8963ef8175be18a2fc115c745e8c3204b19e1a71d0bb175a533afc168d9",
+      "file": "042_Want to keep your players engaged.md"
+    },
+    "https://www.gamigion.com/20-metrics-all-game-devs-should-hold-close": {
+      "hash": "047efd21709afea8ce0fae2e0f9584b1b301971fa09121df00b60b9f4a45aa66",
+      "file": "043_20 Metrics All Game Devs Should Hold Close.md"
+    },
+    "https://www.gamigion.com/you-can-make-millions-at-a-price-point-of-0": {
+      "hash": "29a3f50a7e45636a7a698a7eaf21e7dc35eb6f65f888ab52d585da51fe97d470",
+      "file": "044_You can make Millions at a price point of 0.md"
+    },
+    "https://www.gamigion.com/what-connects-game-and-states-economies": {
+      "hash": "956b0ceadaa3b217660e9ee6449ae1e117a469ad754d68084877eb4452686d7c",
+      "file": "045_What connects Game and States Economies.md"
+    },
+    "https://www.gamigion.com/how-to-explain-the-80-20-rule-so-even-a-kid-can-understand": {
+      "hash": "413cf82740b4ed11fbc4c134183fdf98b9d934bcf8b0b34d079437f200cbba17",
+      "file": "046_How to explain the 8020 rule so even a kid can understand.md"
+    },
+    "https://www.gamigion.com/things-no-one-tells-you-about-being-a-leader": {
+      "hash": "53ffdd51806e20680985a713d3f6c406c4e79e375183fca2993edc0704eb7aef",
+      "file": "047_Things no one tells you about being a leader.md"
+    },
+    "https://www.gamigion.com/how-to-boost-player-engagement": {
+      "hash": "f88a8f0253812d25debb569b570eb02d06906155677ddf239f9500d74b9487b0",
+      "file": "048_How To Boost Player Engagement.md"
+    },
+    "https://www.gamigion.com/10-signs-of-a-decent-game": {
+      "hash": "231f8559479aca0d864df39788c2a272209db87134d9d4af3ce1734d9bd92efe",
+      "file": "049_10 Signs Of a Decent Game.md"
+    },
+    "https://www.gamigion.com/entertain-your-players-with-events": {
+      "hash": "72f17287cbb7d5f311d07bc99f624b8519c2d725a746c90431de22015741a4aa",
+      "file": "050_ENTERTAIN YOUR PLAYERS WITH EVENTS.md"
+    },
+    "https://www.gamigion.com/game-development-tools-landscape": {
+      "hash": "4a6779452dd2f04d219e6de729b2ef3bb9b8e8ce08e14477e061dd0a4f26c2d7",
+      "file": "051_Game Development Tools Landscape.md"
+    },
+    "https://www.gamigion.com/many-screw-up-live-service-games": {
+      "hash": "ad14262b9aafe30423fc2a47b08fcfab97f5f4d2cdda264d924b2ef62f033cb5",
+      "file": "052_Many screw up live service games.md"
+    },
+    "https://www.gamigion.com/want-to-keep-your-live-service-game-healthy": {
+      "hash": "da920d2e168403637914afe1735e5af04319cb5b760cf4c464e69414104449e2",
+      "file": "053_Want to keep your live service game healthy.md"
+    },
+    "https://www.gamigion.com/great-games-know-this-key-to-players-needs": {
+      "hash": "b59fdf07ac937bc9bce0a346264f76fd23226167942a8a924c36dbf5d9c59db9",
+      "file": "054_Great games know this key to players needs.md"
+    },
+    "https://www.gamigion.com/the-new-york-times-emerges-as-a-game-company": {
+      "hash": "309bb12fc09daa4a2895723e102b888341763405474dda95cc6f1c92ce40edcf",
+      "file": "055_The New York Times emerges as a game company.md"
+    },
+    "https://www.gamigion.com/pay-to-play-games-hexa-sort": {
+      "hash": "a108c25a387ce730bfa31a57195c5e20e9982656a757e10484a3077347dd0633",
+      "file": "001_Pay to Play Games Hexa Sort.md"
+    },
+    "https://www.gamigion.com/slots-solitaire-bingo-what-unites-successful-events": {
+      "hash": "ad42f52b83c3ba55de67a5ed99cb908fc974a77adc2b9f91519cb23ad7087512",
+      "file": "002_Slots Solitaire  Bingo What Unites Successful Events.md"
+    },
+    "https://www.gamigion.com/royal-match-how-new-event-design-increased-revenue-by-14-6": {
+      "hash": "381ed9d97a2b2e4536f0381f3b18af212fcb0a8f38f3f9361554045449ec017b",
+      "file": "003_Royal Match How New Event Design Increased Revenue by 146.md"
+    },
+    "https://www.gamigion.com/game-deconstruction-magic-sort-by-grand-games": {
+      "hash": "9f655d5cbb9afc07a515e6fd7f398f0b36f2a56cd120c839a260a98444e0a369",
+      "file": "004_Game Deconstruction Magic Sort by Grand Games.md"
+    },
+    "https://www.gamigion.com/the-event-strategy-that-got-players-hooked-and-paid-off": {
+      "hash": "66c5c1216ff4ce89193c447abf01cda2ba9ee801fccf7f79c74bcb3bd5a6f17f",
+      "file": "005_The Event Strategy That Got Players Hooked and Paid Off.md"
+    },
+    "https://www.gamigion.com/fishdom-by-playrix-fantastic-results": {
+      "hash": "3ca9549a2dd27eeaac2ffa094d3b65c7aeee0df52fba9b11f78c9f4a7050f399",
+      "file": "006_Fishdom by Playrix Fantastic Results.md"
+    },
+    "https://www.gamigion.com/extraordinary-results-from-monopoly-gos-tycoon-racers-event": {
+      "hash": "98fee3ef7c05f73faeb61996314061c32654cd66d61a3ab36ab4fdaa176aff52",
+      "file": "007_Extraordinary results from Monopoly Gos Tycoon Racers event.md"
+    },
+    "https://www.gamigion.com/smart-monetization-approach-for-hard-levels-in-match-3-games": {
+      "hash": "076e4a2115969f9cf7e5c6ed421eed6dc2e4caeced7bb8abab4466b4c87142af",
+      "file": "008_Smart Monetization Approach for Hard Levels in Match-3 Games.md"
+    },
+    "https://www.gamigion.com/web-stores-impact-trends": {
+      "hash": "731a8fe084b18d5c33cf3da066f5c537e3ca002fada8f1a089a2538d01d5f69b",
+      "file": "009_Web Stores Impact  Trends.md"
+    },
+    "https://www.gamigion.com/successful-growth-strategy-behind-dice-dreams": {
+      "hash": "578cc56c2ec498cf577b7fc8ac12c06779a7ae817f6043fc6b4ae68fce6f1de2",
+      "file": "010_Successful Growth Strategy Behind Dice Dreams.md"
+    },
+    "https://www.gamigion.com/multiple-paid-pass-boost-player-choice-rewards-playtimes-and-revenue": {
+      "hash": "3636ecf689c99a432d6aaab61f8e155ba98649325e92636a87e7d3cfd1bb2857",
+      "file": "011_Multiple Paid Pass Boost Player Choice Rewards Playtimes And Revenue.md"
+    },
+    "https://www.gamigion.com/candy-crush-sagas-unique-challenge-for-more-lives": {
+      "hash": "fc37739aa53ac02befb5fcbc71507389d3ea9e289b6060ca2bc68df0c3f3cb5f",
+      "file": "012_Candy Crush Sagas Unique Challenge For More Lives.md"
+    },
+    "https://www.gamigion.com/what-do-you-like-most-about-your-job": {
+      "hash": "489a10805410b0cc8b1132a96c8d0003e96dd374b3778a8c75074f25ce7117b7",
+      "file": "013_What Do You Like Most About Your Job.md"
+    },
+    "https://www.gamigion.com/all-players-are-paying-with-different-payment-methods": {
+      "hash": "964a4bab886f45004df7d3f1afbcb6c67bdae0fe6ab941f4325a4fe0ac5fee7e",
+      "file": "014_All Players Are Paying With Different Payment Methods.md"
+    },
+    "https://www.gamigion.com/personalized-gaming-offers-through-phone-numbers": {
+      "hash": "0e80aaf6b9d236de939a6f632c54a746c5c762f63466bb9d0089a927d844219a",
+      "file": "015_Personalized Gaming Offers Through Phone Numbers.md"
+    },
+    "https://www.gamigion.com/innovative-daily-bonus-strategies-on-retention-and-monetization": {
+      "hash": "ca69860aefe12fca3507ed4da0c6b7f66ba17182fe9f05f9afa7bcc539a1bc13",
+      "file": "016_Innovative Daily Bonus Strategies On Retention and Monetization.md"
+    },
+    "https://www.gamigion.com/increase-player-retention-through-in-app-purchases": {
+      "hash": "3e8fadb059815c624f3202e2df21ae02b4cad6e24c5fc58fb757b6088259a90e",
+      "file": "017_Increase Player Retention Through In-App Purchases.md"
+    },
+    "https://www.gamigion.com/increased-holiday-events-and-sales-in-games": {
+      "hash": "cd1225229e8194d6884a0bc8d2a73d9a11c417c1e1250114edc717050a63ba4f",
+      "file": "018_Increased Holiday Events And Sales In Games.md"
+    },
+    "https://www.gamigion.com/win-streak-offer-in-candy-crush-saga-by-king": {
+      "hash": "46381d511194fe8079dcb4437dab5d396bdcb075ed20214c853acdcad25a9d4c",
+      "file": "019_Win Streak Offer In Candy Crush Saga By King.md"
+    },
+    "https://www.gamigion.com/how-monopoly-go-leverages-coin-masters-live-ops-strategies": {
+      "hash": "598cd551f384e36c7f4f3a81e10c5c852b664b449825d2fac1d17f0479378f20",
+      "file": "020_How Monopoly GO Leverages Coin Masters Live Ops Strategies.md"
+    },
+    "https://www.gamigion.com/unlocking-success-in-monopoly-go-first-purchases": {
+      "hash": "b892ca86917e6e0b0b6b1511ea3ec81ce05f77a0d7318338b83a66297c2b864f",
+      "file": "021_Unlocking Success In Monopoly GO First Purchases.md"
+    },
+    "https://www.gamigion.com/boosting-monetization-season-pass-in-candy-crush-soda-saga": {
+      "hash": "7a0f6a8a5dba8bded6ea87df2ca9675884577af2c9552386da4ab7875eafe28b",
+      "file": "022_Boosting Monetization Season Pass In Candy Crush Soda Saga.md"
+    },
+    "https://www.gamigion.com/mobile-game-web-shops-analysis": {
+      "hash": "75e133a16e644ceb027241293d60356788c47ad871d67faa8277416fdd9a3425",
+      "file": "023_Mobile Game Web Shops Analysis.md"
+    },
+    "https://www.gamigion.com/boosting-virality-with-irresistible-free-subscriptions": {
+      "hash": "20a34fbf01ef323185b2579c5ec6c935dc07ef994e2171a9e9a0d67c16b87192",
+      "file": "024_Boosting Virality with Irresistible Free Subscriptions.md"
+    },
+    "https://www.gamigion.com/increase-revenue-and-conversions-with-non-standard-offers": {
+      "hash": "a1278efe725dfdfdc4841c95cc31891080d26b2346b2275a01fa399082d44797",
+      "file": "025_Increase Revenue and Conversions with Non-Standard Offers.md"
+    },
+    "https://www.gamigion.com/strategy-to-convert-non-paying-users-into-paying-customers": {
+      "hash": "541fbdae8bfe2de6ce850ea4979c71ca5b453d753a51daad358d0f69fd29dca5",
+      "file": "026_Strategy To Convert Non-Paying Users Into Paying Customers.md"
+    },
+    "https://www.gamigion.com/interesting-example-of-survivorship-bias-in-live-ops": {
+      "hash": "7322030bd29178f04d9826882edfb57884177076411497584158e9342545c17d",
+      "file": "027_Interesting Example Of Survivorship Bias In Live Ops.md"
+    },
+    "https://www.gamigion.com/toon-blast-live-ops-piggy-bank-for-free": {
+      "hash": "c93ce1a74604e313178783d8865ce98c782bae302b48da35f8753dde01a385b6",
+      "file": "028_Toon Blast Live Ops Piggy Bank for FREE.md"
+    },
+    "https://www.gamigion.com/increase-player-engagement-retention-and-monetization": {
+      "hash": "6b5a7884e3bab5ffbdb661ba17b9137e3544aae48b819eedec70c789efdb833f",
+      "file": "029_Increase Player Engagement Retention And Monetization.md"
+    },
+    "https://www.gamigion.com/boosting-game-virality-with-innovative-prize-draws": {
+      "hash": "ef9a77327c9f784163c0292802cd380c64c120fe26ee8dfd7ba6a90d2716000d",
+      "file": "030_Boosting Game Virality with Innovative Prize Draws.md"
+    },
+    "https://www.gamigion.com/enhancing-game-metrics-seasonal-pass-and-super-boosters": {
+      "hash": "9ccda941ad711a0845309a022d7516d4c69dc06f08218507c9195da4a246790b",
+      "file": "031_Enhancing Game Metrics Seasonal Pass and Super Boosters.md"
+    }
+  }
+}
