@@ -1,4 +1,4 @@
-# Influencers
+
 ## Influencer Categories
 
 Browse influencers by category:
