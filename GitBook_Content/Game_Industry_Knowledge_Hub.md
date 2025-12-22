@@ -1,4 +1,4 @@
-##Game_Industry_Knowledge_Hub
+
 ## Influencer Categories
 
 Browse influencers by category:
